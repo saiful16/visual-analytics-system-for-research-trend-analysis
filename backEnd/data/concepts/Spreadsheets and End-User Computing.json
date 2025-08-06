@@ -1,0 +1,8833 @@
+{
+  "topic": "Spreadsheets and End-User Computing",
+  "levels": {
+    "0": {
+      "2020": [
+        {
+          "concept": "Computer science",
+          "count": 136
+        },
+        {
+          "concept": "Mathematics",
+          "count": 44
+        },
+        {
+          "concept": "Engineering",
+          "count": 37
+        },
+        {
+          "concept": "Business",
+          "count": 23
+        },
+        {
+          "concept": "Biology",
+          "count": 20
+        },
+        {
+          "concept": "Economics",
+          "count": 20
+        },
+        {
+          "concept": "Psychology",
+          "count": 17
+        },
+        {
+          "concept": "Philosophy",
+          "count": 15
+        },
+        {
+          "concept": "Medicine",
+          "count": 14
+        },
+        {
+          "concept": "Physics",
+          "count": 13
+        },
+        {
+          "concept": "Political science",
+          "count": 10
+        },
+        {
+          "concept": "Geography",
+          "count": 7
+        },
+        {
+          "concept": "Chemistry",
+          "count": 5
+        },
+        {
+          "concept": "Geology",
+          "count": 4
+        },
+        {
+          "concept": "Sociology",
+          "count": 4
+        },
+        {
+          "concept": "Art",
+          "count": 3
+        },
+        {
+          "concept": "Materials science",
+          "count": 3
+        },
+        {
+          "concept": "History",
+          "count": 2
+        },
+        {
+          "concept": "Environmental science",
+          "count": 2
+        }
+      ],
+      "2021": [
+        {
+          "concept": "Computer science",
+          "count": 128
+        },
+        {
+          "concept": "Mathematics",
+          "count": 41
+        },
+        {
+          "concept": "Engineering",
+          "count": 27
+        },
+        {
+          "concept": "Physics",
+          "count": 21
+        },
+        {
+          "concept": "Economics",
+          "count": 21
+        },
+        {
+          "concept": "Biology",
+          "count": 21
+        },
+        {
+          "concept": "Business",
+          "count": 19
+        },
+        {
+          "concept": "Philosophy",
+          "count": 15
+        },
+        {
+          "concept": "Psychology",
+          "count": 13
+        },
+        {
+          "concept": "Medicine",
+          "count": 11
+        },
+        {
+          "concept": "Political science",
+          "count": 10
+        },
+        {
+          "concept": "Chemistry",
+          "count": 7
+        },
+        {
+          "concept": "Art",
+          "count": 3
+        },
+        {
+          "concept": "Geology",
+          "count": 3
+        },
+        {
+          "concept": "Materials science",
+          "count": 3
+        },
+        {
+          "concept": "History",
+          "count": 2
+        },
+        {
+          "concept": "Sociology",
+          "count": 2
+        },
+        {
+          "concept": "Geography",
+          "count": 2
+        },
+        {
+          "concept": "Environmental science",
+          "count": 1
+        }
+      ],
+      "2022": [
+        {
+          "concept": "Computer science",
+          "count": 88
+        },
+        {
+          "concept": "Mathematics",
+          "count": 43
+        },
+        {
+          "concept": "Engineering",
+          "count": 18
+        },
+        {
+          "concept": "Economics",
+          "count": 15
+        },
+        {
+          "concept": "Psychology",
+          "count": 15
+        },
+        {
+          "concept": "Philosophy",
+          "count": 14
+        },
+        {
+          "concept": "Biology",
+          "count": 13
+        },
+        {
+          "concept": "Business",
+          "count": 12
+        },
+        {
+          "concept": "Physics",
+          "count": 12
+        },
+        {
+          "concept": "Political science",
+          "count": 9
+        },
+        {
+          "concept": "Medicine",
+          "count": 8
+        },
+        {
+          "concept": "History",
+          "count": 6
+        },
+        {
+          "concept": "Sociology",
+          "count": 5
+        },
+        {
+          "concept": "Geology",
+          "count": 5
+        },
+        {
+          "concept": "Chemistry",
+          "count": 3
+        },
+        {
+          "concept": "Geography",
+          "count": 2
+        },
+        {
+          "concept": "Art",
+          "count": 2
+        }
+      ],
+      "2023": [
+        {
+          "concept": "Computer science",
+          "count": 83
+        },
+        {
+          "concept": "Mathematics",
+          "count": 29
+        },
+        {
+          "concept": "Engineering",
+          "count": 23
+        },
+        {
+          "concept": "Business",
+          "count": 18
+        },
+        {
+          "concept": "Economics",
+          "count": 16
+        },
+        {
+          "concept": "Biology",
+          "count": 16
+        },
+        {
+          "concept": "Physics",
+          "count": 14
+        },
+        {
+          "concept": "Political science",
+          "count": 14
+        },
+        {
+          "concept": "Psychology",
+          "count": 14
+        },
+        {
+          "concept": "Philosophy",
+          "count": 9
+        },
+        {
+          "concept": "Medicine",
+          "count": 6
+        },
+        {
+          "concept": "Chemistry",
+          "count": 5
+        },
+        {
+          "concept": "Sociology",
+          "count": 5
+        },
+        {
+          "concept": "History",
+          "count": 5
+        },
+        {
+          "concept": "Art",
+          "count": 3
+        },
+        {
+          "concept": "Environmental science",
+          "count": 2
+        },
+        {
+          "concept": "Materials science",
+          "count": 2
+        },
+        {
+          "concept": "Geography",
+          "count": 2
+        },
+        {
+          "concept": "Geology",
+          "count": 1
+        }
+      ],
+      "2024": [
+        {
+          "concept": "Computer science",
+          "count": 116
+        },
+        {
+          "concept": "Mathematics",
+          "count": 35
+        },
+        {
+          "concept": "Engineering",
+          "count": 32
+        },
+        {
+          "concept": "Economics",
+          "count": 19
+        },
+        {
+          "concept": "Physics",
+          "count": 13
+        },
+        {
+          "concept": "Business",
+          "count": 13
+        },
+        {
+          "concept": "Biology",
+          "count": 11
+        },
+        {
+          "concept": "Psychology",
+          "count": 9
+        },
+        {
+          "concept": "Political science",
+          "count": 7
+        },
+        {
+          "concept": "Medicine",
+          "count": 6
+        },
+        {
+          "concept": "Philosophy",
+          "count": 5
+        },
+        {
+          "concept": "Sociology",
+          "count": 4
+        },
+        {
+          "concept": "History",
+          "count": 3
+        },
+        {
+          "concept": "Geography",
+          "count": 3
+        },
+        {
+          "concept": "Environmental science",
+          "count": 3
+        },
+        {
+          "concept": "Chemistry",
+          "count": 2
+        },
+        {
+          "concept": "Art",
+          "count": 2
+        },
+        {
+          "concept": "Geology",
+          "count": 2
+        }
+      ]
+    },
+    "2": {
+      "2020": [
+        {
+          "concept": "Software",
+          "count": 23
+        },
+        {
+          "concept": "Set (abstract data type)",
+          "count": 14
+        },
+        {
+          "concept": "Process (computing)",
+          "count": 11
+        },
+        {
+          "concept": "End user",
+          "count": 9
+        },
+        {
+          "concept": "Context (archaeology)",
+          "count": 9
+        },
+        {
+          "concept": "Task (project management)",
+          "count": 8
+        },
+        {
+          "concept": "Service (business)",
+          "count": 6
+        },
+        {
+          "concept": "Internet of Things",
+          "count": 6
+        },
+        {
+          "concept": "Table (database)",
+          "count": 6
+        },
+        {
+          "concept": "The Internet",
+          "count": 5
+        },
+        {
+          "concept": "Field (mathematics)",
+          "count": 5
+        },
+        {
+          "concept": "Visual Basic for Applications",
+          "count": 5
+        },
+        {
+          "concept": "Personalization",
+          "count": 4
+        },
+        {
+          "concept": "Robot",
+          "count": 4
+        },
+        {
+          "concept": "Test (biology)",
+          "count": 4
+        },
+        {
+          "concept": "Semantics (computer science)",
+          "count": 4
+        },
+        {
+          "concept": "Work (physics)",
+          "count": 4
+        },
+        {
+          "concept": "Calculus (dental)",
+          "count": 4
+        },
+        {
+          "concept": "Microsoft excel",
+          "count": 4
+        },
+        {
+          "concept": "Domain (mathematical analysis)",
+          "count": 4
+        },
+        {
+          "concept": "Abstraction",
+          "count": 3
+        },
+        {
+          "concept": "Identification (biology)",
+          "count": 3
+        },
+        {
+          "concept": "Action (physics)",
+          "count": 3
+        },
+        {
+          "concept": "Row",
+          "count": 3
+        },
+        {
+          "concept": "Reuse",
+          "count": 3
+        },
+        {
+          "concept": "Presentation (obstetrics)",
+          "count": 3
+        },
+        {
+          "concept": "Flexibility (engineering)",
+          "count": 3
+        },
+        {
+          "concept": "Analytics",
+          "count": 3
+        },
+        {
+          "concept": "Curriculum",
+          "count": 3
+        },
+        {
+          "concept": "Class (philosophy)",
+          "count": 3
+        },
+        {
+          "concept": "Solver",
+          "count": 3
+        },
+        {
+          "concept": "Quality (philosophy)",
+          "count": 3
+        },
+        {
+          "concept": "Monte Carlo method",
+          "count": 3
+        },
+        {
+          "concept": "Training (meteorology)",
+          "count": 3
+        },
+        {
+          "concept": "Usability",
+          "count": 2
+        },
+        {
+          "concept": "Syntax",
+          "count": 2
+        },
+        {
+          "concept": "Order (exchange)",
+          "count": 2
+        },
+        {
+          "concept": "Programming paradigm",
+          "count": 2
+        },
+        {
+          "concept": "Implementation",
+          "count": 2
+        },
+        {
+          "concept": "Computation",
+          "count": 2
+        },
+        {
+          "concept": "Interpretation (philosophy)",
+          "count": 2
+        },
+        {
+          "concept": "Mars Exploration Program",
+          "count": 2
+        },
+        {
+          "concept": "Graphics",
+          "count": 2
+        },
+        {
+          "concept": "Copying",
+          "count": 2
+        },
+        {
+          "concept": "Notation",
+          "count": 2
+        },
+        {
+          "concept": "Perspective (graphical)",
+          "count": 2
+        },
+        {
+          "concept": "Measure (data warehouse)",
+          "count": 2
+        },
+        {
+          "concept": "Web service",
+          "count": 2
+        },
+        {
+          "concept": "Web application",
+          "count": 2
+        },
+        {
+          "concept": "Maturity (psychological)",
+          "count": 2
+        },
+        {
+          "concept": "Worksheet",
+          "count": 2
+        },
+        {
+          "concept": "Automation",
+          "count": 2
+        },
+        {
+          "concept": "Natural language",
+          "count": 2
+        },
+        {
+          "concept": "Production (economics)",
+          "count": 2
+        },
+        {
+          "concept": "Regression analysis",
+          "count": 2
+        },
+        {
+          "concept": "Regression",
+          "count": 2
+        },
+        {
+          "concept": "Cash flow",
+          "count": 2
+        },
+        {
+          "concept": "Statement (logic)",
+          "count": 2
+        },
+        {
+          "concept": "Politics",
+          "count": 2
+        },
+        {
+          "concept": "Variety (cybernetics)",
+          "count": 2
+        },
+        {
+          "concept": "Sensitivity (control systems)",
+          "count": 2
+        },
+        {
+          "concept": "Schedule",
+          "count": 2
+        },
+        {
+          "concept": "Accounting information system",
+          "count": 2
+        },
+        {
+          "concept": "Android (operating system)",
+          "count": 2
+        },
+        {
+          "concept": "Metric (unit)",
+          "count": 2
+        },
+        {
+          "concept": "Project management",
+          "count": 2
+        },
+        {
+          "concept": "Population",
+          "count": 2
+        },
+        {
+          "concept": "Shadow (psychology)",
+          "count": 2
+        },
+        {
+          "concept": "Internship",
+          "count": 2
+        },
+        {
+          "concept": "Domain knowledge",
+          "count": 2
+        },
+        {
+          "concept": "Consistency (knowledge bases)",
+          "count": 2
+        },
+        {
+          "concept": "Scheduling (production processes)",
+          "count": 2
+        },
+        {
+          "concept": "Grading (engineering)",
+          "count": 2
+        },
+        {
+          "concept": "Conceptualization",
+          "count": 1
+        },
+        {
+          "concept": "Executable",
+          "count": 1
+        },
+        {
+          "concept": "Debugging",
+          "count": 1
+        },
+        {
+          "concept": "Rule-based system",
+          "count": 1
+        },
+        {
+          "concept": "Block (permutation group theory)",
+          "count": 1
+        },
+        {
+          "concept": "Space (punctuation)",
+          "count": 1
+        },
+        {
+          "concept": "Abstract interpretation",
+          "count": 1
+        },
+        {
+          "concept": "MOZART",
+          "count": 1
+        },
+        {
+          "concept": "Software deployment",
+          "count": 1
+        },
+        {
+          "concept": "Modularity (biology)",
+          "count": 1
+        },
+        {
+          "concept": "Physics education",
+          "count": 1
+        },
+        {
+          "concept": "Diagram",
+          "count": 1
+        },
+        {
+          "concept": "User Friendly",
+          "count": 1
+        },
+        {
+          "concept": "Exploratory research",
+          "count": 1
+        },
+        {
+          "concept": "Collaborative software",
+          "count": 1
+        },
+        {
+          "concept": "Rough set",
+          "count": 1
+        },
+        {
+          "concept": "DNA",
+          "count": 1
+        },
+        {
+          "concept": "Disk formatting",
+          "count": 1
+        },
+        {
+          "concept": "POLK",
+          "count": 1
+        },
+        {
+          "concept": "Empowerment",
+          "count": 1
+        },
+        {
+          "concept": "Element (criminal law)",
+          "count": 1
+        },
+        {
+          "concept": "Cluster analysis",
+          "count": 1
+        },
+        {
+          "concept": "Scope (computer science)",
+          "count": 1
+        },
+        {
+          "concept": "Exploit",
+          "count": 1
+        },
+        {
+          "concept": "Cluster (spacecraft)",
+          "count": 1
+        },
+        {
+          "concept": "Scale (ratio)",
+          "count": 1
+        },
+        {
+          "concept": "Voice command device",
+          "count": 1
+        },
+        {
+          "concept": "Provisioning",
+          "count": 1
+        },
+        {
+          "concept": "Proof of concept",
+          "count": 1
+        },
+        {
+          "concept": "Composition (language)",
+          "count": 1
+        },
+        {
+          "concept": "End-to-end principle",
+          "count": 1
+        },
+        {
+          "concept": "Social media",
+          "count": 1
+        },
+        {
+          "concept": "Compensation (psychology)",
+          "count": 1
+        },
+        {
+          "concept": "Corporation",
+          "count": 1
+        },
+        {
+          "concept": "Tablet pc",
+          "count": 1
+        },
+        {
+          "concept": "Big data",
+          "count": 1
+        },
+        {
+          "concept": "Gaussian",
+          "count": 1
+        },
+        {
+          "concept": "Performance indicator",
+          "count": 1
+        },
+        {
+          "concept": "Performance measurement",
+          "count": 1
+        },
+        {
+          "concept": "Performance improvement",
+          "count": 1
+        },
+        {
+          "concept": "Performance management",
+          "count": 1
+        },
+        {
+          "concept": "Simulation modeling",
+          "count": 1
+        },
+        {
+          "concept": "Computational thinking",
+          "count": 1
+        },
+        {
+          "concept": "Educational technology",
+          "count": 1
+        },
+        {
+          "concept": "Informatics",
+          "count": 1
+        },
+        {
+          "concept": "Polynomial",
+          "count": 1
+        },
+        {
+          "concept": "Mindset",
+          "count": 1
+        },
+        {
+          "concept": "Control (management)",
+          "count": 1
+        },
+        {
+          "concept": "Channel (broadcasting)",
+          "count": 1
+        },
+        {
+          "concept": "Workflow",
+          "count": 1
+        },
+        {
+          "concept": "XML",
+          "count": 1
+        },
+        {
+          "concept": "Application programming interface",
+          "count": 1
+        },
+        {
+          "concept": "Intelligibility (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Central processing unit",
+          "count": 1
+        },
+        {
+          "concept": "Instruction set",
+          "count": 1
+        },
+        {
+          "concept": "Hematocrit",
+          "count": 1
+        },
+        {
+          "concept": "Project-based learning",
+          "count": 1
+        },
+        {
+          "concept": "Certification",
+          "count": 1
+        },
+        {
+          "concept": "Property (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Coursework",
+          "count": 1
+        },
+        {
+          "concept": "Architecture",
+          "count": 1
+        },
+        {
+          "concept": "Semiotics",
+          "count": 1
+        },
+        {
+          "concept": "Artificial neural network",
+          "count": 1
+        },
+        {
+          "concept": "Simplicity",
+          "count": 1
+        },
+        {
+          "concept": "Aside",
+          "count": 1
+        },
+        {
+          "concept": "Star (game theory)",
+          "count": 1
+        },
+        {
+          "concept": "Database design",
+          "count": 1
+        },
+        {
+          "concept": "Database transaction",
+          "count": 1
+        },
+        {
+          "concept": "Relational database",
+          "count": 1
+        },
+        {
+          "concept": "Graphical model",
+          "count": 1
+        },
+        {
+          "concept": "Session (web analytics)",
+          "count": 1
+        },
+        {
+          "concept": "Workbook",
+          "count": 1
+        },
+        {
+          "concept": "Macro",
+          "count": 1
+        },
+        {
+          "concept": "Value (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Cash",
+          "count": 1
+        },
+        {
+          "concept": "Science and engineering",
+          "count": 1
+        },
+        {
+          "concept": "Degree program",
+          "count": 1
+        },
+        {
+          "concept": "Inventory management",
+          "count": 1
+        },
+        {
+          "concept": "Sample (material)",
+          "count": 1
+        },
+        {
+          "concept": "Ms excel",
+          "count": 1
+        },
+        {
+          "concept": "Interface design",
+          "count": 1
+        },
+        {
+          "concept": "User interface",
+          "count": 1
+        },
+        {
+          "concept": "Bubble",
+          "count": 1
+        },
+        {
+          "concept": "Soundness",
+          "count": 1
+        },
+        {
+          "concept": "Simple (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Accreditation",
+          "count": 1
+        },
+        {
+          "concept": "Empathy",
+          "count": 1
+        },
+        {
+          "concept": "Automotive industry",
+          "count": 1
+        },
+        {
+          "concept": "Constraint (computer-aided design)",
+          "count": 1
+        },
+        {
+          "concept": "Limit (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Linear programming",
+          "count": 1
+        },
+        {
+          "concept": "Range (aeronautics)",
+          "count": 1
+        },
+        {
+          "concept": "Skewness",
+          "count": 1
+        },
+        {
+          "concept": "Cloud computing",
+          "count": 1
+        },
+        {
+          "concept": "Theme (computing)",
+          "count": 1
+        },
+        {
+          "concept": "Premise",
+          "count": 1
+        },
+        {
+          "concept": "Revenue",
+          "count": 1
+        },
+        {
+          "concept": "GRASP",
+          "count": 1
+        },
+        {
+          "concept": "Term (time)",
+          "count": 1
+        },
+        {
+          "concept": "Motion (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Cheating",
+          "count": 1
+        },
+        {
+          "concept": "Anxiety",
+          "count": 1
+        },
+        {
+          "concept": "Polymath",
+          "count": 1
+        },
+        {
+          "concept": "Weighting",
+          "count": 1
+        },
+        {
+          "concept": "Resource (disambiguation)",
+          "count": 1
+        },
+        {
+          "concept": "Project team",
+          "count": 1
+        },
+        {
+          "concept": "Bachelor",
+          "count": 1
+        },
+        {
+          "concept": "Fluid mechanics",
+          "count": 1
+        },
+        {
+          "concept": "Fluid dynamics",
+          "count": 1
+        },
+        {
+          "concept": "Computational fluid dynamics",
+          "count": 1
+        },
+        {
+          "concept": "Partial differential equation",
+          "count": 1
+        },
+        {
+          "concept": "Scarcity",
+          "count": 1
+        },
+        {
+          "concept": "Reading (process)",
+          "count": 1
+        },
+        {
+          "concept": "Animation",
+          "count": 1
+        },
+        {
+          "concept": "Scripting language",
+          "count": 1
+        },
+        {
+          "concept": "Wearable computer",
+          "count": 1
+        },
+        {
+          "concept": "Microcontroller",
+          "count": 1
+        },
+        {
+          "concept": "Arduino",
+          "count": 1
+        },
+        {
+          "concept": "FLEX",
+          "count": 1
+        },
+        {
+          "concept": "Body weight",
+          "count": 1
+        },
+        {
+          "concept": "Focus (optics)",
+          "count": 1
+        },
+        {
+          "concept": "Backtracking",
+          "count": 1
+        },
+        {
+          "concept": "Dialog box",
+          "count": 1
+        },
+        {
+          "concept": "Variable (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Random variable",
+          "count": 1
+        },
+        {
+          "concept": "Variables",
+          "count": 1
+        },
+        {
+          "concept": "Merge (version control)",
+          "count": 1
+        },
+        {
+          "concept": "Coding (social sciences)",
+          "count": 1
+        },
+        {
+          "concept": "Division (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Turn (biochemistry)",
+          "count": 1
+        },
+        {
+          "concept": "Financial modeling",
+          "count": 1
+        },
+        {
+          "concept": "Ode",
+          "count": 1
+        },
+        {
+          "concept": "Function (biology)",
+          "count": 1
+        },
+        {
+          "concept": "Settling",
+          "count": 1
+        },
+        {
+          "concept": "Differential equation",
+          "count": 1
+        },
+        {
+          "concept": "Sediment",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge base",
+          "count": 1
+        },
+        {
+          "concept": "Base (topology)",
+          "count": 1
+        },
+        {
+          "concept": "Precision and recall",
+          "count": 1
+        },
+        {
+          "concept": "Expert system",
+          "count": 1
+        },
+        {
+          "concept": "Gene",
+          "count": 1
+        },
+        {
+          "concept": "Null hypothesis",
+          "count": 1
+        },
+        {
+          "concept": "Checklist",
+          "count": 1
+        },
+        {
+          "concept": "Higher education",
+          "count": 1
+        },
+        {
+          "concept": "Point (geometry)",
+          "count": 1
+        },
+        {
+          "concept": "Travelling salesman problem",
+          "count": 1
+        },
+        {
+          "concept": "Traverse",
+          "count": 1
+        },
+        {
+          "concept": "Modal",
+          "count": 1
+        },
+        {
+          "concept": "Optimization problem",
+          "count": 1
+        },
+        {
+          "concept": "Routing (electronic design automation)",
+          "count": 1
+        },
+        {
+          "concept": "Economic impact analysis",
+          "count": 1
+        },
+        {
+          "concept": "Cost estimate",
+          "count": 1
+        },
+        {
+          "concept": "Estimation",
+          "count": 1
+        },
+        {
+          "concept": "Planner",
+          "count": 1
+        },
+        {
+          "concept": "Fertilizer",
+          "count": 1
+        },
+        {
+          "concept": "Agriculture",
+          "count": 1
+        },
+        {
+          "concept": "Yield (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Crop",
+          "count": 1
+        },
+        {
+          "concept": "Mach number",
+          "count": 1
+        },
+        {
+          "concept": "Flow (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Compressibility",
+          "count": 1
+        },
+        {
+          "concept": "Academic library",
+          "count": 1
+        },
+        {
+          "concept": "Hazardous waste",
+          "count": 1
+        },
+        {
+          "concept": "Testbed",
+          "count": 1
+        },
+        {
+          "concept": "Component (thermodynamics)",
+          "count": 1
+        },
+        {
+          "concept": "Ecosystem",
+          "count": 1
+        },
+        {
+          "concept": "Key (lock)",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical finance",
+          "count": 1
+        },
+        {
+          "concept": "Statistician",
+          "count": 1
+        },
+        {
+          "concept": "Experiential learning",
+          "count": 1
+        },
+        {
+          "concept": "Line (geometry)",
+          "count": 1
+        },
+        {
+          "concept": "Assembly line",
+          "count": 1
+        },
+        {
+          "concept": "Queue",
+          "count": 1
+        },
+        {
+          "concept": "Distribution (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Face (sociological concept)",
+          "count": 1
+        },
+        {
+          "concept": "Entrepreneurship",
+          "count": 1
+        },
+        {
+          "concept": "Information and Communications Technology",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge transfer",
+          "count": 1
+        },
+        {
+          "concept": "Emerging technologies",
+          "count": 1
+        },
+        {
+          "concept": "Electricity",
+          "count": 1
+        },
+        {
+          "concept": "Minor (academic)",
+          "count": 1
+        },
+        {
+          "concept": "Ball (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Data collection",
+          "count": 1
+        },
+        {
+          "concept": "Suite",
+          "count": 1
+        },
+        {
+          "concept": "Microsoft Office",
+          "count": 1
+        },
+        {
+          "concept": "Fact sheet",
+          "count": 1
+        },
+        {
+          "concept": "Restructuring",
+          "count": 1
+        },
+        {
+          "concept": "Layer (electronics)",
+          "count": 1
+        },
+        {
+          "concept": "Morse code",
+          "count": 1
+        },
+        {
+          "concept": "Critical path method",
+          "count": 1
+        },
+        {
+          "concept": "Object-oriented programming",
+          "count": 1
+        },
+        {
+          "concept": "Profit (economics)",
+          "count": 1
+        },
+        {
+          "concept": "Wax",
+          "count": 1
+        }
+      ],
+      "2021": [
+        {
+          "concept": "Software",
+          "count": 18
+        },
+        {
+          "concept": "Set (abstract data type)",
+          "count": 16
+        },
+        {
+          "concept": "End user",
+          "count": 12
+        },
+        {
+          "concept": "Microsoft excel",
+          "count": 12
+        },
+        {
+          "concept": "Process (computing)",
+          "count": 10
+        },
+        {
+          "concept": "Task (project management)",
+          "count": 10
+        },
+        {
+          "concept": "Usability",
+          "count": 9
+        },
+        {
+          "concept": "Context (archaeology)",
+          "count": 7
+        },
+        {
+          "concept": "Internet of Things",
+          "count": 7
+        },
+        {
+          "concept": "Domain (mathematical analysis)",
+          "count": 7
+        },
+        {
+          "concept": "The Internet",
+          "count": 6
+        },
+        {
+          "concept": "Visualization",
+          "count": 6
+        },
+        {
+          "concept": "Action (physics)",
+          "count": 5
+        },
+        {
+          "concept": "Simple (philosophy)",
+          "count": 5
+        },
+        {
+          "concept": "Analytics",
+          "count": 5
+        },
+        {
+          "concept": "Debugging",
+          "count": 5
+        },
+        {
+          "concept": "Visual Basic for Applications",
+          "count": 5
+        },
+        {
+          "concept": "Notation",
+          "count": 5
+        },
+        {
+          "concept": "Solver",
+          "count": 5
+        },
+        {
+          "concept": "Personalization",
+          "count": 4
+        },
+        {
+          "concept": "Service (business)",
+          "count": 4
+        },
+        {
+          "concept": "Function (biology)",
+          "count": 4
+        },
+        {
+          "concept": "User interface",
+          "count": 4
+        },
+        {
+          "concept": "Event (particle physics)",
+          "count": 4
+        },
+        {
+          "concept": "Block (permutation group theory)",
+          "count": 4
+        },
+        {
+          "concept": "Order (exchange)",
+          "count": 4
+        },
+        {
+          "concept": "Perspective (graphical)",
+          "count": 4
+        },
+        {
+          "concept": "Production (economics)",
+          "count": 4
+        },
+        {
+          "concept": "Recommender system",
+          "count": 3
+        },
+        {
+          "concept": "Gene",
+          "count": 3
+        },
+        {
+          "concept": "Home automation",
+          "count": 3
+        },
+        {
+          "concept": "Variety (cybernetics)",
+          "count": 3
+        },
+        {
+          "concept": "Bubble",
+          "count": 3
+        },
+        {
+          "concept": "Robot",
+          "count": 3
+        },
+        {
+          "concept": "Comprehension",
+          "count": 3
+        },
+        {
+          "concept": "Control (management)",
+          "count": 3
+        },
+        {
+          "concept": "Identification (biology)",
+          "count": 3
+        },
+        {
+          "concept": "Macro",
+          "count": 3
+        },
+        {
+          "concept": "Ms excel",
+          "count": 3
+        },
+        {
+          "concept": "Computational thinking",
+          "count": 3
+        },
+        {
+          "concept": "Rapid prototyping",
+          "count": 3
+        },
+        {
+          "concept": "Work (physics)",
+          "count": 3
+        },
+        {
+          "concept": "Class (philosophy)",
+          "count": 3
+        },
+        {
+          "concept": "Presentation (obstetrics)",
+          "count": 3
+        },
+        {
+          "concept": "Computation",
+          "count": 3
+        },
+        {
+          "concept": "Heuristic",
+          "count": 3
+        },
+        {
+          "concept": "Scheduling (production processes)",
+          "count": 3
+        },
+        {
+          "concept": "Curriculum",
+          "count": 3
+        },
+        {
+          "concept": "Preference",
+          "count": 2
+        },
+        {
+          "concept": "Point (geometry)",
+          "count": 2
+        },
+        {
+          "concept": "Workflow",
+          "count": 2
+        },
+        {
+          "concept": "Automation",
+          "count": 2
+        },
+        {
+          "concept": "Creativity",
+          "count": 2
+        },
+        {
+          "concept": "User needs",
+          "count": 2
+        },
+        {
+          "concept": "Syntax",
+          "count": 2
+        },
+        {
+          "concept": "Field (mathematics)",
+          "count": 2
+        },
+        {
+          "concept": "State (computer science)",
+          "count": 2
+        },
+        {
+          "concept": "Focus (optics)",
+          "count": 2
+        },
+        {
+          "concept": "Coding (social sciences)",
+          "count": 2
+        },
+        {
+          "concept": "Sequence (biology)",
+          "count": 2
+        },
+        {
+          "concept": "Table (database)",
+          "count": 2
+        },
+        {
+          "concept": "Programming paradigm",
+          "count": 2
+        },
+        {
+          "concept": "Semantics (computer science)",
+          "count": 2
+        },
+        {
+          "concept": "Supply chain",
+          "count": 2
+        },
+        {
+          "concept": "Linear programming",
+          "count": 2
+        },
+        {
+          "concept": "Knowledge base",
+          "count": 2
+        },
+        {
+          "concept": "Plug-in",
+          "count": 2
+        },
+        {
+          "concept": "Inventory management",
+          "count": 2
+        },
+        {
+          "concept": "Product (mathematics)",
+          "count": 2
+        },
+        {
+          "concept": "Expert system",
+          "count": 2
+        },
+        {
+          "concept": "Conversation",
+          "count": 2
+        },
+        {
+          "concept": "Relational database",
+          "count": 2
+        },
+        {
+          "concept": "Value (mathematics)",
+          "count": 2
+        },
+        {
+          "concept": "Microsoft Office",
+          "count": 2
+        },
+        {
+          "concept": "Differential equation",
+          "count": 2
+        },
+        {
+          "concept": "Euler's formula",
+          "count": 2
+        },
+        {
+          "concept": "Implementation",
+          "count": 2
+        },
+        {
+          "concept": "Monte Carlo method",
+          "count": 2
+        },
+        {
+          "concept": "Course (navigation)",
+          "count": 2
+        },
+        {
+          "concept": "Critical path method",
+          "count": 2
+        },
+        {
+          "concept": "Outreach",
+          "count": 2
+        },
+        {
+          "concept": "Key (lock)",
+          "count": 2
+        },
+        {
+          "concept": "Best practice",
+          "count": 2
+        },
+        {
+          "concept": "Converse",
+          "count": 1
+        },
+        {
+          "concept": "Term (time)",
+          "count": 1
+        },
+        {
+          "concept": "Taxonomy (biology)",
+          "count": 1
+        },
+        {
+          "concept": "Tweaking",
+          "count": 1
+        },
+        {
+          "concept": "Fundamental human needs",
+          "count": 1
+        },
+        {
+          "concept": "Health care",
+          "count": 1
+        },
+        {
+          "concept": "Generality",
+          "count": 1
+        },
+        {
+          "concept": "Modal",
+          "count": 1
+        },
+        {
+          "concept": "JavaScript",
+          "count": 1
+        },
+        {
+          "concept": "Leverage (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Matching (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Architecture",
+          "count": 1
+        },
+        {
+          "concept": "Causality (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Natural (archaeology)",
+          "count": 1
+        },
+        {
+          "concept": "Space (punctuation)",
+          "count": 1
+        },
+        {
+          "concept": "Natural language",
+          "count": 1
+        },
+        {
+          "concept": "Ambient intelligence",
+          "count": 1
+        },
+        {
+          "concept": "Kinesthetic learning",
+          "count": 1
+        },
+        {
+          "concept": "Baseline (sea)",
+          "count": 1
+        },
+        {
+          "concept": "Speed skating",
+          "count": 1
+        },
+        {
+          "concept": "Qualitative research",
+          "count": 1
+        },
+        {
+          "concept": "Communication design",
+          "count": 1
+        },
+        {
+          "concept": "Design flow",
+          "count": 1
+        },
+        {
+          "concept": "Design elements and principles",
+          "count": 1
+        },
+        {
+          "concept": "Header",
+          "count": 1
+        },
+        {
+          "concept": "Semantic Web",
+          "count": 1
+        },
+        {
+          "concept": "Drop out",
+          "count": 1
+        },
+        {
+          "concept": "Dropout (neural networks)",
+          "count": 1
+        },
+        {
+          "concept": "Bachelor",
+          "count": 1
+        },
+        {
+          "concept": "Logistic regression",
+          "count": 1
+        },
+        {
+          "concept": "Bachelor degree",
+          "count": 1
+        },
+        {
+          "concept": "Control flow",
+          "count": 1
+        },
+        {
+          "concept": "Mistake",
+          "count": 1
+        },
+        {
+          "concept": "Procurement",
+          "count": 1
+        },
+        {
+          "concept": "Grading (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Learning Management",
+          "count": 1
+        },
+        {
+          "concept": "Software deployment",
+          "count": 1
+        },
+        {
+          "concept": "Formal methods",
+          "count": 1
+        },
+        {
+          "concept": "Formal semantics (linguistics)",
+          "count": 1
+        },
+        {
+          "concept": "Specification language",
+          "count": 1
+        },
+        {
+          "concept": "Formal specification",
+          "count": 1
+        },
+        {
+          "concept": "Schema (genetic algorithms)",
+          "count": 1
+        },
+        {
+          "concept": "Abstraction",
+          "count": 1
+        },
+        {
+          "concept": "Decentralization",
+          "count": 1
+        },
+        {
+          "concept": "Empowerment",
+          "count": 1
+        },
+        {
+          "concept": "MEDLINE",
+          "count": 1
+        },
+        {
+          "concept": "Profit (economics)",
+          "count": 1
+        },
+        {
+          "concept": "Integer programming",
+          "count": 1
+        },
+        {
+          "concept": "Troubleshooting",
+          "count": 1
+        },
+        {
+          "concept": "Web application",
+          "count": 1
+        },
+        {
+          "concept": "Web service",
+          "count": 1
+        },
+        {
+          "concept": "Template",
+          "count": 1
+        },
+        {
+          "concept": "Cluster analysis",
+          "count": 1
+        },
+        {
+          "concept": "File format",
+          "count": 1
+        },
+        {
+          "concept": "Graph",
+          "count": 1
+        },
+        {
+          "concept": "Grid",
+          "count": 1
+        },
+        {
+          "concept": "Inventory control",
+          "count": 1
+        },
+        {
+          "concept": "Binary number",
+          "count": 1
+        },
+        {
+          "concept": "Simulation-based optimization",
+          "count": 1
+        },
+        {
+          "concept": "Perishability",
+          "count": 1
+        },
+        {
+          "concept": "Metric space",
+          "count": 1
+        },
+        {
+          "concept": "Accretion (finance)",
+          "count": 1
+        },
+        {
+          "concept": "Cloud computing",
+          "count": 1
+        },
+        {
+          "concept": "Everyday life",
+          "count": 1
+        },
+        {
+          "concept": "Sorting",
+          "count": 1
+        },
+        {
+          "concept": "Activity-based costing",
+          "count": 1
+        },
+        {
+          "concept": "Cataloging",
+          "count": 1
+        },
+        {
+          "concept": "Capacity planning",
+          "count": 1
+        },
+        {
+          "concept": "Resource (disambiguation)",
+          "count": 1
+        },
+        {
+          "concept": "Capacity management",
+          "count": 1
+        },
+        {
+          "concept": "Orienteering",
+          "count": 1
+        },
+        {
+          "concept": "Competition (biology)",
+          "count": 1
+        },
+        {
+          "concept": "Outcome (game theory)",
+          "count": 1
+        },
+        {
+          "concept": "Component (thermodynamics)",
+          "count": 1
+        },
+        {
+          "concept": "Trajectory",
+          "count": 1
+        },
+        {
+          "concept": "Unification",
+          "count": 1
+        },
+        {
+          "concept": "Broad spectrum",
+          "count": 1
+        },
+        {
+          "concept": "Hypertext",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge-based systems",
+          "count": 1
+        },
+        {
+          "concept": "Domain knowledge",
+          "count": 1
+        },
+        {
+          "concept": "Correctness",
+          "count": 1
+        },
+        {
+          "concept": "Fuzzy logic",
+          "count": 1
+        },
+        {
+          "concept": "Index (typography)",
+          "count": 1
+        },
+        {
+          "concept": "User requirements document",
+          "count": 1
+        },
+        {
+          "concept": "Allowance (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Greenhouse gas",
+          "count": 1
+        },
+        {
+          "concept": "Algorithmic trading",
+          "count": 1
+        },
+        {
+          "concept": "Market research",
+          "count": 1
+        },
+        {
+          "concept": "Composite number",
+          "count": 1
+        },
+        {
+          "concept": "Rule-based system",
+          "count": 1
+        },
+        {
+          "concept": "Chain (unit)",
+          "count": 1
+        },
+        {
+          "concept": "Row",
+          "count": 1
+        },
+        {
+          "concept": "Frame (networking)",
+          "count": 1
+        },
+        {
+          "concept": "Assisted living",
+          "count": 1
+        },
+        {
+          "concept": "Graduate students",
+          "count": 1
+        },
+        {
+          "concept": "USable",
+          "count": 1
+        },
+        {
+          "concept": "Dynamism",
+          "count": 1
+        },
+        {
+          "concept": "Middleware (distributed applications)",
+          "count": 1
+        },
+        {
+          "concept": "Physical computing",
+          "count": 1
+        },
+        {
+          "concept": "Kernel (algebra)",
+          "count": 1
+        },
+        {
+          "concept": "Politics",
+          "count": 1
+        },
+        {
+          "concept": "Modular design",
+          "count": 1
+        },
+        {
+          "concept": "SQL",
+          "count": 1
+        },
+        {
+          "concept": "Domain-specific language",
+          "count": 1
+        },
+        {
+          "concept": "Programmer",
+          "count": 1
+        },
+        {
+          "concept": "Ode",
+          "count": 1
+        },
+        {
+          "concept": "Convergence (economics)",
+          "count": 1
+        },
+        {
+          "concept": "Numerical analysis",
+          "count": 1
+        },
+        {
+          "concept": "Documentation",
+          "count": 1
+        },
+        {
+          "concept": "Search algorithm",
+          "count": 1
+        },
+        {
+          "concept": "Prolog",
+          "count": 1
+        },
+        {
+          "concept": "Data warehouse",
+          "count": 1
+        },
+        {
+          "concept": "Layer (electronics)",
+          "count": 1
+        },
+        {
+          "concept": "Numerical integration",
+          "count": 1
+        },
+        {
+          "concept": "Calculus (dental)",
+          "count": 1
+        },
+        {
+          "concept": "Margin (machine learning)",
+          "count": 1
+        },
+        {
+          "concept": "Decimal",
+          "count": 1
+        },
+        {
+          "concept": "Prime (order theory)",
+          "count": 1
+        },
+        {
+          "concept": "Resolution (logic)",
+          "count": 1
+        },
+        {
+          "concept": "Georgia tech",
+          "count": 1
+        },
+        {
+          "concept": "Summer camp",
+          "count": 1
+        },
+        {
+          "concept": "High tech",
+          "count": 1
+        },
+        {
+          "concept": "Timeline",
+          "count": 1
+        },
+        {
+          "concept": "Big data",
+          "count": 1
+        },
+        {
+          "concept": "Cognition",
+          "count": 1
+        },
+        {
+          "concept": "Exploit",
+          "count": 1
+        },
+        {
+          "concept": "Benchmark (surveying)",
+          "count": 1
+        },
+        {
+          "concept": "Parallelism (grammar)",
+          "count": 1
+        },
+        {
+          "concept": "Multi-core processor",
+          "count": 1
+        },
+        {
+          "concept": "Opera",
+          "count": 1
+        },
+        {
+          "concept": "Java",
+          "count": 1
+        },
+        {
+          "concept": "Lookup table",
+          "count": 1
+        },
+        {
+          "concept": "Probabilistic logic",
+          "count": 1
+        },
+        {
+          "concept": "Calculator",
+          "count": 1
+        },
+        {
+          "concept": "Maintainability",
+          "count": 1
+        },
+        {
+          "concept": "Modalities",
+          "count": 1
+        },
+        {
+          "concept": "Experiential learning",
+          "count": 1
+        },
+        {
+          "concept": "Quality (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Game design",
+          "count": 1
+        },
+        {
+          "concept": "Aerospace",
+          "count": 1
+        },
+        {
+          "concept": "Mode (computer interface)",
+          "count": 1
+        },
+        {
+          "concept": "Interpretation (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Reading (process)",
+          "count": 1
+        },
+        {
+          "concept": "Heuristics",
+          "count": 1
+        },
+        {
+          "concept": "Quantum",
+          "count": 1
+        },
+        {
+          "concept": "Audit",
+          "count": 1
+        },
+        {
+          "concept": "Invariant (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Schedule",
+          "count": 1
+        },
+        {
+          "concept": "Accounting information system",
+          "count": 1
+        },
+        {
+          "concept": "License",
+          "count": 1
+        },
+        {
+          "concept": "Management accounting",
+          "count": 1
+        },
+        {
+          "concept": "Human fertilization",
+          "count": 1
+        },
+        {
+          "concept": "Fertilizer",
+          "count": 1
+        },
+        {
+          "concept": "Yield (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Publication",
+          "count": 1
+        },
+        {
+          "concept": "Pleasure",
+          "count": 1
+        },
+        {
+          "concept": "Session (web analytics)",
+          "count": 1
+        },
+        {
+          "concept": "Descriptive statistics",
+          "count": 1
+        },
+        {
+          "concept": "Productivity",
+          "count": 1
+        },
+        {
+          "concept": "Provenance",
+          "count": 1
+        },
+        {
+          "concept": "Operationalization",
+          "count": 1
+        },
+        {
+          "concept": "Salient",
+          "count": 1
+        },
+        {
+          "concept": "Knapsack problem",
+          "count": 1
+        },
+        {
+          "concept": "Scale (ratio)",
+          "count": 1
+        },
+        {
+          "concept": "Test (biology)",
+          "count": 1
+        },
+        {
+          "concept": "Section (typography)",
+          "count": 1
+        },
+        {
+          "concept": "Business model",
+          "count": 1
+        },
+        {
+          "concept": "Framing (construction)",
+          "count": 1
+        },
+        {
+          "concept": "Decision analysis",
+          "count": 1
+        },
+        {
+          "concept": "Decision tree",
+          "count": 1
+        },
+        {
+          "concept": "Outbreak",
+          "count": 1
+        },
+        {
+          "concept": "Disease",
+          "count": 1
+        },
+        {
+          "concept": "Byte",
+          "count": 1
+        },
+        {
+          "concept": "Crystallization",
+          "count": 1
+        },
+        {
+          "concept": "Fixed point",
+          "count": 1
+        },
+        {
+          "concept": "Asset (computer security)",
+          "count": 1
+        },
+        {
+          "concept": "Sample (material)",
+          "count": 1
+        },
+        {
+          "concept": "Kinetics",
+          "count": 1
+        },
+        {
+          "concept": "Adsorption",
+          "count": 1
+        },
+        {
+          "concept": "Flexibility (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Nonlinear system",
+          "count": 1
+        },
+        {
+          "concept": "Evolutionary algorithm",
+          "count": 1
+        },
+        {
+          "concept": "Problem solver",
+          "count": 1
+        },
+        {
+          "concept": "Heat transfer",
+          "count": 1
+        },
+        {
+          "concept": "Rotation (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Agriculture",
+          "count": 1
+        },
+        {
+          "concept": "Scope (computer science)",
+          "count": 1
+        },
+        {
+          "concept": "Suite",
+          "count": 1
+        },
+        {
+          "concept": "Breakout",
+          "count": 1
+        },
+        {
+          "concept": "Bridge (graph theory)",
+          "count": 1
+        },
+        {
+          "concept": "Range (aeronautics)",
+          "count": 1
+        }
+      ],
+      "2022": [
+        {
+          "concept": "End user",
+          "count": 13
+        },
+        {
+          "concept": "Domain (mathematical analysis)",
+          "count": 10
+        },
+        {
+          "concept": "Software",
+          "count": 10
+        },
+        {
+          "concept": "Process (computing)",
+          "count": 9
+        },
+        {
+          "concept": "Set (abstract data type)",
+          "count": 9
+        },
+        {
+          "concept": "The Internet",
+          "count": 7
+        },
+        {
+          "concept": "Microsoft excel",
+          "count": 6
+        },
+        {
+          "concept": "Field (mathematics)",
+          "count": 5
+        },
+        {
+          "concept": "Robot",
+          "count": 5
+        },
+        {
+          "concept": "Action (physics)",
+          "count": 5
+        },
+        {
+          "concept": "Exploit",
+          "count": 5
+        },
+        {
+          "concept": "Context (archaeology)",
+          "count": 5
+        },
+        {
+          "concept": "Internet of Things",
+          "count": 5
+        },
+        {
+          "concept": "Value (mathematics)",
+          "count": 5
+        },
+        {
+          "concept": "Simple (philosophy)",
+          "count": 4
+        },
+        {
+          "concept": "Work (physics)",
+          "count": 4
+        },
+        {
+          "concept": "Linear programming",
+          "count": 4
+        },
+        {
+          "concept": "Risk management",
+          "count": 4
+        },
+        {
+          "concept": "Abstraction",
+          "count": 3
+        },
+        {
+          "concept": "Quality (philosophy)",
+          "count": 3
+        },
+        {
+          "concept": "Development (topology)",
+          "count": 3
+        },
+        {
+          "concept": "Personalization",
+          "count": 3
+        },
+        {
+          "concept": "Semantics (computer science)",
+          "count": 3
+        },
+        {
+          "concept": "Block (permutation group theory)",
+          "count": 3
+        },
+        {
+          "concept": "Task (project management)",
+          "count": 3
+        },
+        {
+          "concept": "Analytics",
+          "count": 3
+        },
+        {
+          "concept": "Control (management)",
+          "count": 3
+        },
+        {
+          "concept": "Plan (archaeology)",
+          "count": 3
+        },
+        {
+          "concept": "Integer programming",
+          "count": 3
+        },
+        {
+          "concept": "Volatility (finance)",
+          "count": 3
+        },
+        {
+          "concept": "Measure (data warehouse)",
+          "count": 3
+        },
+        {
+          "concept": "Portfolio",
+          "count": 3
+        },
+        {
+          "concept": "Function (biology)",
+          "count": 3
+        },
+        {
+          "concept": "Augmented reality",
+          "count": 2
+        },
+        {
+          "concept": "Expert system",
+          "count": 2
+        },
+        {
+          "concept": "Grid",
+          "count": 2
+        },
+        {
+          "concept": "Usability",
+          "count": 2
+        },
+        {
+          "concept": "Natural language",
+          "count": 2
+        },
+        {
+          "concept": "Automation",
+          "count": 2
+        },
+        {
+          "concept": "Component (thermodynamics)",
+          "count": 2
+        },
+        {
+          "concept": "Web service",
+          "count": 2
+        },
+        {
+          "concept": "Ontology",
+          "count": 2
+        },
+        {
+          "concept": "Semantic Web",
+          "count": 2
+        },
+        {
+          "concept": "Curriculum",
+          "count": 2
+        },
+        {
+          "concept": "Mathematical problem",
+          "count": 2
+        },
+        {
+          "concept": "Class (philosophy)",
+          "count": 2
+        },
+        {
+          "concept": "Profit (economics)",
+          "count": 2
+        },
+        {
+          "concept": "Certification",
+          "count": 2
+        },
+        {
+          "concept": "Workflow",
+          "count": 2
+        },
+        {
+          "concept": "Macro",
+          "count": 2
+        },
+        {
+          "concept": "Solver",
+          "count": 2
+        },
+        {
+          "concept": "Problem solver",
+          "count": 2
+        },
+        {
+          "concept": "Fault (geology)",
+          "count": 2
+        },
+        {
+          "concept": "Null hypothesis",
+          "count": 2
+        },
+        {
+          "concept": "Test (biology)",
+          "count": 2
+        },
+        {
+          "concept": "Ms excel",
+          "count": 2
+        },
+        {
+          "concept": "Integer (computer science)",
+          "count": 2
+        },
+        {
+          "concept": "Adventure",
+          "count": 2
+        },
+        {
+          "concept": "Recreation",
+          "count": 2
+        },
+        {
+          "concept": "Key (lock)",
+          "count": 2
+        },
+        {
+          "concept": "Home automation",
+          "count": 1
+        },
+        {
+          "concept": "Troubleshooting",
+          "count": 1
+        },
+        {
+          "concept": "Natural (archaeology)",
+          "count": 1
+        },
+        {
+          "concept": "Disk formatting",
+          "count": 1
+        },
+        {
+          "concept": "Structuring",
+          "count": 1
+        },
+        {
+          "concept": "Table (database)",
+          "count": 1
+        },
+        {
+          "concept": "Value proposition",
+          "count": 1
+        },
+        {
+          "concept": "Orthogonality",
+          "count": 1
+        },
+        {
+          "concept": "Frame (networking)",
+          "count": 1
+        },
+        {
+          "concept": "Everyday life",
+          "count": 1
+        },
+        {
+          "concept": "Intelligent agent",
+          "count": 1
+        },
+        {
+          "concept": "Dialog box",
+          "count": 1
+        },
+        {
+          "concept": "Construct (python library)",
+          "count": 1
+        },
+        {
+          "concept": "Intersection (aeronautics)",
+          "count": 1
+        },
+        {
+          "concept": "Computational thinking",
+          "count": 1
+        },
+        {
+          "concept": "Sustainable development",
+          "count": 1
+        },
+        {
+          "concept": "Point (geometry)",
+          "count": 1
+        },
+        {
+          "concept": "Applications of artificial intelligence",
+          "count": 1
+        },
+        {
+          "concept": "Curiosity",
+          "count": 1
+        },
+        {
+          "concept": "Vendor",
+          "count": 1
+        },
+        {
+          "concept": "Service (business)",
+          "count": 1
+        },
+        {
+          "concept": "Modal",
+          "count": 1
+        },
+        {
+          "concept": "Echo (communications protocol)",
+          "count": 1
+        },
+        {
+          "concept": "Voice command device",
+          "count": 1
+        },
+        {
+          "concept": "Template",
+          "count": 1
+        },
+        {
+          "concept": "Proof of concept",
+          "count": 1
+        },
+        {
+          "concept": "Focus (optics)",
+          "count": 1
+        },
+        {
+          "concept": "Virtual reality",
+          "count": 1
+        },
+        {
+          "concept": "Hacker",
+          "count": 1
+        },
+        {
+          "concept": "Reuse",
+          "count": 1
+        },
+        {
+          "concept": "Benchmark (surveying)",
+          "count": 1
+        },
+        {
+          "concept": "Event (particle physics)",
+          "count": 1
+        },
+        {
+          "concept": "Architecture",
+          "count": 1
+        },
+        {
+          "concept": "Power (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Voltage",
+          "count": 1
+        },
+        {
+          "concept": "Oyster",
+          "count": 1
+        },
+        {
+          "concept": "Germplasm",
+          "count": 1
+        },
+        {
+          "concept": "Embryo",
+          "count": 1
+        },
+        {
+          "concept": "Alternative medicine",
+          "count": 1
+        },
+        {
+          "concept": "Habitat",
+          "count": 1
+        },
+        {
+          "concept": "Wireless",
+          "count": 1
+        },
+        {
+          "concept": "Debugging",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge base",
+          "count": 1
+        },
+        {
+          "concept": "Domain knowledge",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge-based systems",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge engineering",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge extraction",
+          "count": 1
+        },
+        {
+          "concept": "Organizational learning",
+          "count": 1
+        },
+        {
+          "concept": "Typology",
+          "count": 1
+        },
+        {
+          "concept": "Problem-based learning",
+          "count": 1
+        },
+        {
+          "concept": "Operand",
+          "count": 1
+        },
+        {
+          "concept": "Notation",
+          "count": 1
+        },
+        {
+          "concept": "Argument (complex analysis)",
+          "count": 1
+        },
+        {
+          "concept": "Stack (abstract data type)",
+          "count": 1
+        },
+        {
+          "concept": "Gene",
+          "count": 1
+        },
+        {
+          "concept": "Decomposition",
+          "count": 1
+        },
+        {
+          "concept": "Dataflow",
+          "count": 1
+        },
+        {
+          "concept": "Visual programming language",
+          "count": 1
+        },
+        {
+          "concept": "Face (sociological concept)",
+          "count": 1
+        },
+        {
+          "concept": "Sorting",
+          "count": 1
+        },
+        {
+          "concept": "Search engine indexing",
+          "count": 1
+        },
+        {
+          "concept": "Dice",
+          "count": 1
+        },
+        {
+          "concept": "Debriefing",
+          "count": 1
+        },
+        {
+          "concept": "Game design",
+          "count": 1
+        },
+        {
+          "concept": "Game theory",
+          "count": 1
+        },
+        {
+          "concept": "Stochastic game",
+          "count": 1
+        },
+        {
+          "concept": "Strengths and weaknesses",
+          "count": 1
+        },
+        {
+          "concept": "School teachers",
+          "count": 1
+        },
+        {
+          "concept": "Citation",
+          "count": 1
+        },
+        {
+          "concept": "Factory (object-oriented programming)",
+          "count": 1
+        },
+        {
+          "concept": "Audit",
+          "count": 1
+        },
+        {
+          "concept": "Scope (computer science)",
+          "count": 1
+        },
+        {
+          "concept": "Multiple-criteria decision analysis",
+          "count": 1
+        },
+        {
+          "concept": "Analytic hierarchy process",
+          "count": 1
+        },
+        {
+          "concept": "Trustworthiness",
+          "count": 1
+        },
+        {
+          "concept": "Tracing",
+          "count": 1
+        },
+        {
+          "concept": "Dimension (graph theory)",
+          "count": 1
+        },
+        {
+          "concept": "Root (linguistics)",
+          "count": 1
+        },
+        {
+          "concept": "Bisection method",
+          "count": 1
+        },
+        {
+          "concept": "Graph",
+          "count": 1
+        },
+        {
+          "concept": "Variable (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Polynomial",
+          "count": 1
+        },
+        {
+          "concept": "Graphical user interface",
+          "count": 1
+        },
+        {
+          "concept": "Nonlinear system",
+          "count": 1
+        },
+        {
+          "concept": "Implementation",
+          "count": 1
+        },
+        {
+          "concept": "Workload",
+          "count": 1
+        },
+        {
+          "concept": "Project management",
+          "count": 1
+        },
+        {
+          "concept": "MEDLINE",
+          "count": 1
+        },
+        {
+          "concept": "Data flow diagram",
+          "count": 1
+        },
+        {
+          "concept": "Flow (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Stakeholder",
+          "count": 1
+        },
+        {
+          "concept": "Scripting language",
+          "count": 1
+        },
+        {
+          "concept": "Note-taking",
+          "count": 1
+        },
+        {
+          "concept": "Conversation",
+          "count": 1
+        },
+        {
+          "concept": "Position paper",
+          "count": 1
+        },
+        {
+          "concept": "Health care",
+          "count": 1
+        },
+        {
+          "concept": "TRACE (psycholinguistics)",
+          "count": 1
+        },
+        {
+          "concept": "Formal semantics (linguistics)",
+          "count": 1
+        },
+        {
+          "concept": "Schedule",
+          "count": 1
+        },
+        {
+          "concept": "Scalability",
+          "count": 1
+        },
+        {
+          "concept": "Politics",
+          "count": 1
+        },
+        {
+          "concept": "Row",
+          "count": 1
+        },
+        {
+          "concept": "Outlier",
+          "count": 1
+        },
+        {
+          "concept": "Data processing",
+          "count": 1
+        },
+        {
+          "concept": "Missing data",
+          "count": 1
+        },
+        {
+          "concept": "Project-based learning",
+          "count": 1
+        },
+        {
+          "concept": "Project team",
+          "count": 1
+        },
+        {
+          "concept": "Learning analytics",
+          "count": 1
+        },
+        {
+          "concept": "Scalar (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Mode (computer interface)",
+          "count": 1
+        },
+        {
+          "concept": "Algebraic number",
+          "count": 1
+        },
+        {
+          "concept": "Algebra over a field",
+          "count": 1
+        },
+        {
+          "concept": "Credibility",
+          "count": 1
+        },
+        {
+          "concept": "Shadow (psychology)",
+          "count": 1
+        },
+        {
+          "concept": "Security management",
+          "count": 1
+        },
+        {
+          "concept": "Boosting (machine learning)",
+          "count": 1
+        },
+        {
+          "concept": "Image (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Population",
+          "count": 1
+        },
+        {
+          "concept": "Descriptive statistics",
+          "count": 1
+        },
+        {
+          "concept": "Employability",
+          "count": 1
+        },
+        {
+          "concept": "Local government",
+          "count": 1
+        },
+        {
+          "concept": "Adaptability",
+          "count": 1
+        },
+        {
+          "concept": "Productivity",
+          "count": 1
+        },
+        {
+          "concept": "Balance (ability)",
+          "count": 1
+        },
+        {
+          "concept": "Order (exchange)",
+          "count": 1
+        },
+        {
+          "concept": "Assisted living",
+          "count": 1
+        },
+        {
+          "concept": "Resource (disambiguation)",
+          "count": 1
+        },
+        {
+          "concept": "Production (economics)",
+          "count": 1
+        },
+        {
+          "concept": "Decision support system",
+          "count": 1
+        },
+        {
+          "concept": "Distribution (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Empathy",
+          "count": 1
+        },
+        {
+          "concept": "Series (stratigraphy)",
+          "count": 1
+        },
+        {
+          "concept": "Metric (unit)",
+          "count": 1
+        },
+        {
+          "concept": "Precision and recall",
+          "count": 1
+        },
+        {
+          "concept": "Actuator",
+          "count": 1
+        },
+        {
+          "concept": "Visual Basic for Applications",
+          "count": 1
+        },
+        {
+          "concept": "Microsoft Office",
+          "count": 1
+        },
+        {
+          "concept": "Workbook",
+          "count": 1
+        },
+        {
+          "concept": "Data file",
+          "count": 1
+        },
+        {
+          "concept": "Middleware (distributed applications)",
+          "count": 1
+        },
+        {
+          "concept": "File format",
+          "count": 1
+        },
+        {
+          "concept": "Laptop",
+          "count": 1
+        },
+        {
+          "concept": "Selection (genetic algorithm)",
+          "count": 1
+        },
+        {
+          "concept": "Realization (probability)",
+          "count": 1
+        },
+        {
+          "concept": "Baseline (sea)",
+          "count": 1
+        },
+        {
+          "concept": "Provenance",
+          "count": 1
+        },
+        {
+          "concept": "Simplicity",
+          "count": 1
+        },
+        {
+          "concept": "Peer learning",
+          "count": 1
+        },
+        {
+          "concept": "Systems design",
+          "count": 1
+        },
+        {
+          "concept": "Rubric",
+          "count": 1
+        },
+        {
+          "concept": "Supervisor",
+          "count": 1
+        },
+        {
+          "concept": "Intervention (counseling)",
+          "count": 1
+        },
+        {
+          "concept": "Programming paradigm",
+          "count": 1
+        },
+        {
+          "concept": "Automotive industry",
+          "count": 1
+        },
+        {
+          "concept": "Fault tree analysis",
+          "count": 1
+        },
+        {
+          "concept": "Leverage (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Cover (algebra)",
+          "count": 1
+        },
+        {
+          "concept": "Glider",
+          "count": 1
+        },
+        {
+          "concept": "Product (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical logic",
+          "count": 1
+        },
+        {
+          "concept": "Post hoc",
+          "count": 1
+        },
+        {
+          "concept": "Pairwise comparison",
+          "count": 1
+        },
+        {
+          "concept": "Sample (material)",
+          "count": 1
+        },
+        {
+          "concept": "Rank (graph theory)",
+          "count": 1
+        },
+        {
+          "concept": "Statistical hypothesis testing",
+          "count": 1
+        },
+        {
+          "concept": "Bar chart",
+          "count": 1
+        },
+        {
+          "concept": "Login",
+          "count": 1
+        },
+        {
+          "concept": "Password",
+          "count": 1
+        },
+        {
+          "concept": "Citizen journalism",
+          "count": 1
+        },
+        {
+          "concept": "Bridge (graph theory)",
+          "count": 1
+        },
+        {
+          "concept": "Parallels",
+          "count": 1
+        },
+        {
+          "concept": "Discretization",
+          "count": 1
+        },
+        {
+          "concept": "Differential equation",
+          "count": 1
+        },
+        {
+          "concept": "Partial differential equation",
+          "count": 1
+        },
+        {
+          "concept": "Heuristic",
+          "count": 1
+        },
+        {
+          "concept": "Semantic data model",
+          "count": 1
+        },
+        {
+          "concept": "Software deployment",
+          "count": 1
+        },
+        {
+          "concept": "Bridging (networking)",
+          "count": 1
+        },
+        {
+          "concept": "User requirements document",
+          "count": 1
+        },
+        {
+          "concept": "Variety (cybernetics)",
+          "count": 1
+        },
+        {
+          "concept": "Automated method",
+          "count": 1
+        },
+        {
+          "concept": "Disease",
+          "count": 1
+        }
+      ],
+      "2023": [
+        {
+          "concept": "Software",
+          "count": 21
+        },
+        {
+          "concept": "Politics",
+          "count": 10
+        },
+        {
+          "concept": "Process (computing)",
+          "count": 8
+        },
+        {
+          "concept": "Set (abstract data type)",
+          "count": 7
+        },
+        {
+          "concept": "Microsoft excel",
+          "count": 7
+        },
+        {
+          "concept": "Analytics",
+          "count": 5
+        },
+        {
+          "concept": "User interface",
+          "count": 5
+        },
+        {
+          "concept": "Usability",
+          "count": 5
+        },
+        {
+          "concept": "Visual Basic for Applications",
+          "count": 5
+        },
+        {
+          "concept": "Automation",
+          "count": 5
+        },
+        {
+          "concept": "Capital (architecture)",
+          "count": 5
+        },
+        {
+          "concept": "Context (archaeology)",
+          "count": 5
+        },
+        {
+          "concept": "Key (lock)",
+          "count": 5
+        },
+        {
+          "concept": "Business model",
+          "count": 4
+        },
+        {
+          "concept": "Production (economics)",
+          "count": 4
+        },
+        {
+          "concept": "Bubble",
+          "count": 4
+        },
+        {
+          "concept": "Action (physics)",
+          "count": 4
+        },
+        {
+          "concept": "Debugging",
+          "count": 4
+        },
+        {
+          "concept": "Internet of Things",
+          "count": 4
+        },
+        {
+          "concept": "Visualization",
+          "count": 4
+        },
+        {
+          "concept": "Project appraisal",
+          "count": 4
+        },
+        {
+          "concept": "Table (database)",
+          "count": 3
+        },
+        {
+          "concept": "Transparency (behavior)",
+          "count": 3
+        },
+        {
+          "concept": "Agriculture",
+          "count": 3
+        },
+        {
+          "concept": "Product (mathematics)",
+          "count": 3
+        },
+        {
+          "concept": "Domain (mathematical analysis)",
+          "count": 3
+        },
+        {
+          "concept": "Task (project management)",
+          "count": 3
+        },
+        {
+          "concept": "End user",
+          "count": 3
+        },
+        {
+          "concept": "Control (management)",
+          "count": 3
+        },
+        {
+          "concept": "Macro",
+          "count": 3
+        },
+        {
+          "concept": "Worksheet",
+          "count": 3
+        },
+        {
+          "concept": "Microsoft Office",
+          "count": 3
+        },
+        {
+          "concept": "The Internet",
+          "count": 3
+        },
+        {
+          "concept": "Workbook",
+          "count": 3
+        },
+        {
+          "concept": "Monte Carlo method",
+          "count": 3
+        },
+        {
+          "concept": "Focus (optics)",
+          "count": 2
+        },
+        {
+          "concept": "Coding (social sciences)",
+          "count": 2
+        },
+        {
+          "concept": "Predictive analytics",
+          "count": 2
+        },
+        {
+          "concept": "Capital investment",
+          "count": 2
+        },
+        {
+          "concept": "Abstraction",
+          "count": 2
+        },
+        {
+          "concept": "Cognition",
+          "count": 2
+        },
+        {
+          "concept": "Sample (material)",
+          "count": 2
+        },
+        {
+          "concept": "Corporate governance",
+          "count": 2
+        },
+        {
+          "concept": "Fertilizer",
+          "count": 2
+        },
+        {
+          "concept": "Ms excel",
+          "count": 2
+        },
+        {
+          "concept": "Activity-based costing",
+          "count": 2
+        },
+        {
+          "concept": "Variety (cybernetics)",
+          "count": 2
+        },
+        {
+          "concept": "Adaptation (eye)",
+          "count": 2
+        },
+        {
+          "concept": "Scalability",
+          "count": 2
+        },
+        {
+          "concept": "Graph",
+          "count": 2
+        },
+        {
+          "concept": "Robot",
+          "count": 2
+        },
+        {
+          "concept": "Field (mathematics)",
+          "count": 2
+        },
+        {
+          "concept": "Relation (database)",
+          "count": 2
+        },
+        {
+          "concept": "Work (physics)",
+          "count": 2
+        },
+        {
+          "concept": "Function (biology)",
+          "count": 2
+        },
+        {
+          "concept": "Portfolio",
+          "count": 2
+        },
+        {
+          "concept": "Disk formatting",
+          "count": 2
+        },
+        {
+          "concept": "Solver",
+          "count": 2
+        },
+        {
+          "concept": "Linear programming",
+          "count": 2
+        },
+        {
+          "concept": "Database design",
+          "count": 2
+        },
+        {
+          "concept": "Relational database",
+          "count": 2
+        },
+        {
+          "concept": "Calculator",
+          "count": 2
+        },
+        {
+          "concept": "Variable (mathematics)",
+          "count": 2
+        },
+        {
+          "concept": "Decision maker",
+          "count": 2
+        },
+        {
+          "concept": "Calculus (dental)",
+          "count": 2
+        },
+        {
+          "concept": "Bridging (networking)",
+          "count": 2
+        },
+        {
+          "concept": "Audit",
+          "count": 1
+        },
+        {
+          "concept": "Data analysis",
+          "count": 1
+        },
+        {
+          "concept": "Correctness",
+          "count": 1
+        },
+        {
+          "concept": "Row",
+          "count": 1
+        },
+        {
+          "concept": "Web application",
+          "count": 1
+        },
+        {
+          "concept": "Python (programming language)",
+          "count": 1
+        },
+        {
+          "concept": "Business intelligence",
+          "count": 1
+        },
+        {
+          "concept": "Pipeline (software)",
+          "count": 1
+        },
+        {
+          "concept": "Big data",
+          "count": 1
+        },
+        {
+          "concept": "Profitability index",
+          "count": 1
+        },
+        {
+          "concept": "Profit (economics)",
+          "count": 1
+        },
+        {
+          "concept": "Status quo",
+          "count": 1
+        },
+        {
+          "concept": "Supply chain",
+          "count": 1
+        },
+        {
+          "concept": "Touchscreen",
+          "count": 1
+        },
+        {
+          "concept": "Amazon rainforest",
+          "count": 1
+        },
+        {
+          "concept": "Conversation",
+          "count": 1
+        },
+        {
+          "concept": "Echo (communications protocol)",
+          "count": 1
+        },
+        {
+          "concept": "Domain-specific language",
+          "count": 1
+        },
+        {
+          "concept": "Digital subscriber line",
+          "count": 1
+        },
+        {
+          "concept": "Specification language",
+          "count": 1
+        },
+        {
+          "concept": "Human error",
+          "count": 1
+        },
+        {
+          "concept": "Paragraph",
+          "count": 1
+        },
+        {
+          "concept": "Equity (law)",
+          "count": 1
+        },
+        {
+          "concept": "Inclusion (mineral)",
+          "count": 1
+        },
+        {
+          "concept": "Diversity (politics)",
+          "count": 1
+        },
+        {
+          "concept": "Teamwork",
+          "count": 1
+        },
+        {
+          "concept": "Harm",
+          "count": 1
+        },
+        {
+          "concept": "Panel discussion",
+          "count": 1
+        },
+        {
+          "concept": "Leverage (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Operability",
+          "count": 1
+        },
+        {
+          "concept": "Circular economy",
+          "count": 1
+        },
+        {
+          "concept": "Sustainability",
+          "count": 1
+        },
+        {
+          "concept": "Informatics",
+          "count": 1
+        },
+        {
+          "concept": "Methane",
+          "count": 1
+        },
+        {
+          "concept": "Consistency (knowledge bases)",
+          "count": 1
+        },
+        {
+          "concept": "Asset (computer security)",
+          "count": 1
+        },
+        {
+          "concept": "Cloning (programming)",
+          "count": 1
+        },
+        {
+          "concept": "Relevance (law)",
+          "count": 1
+        },
+        {
+          "concept": "USable",
+          "count": 1
+        },
+        {
+          "concept": "MEDLINE",
+          "count": 1
+        },
+        {
+          "concept": "DNA",
+          "count": 1
+        },
+        {
+          "concept": "Visitor pattern",
+          "count": 1
+        },
+        {
+          "concept": "Home automation",
+          "count": 1
+        },
+        {
+          "concept": "Matching (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Plan (archaeology)",
+          "count": 1
+        },
+        {
+          "concept": "Training (meteorology)",
+          "count": 1
+        },
+        {
+          "concept": "JavaScript",
+          "count": 1
+        },
+        {
+          "concept": "JSON",
+          "count": 1
+        },
+        {
+          "concept": "Dataflow",
+          "count": 1
+        },
+        {
+          "concept": "Reuse",
+          "count": 1
+        },
+        {
+          "concept": "Liveness",
+          "count": 1
+        },
+        {
+          "concept": "Octave (electronics)",
+          "count": 1
+        },
+        {
+          "concept": "Programmer",
+          "count": 1
+        },
+        {
+          "concept": "Bridge (graph theory)",
+          "count": 1
+        },
+        {
+          "concept": "Suspect",
+          "count": 1
+        },
+        {
+          "concept": "Population",
+          "count": 1
+        },
+        {
+          "concept": "Upload",
+          "count": 1
+        },
+        {
+          "concept": "Data conversion",
+          "count": 1
+        },
+        {
+          "concept": "Structuring",
+          "count": 1
+        },
+        {
+          "concept": "Data deduplication",
+          "count": 1
+        },
+        {
+          "concept": "Data management",
+          "count": 1
+        },
+        {
+          "concept": "Data warehouse",
+          "count": 1
+        },
+        {
+          "concept": "Gene",
+          "count": 1
+        },
+        {
+          "concept": "Ambiguity",
+          "count": 1
+        },
+        {
+          "concept": "Intuition",
+          "count": 1
+        },
+        {
+          "concept": "Event (particle physics)",
+          "count": 1
+        },
+        {
+          "concept": "File format",
+          "count": 1
+        },
+        {
+          "concept": "Logical conjunction",
+          "count": 1
+        },
+        {
+          "concept": "Strengths and weaknesses",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical statistics",
+          "count": 1
+        },
+        {
+          "concept": "Recipe",
+          "count": 1
+        },
+        {
+          "concept": "Ingredient",
+          "count": 1
+        },
+        {
+          "concept": "Space (punctuation)",
+          "count": 1
+        },
+        {
+          "concept": "Component (thermodynamics)",
+          "count": 1
+        },
+        {
+          "concept": "Controller (irrigation)",
+          "count": 1
+        },
+        {
+          "concept": "Dynamic simulation",
+          "count": 1
+        },
+        {
+          "concept": "MATLAB",
+          "count": 1
+        },
+        {
+          "concept": "Stochastic simulation",
+          "count": 1
+        },
+        {
+          "concept": "Balance (ability)",
+          "count": 1
+        },
+        {
+          "concept": "Modalities",
+          "count": 1
+        },
+        {
+          "concept": "Purchasing",
+          "count": 1
+        },
+        {
+          "concept": "Gesture",
+          "count": 1
+        },
+        {
+          "concept": "Barcode",
+          "count": 1
+        },
+        {
+          "concept": "Receipt",
+          "count": 1
+        },
+        {
+          "concept": "Distribution (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Satisficing",
+          "count": 1
+        },
+        {
+          "concept": "Heuristics",
+          "count": 1
+        },
+        {
+          "concept": "Heuristic",
+          "count": 1
+        },
+        {
+          "concept": "Bounded function",
+          "count": 1
+        },
+        {
+          "concept": "Probabilistic logic",
+          "count": 1
+        },
+        {
+          "concept": "Limit (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Search algorithm",
+          "count": 1
+        },
+        {
+          "concept": "Invoice",
+          "count": 1
+        },
+        {
+          "concept": "General partnership",
+          "count": 1
+        },
+        {
+          "concept": "Simplex",
+          "count": 1
+        },
+        {
+          "concept": "Integer programming",
+          "count": 1
+        },
+        {
+          "concept": "Optimization problem",
+          "count": 1
+        },
+        {
+          "concept": "Node (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Overlay",
+          "count": 1
+        },
+        {
+          "concept": "SPARK (programming language)",
+          "count": 1
+        },
+        {
+          "concept": "Premise",
+          "count": 1
+        },
+        {
+          "concept": "Competence (human resources)",
+          "count": 1
+        },
+        {
+          "concept": "Management system",
+          "count": 1
+        },
+        {
+          "concept": "Bayesian probability",
+          "count": 1
+        },
+        {
+          "concept": "Acre",
+          "count": 1
+        },
+        {
+          "concept": "Unit price",
+          "count": 1
+        },
+        {
+          "concept": "Nutrient",
+          "count": 1
+        },
+        {
+          "concept": "Unit (ring theory)",
+          "count": 1
+        },
+        {
+          "concept": "Phosphorus",
+          "count": 1
+        },
+        {
+          "concept": "Quality (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Virtual reality",
+          "count": 1
+        },
+        {
+          "concept": "Mode (computer interface)",
+          "count": 1
+        },
+        {
+          "concept": "Natural (archaeology)",
+          "count": 1
+        },
+        {
+          "concept": "Natural language",
+          "count": 1
+        },
+        {
+          "concept": "Explanatory model",
+          "count": 1
+        },
+        {
+          "concept": "Incentive",
+          "count": 1
+        },
+        {
+          "concept": "Agency (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Corporate finance",
+          "count": 1
+        },
+        {
+          "concept": "Simple (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Ball (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Valuation (finance)",
+          "count": 1
+        },
+        {
+          "concept": "Concatenation (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "String (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Financial analysis",
+          "count": 1
+        },
+        {
+          "concept": "Mobile device",
+          "count": 1
+        },
+        {
+          "concept": "Argument (complex analysis)",
+          "count": 1
+        },
+        {
+          "concept": "Workload",
+          "count": 1
+        },
+        {
+          "concept": "Algebraic number",
+          "count": 1
+        },
+        {
+          "concept": "Valuation of options",
+          "count": 1
+        },
+        {
+          "concept": "Expression (computer science)",
+          "count": 1
+        },
+        {
+          "concept": "Probability density function",
+          "count": 1
+        },
+        {
+          "concept": "Compatibility (geochemistry)",
+          "count": 1
+        },
+        {
+          "concept": "Computation",
+          "count": 1
+        },
+        {
+          "concept": "Compiler",
+          "count": 1
+        },
+        {
+          "concept": "Aggregate (composite)",
+          "count": 1
+        },
+        {
+          "concept": "Volume (thermodynamics)",
+          "count": 1
+        },
+        {
+          "concept": "Data stream",
+          "count": 1
+        },
+        {
+          "concept": "Vocational education",
+          "count": 1
+        },
+        {
+          "concept": "Obstacle",
+          "count": 1
+        },
+        {
+          "concept": "Instrumentation (computer programming)",
+          "count": 1
+        },
+        {
+          "concept": "Pencil (optics)",
+          "count": 1
+        },
+        {
+          "concept": "Conceptual framework",
+          "count": 1
+        },
+        {
+          "concept": "Development (topology)",
+          "count": 1
+        },
+        {
+          "concept": "Performance art",
+          "count": 1
+        },
+        {
+          "concept": "Affordance",
+          "count": 1
+        },
+        {
+          "concept": "Workflow",
+          "count": 1
+        },
+        {
+          "concept": "Surprise",
+          "count": 1
+        },
+        {
+          "concept": "Everyday life",
+          "count": 1
+        },
+        {
+          "concept": "Order (exchange)",
+          "count": 1
+        },
+        {
+          "concept": "Ask price",
+          "count": 1
+        },
+        {
+          "concept": "SQL",
+          "count": 1
+        },
+        {
+          "concept": "Query language",
+          "count": 1
+        },
+        {
+          "concept": "Indonesian",
+          "count": 1
+        },
+        {
+          "concept": "Decision support system",
+          "count": 1
+        },
+        {
+          "concept": "Source code",
+          "count": 1
+        },
+        {
+          "concept": "Presentation (obstetrics)",
+          "count": 1
+        },
+        {
+          "concept": "Fault (geology)",
+          "count": 1
+        },
+        {
+          "concept": "Algebra over a field",
+          "count": 1
+        },
+        {
+          "concept": "Proxy (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Computational fluid dynamics",
+          "count": 1
+        },
+        {
+          "concept": "User Friendly",
+          "count": 1
+        },
+        {
+          "concept": "Database application",
+          "count": 1
+        },
+        {
+          "concept": "Veterans Affairs",
+          "count": 1
+        },
+        {
+          "concept": "Delphi",
+          "count": 1
+        },
+        {
+          "concept": "Probability theory",
+          "count": 1
+        },
+        {
+          "concept": "Delphi method",
+          "count": 1
+        },
+        {
+          "concept": "Probability and statistics",
+          "count": 1
+        },
+        {
+          "concept": "Course (navigation)",
+          "count": 1
+        },
+        {
+          "concept": "Learning analytics",
+          "count": 1
+        },
+        {
+          "concept": "Coaching",
+          "count": 1
+        },
+        {
+          "concept": "Best practice",
+          "count": 1
+        },
+        {
+          "concept": "Bloom",
+          "count": 1
+        },
+        {
+          "concept": "Taxonomy (biology)",
+          "count": 1
+        },
+        {
+          "concept": "Data processing",
+          "count": 1
+        }
+      ],
+      "2024": [
+        {
+          "concept": "End user",
+          "count": 13
+        },
+        {
+          "concept": "Software",
+          "count": 12
+        },
+        {
+          "concept": "Robot",
+          "count": 9
+        },
+        {
+          "concept": "Process (computing)",
+          "count": 7
+        },
+        {
+          "concept": "Task (project management)",
+          "count": 6
+        },
+        {
+          "concept": "Set (abstract data type)",
+          "count": 6
+        },
+        {
+          "concept": "Python (programming language)",
+          "count": 6
+        },
+        {
+          "concept": "Ms excel",
+          "count": 6
+        },
+        {
+          "concept": "Microsoft excel",
+          "count": 5
+        },
+        {
+          "concept": "Domain (mathematical analysis)",
+          "count": 5
+        },
+        {
+          "concept": "Action (physics)",
+          "count": 5
+        },
+        {
+          "concept": "Programming paradigm",
+          "count": 4
+        },
+        {
+          "concept": "Solver",
+          "count": 4
+        },
+        {
+          "concept": "The Internet",
+          "count": 3
+        },
+        {
+          "concept": "Usability",
+          "count": 3
+        },
+        {
+          "concept": "Control (management)",
+          "count": 3
+        },
+        {
+          "concept": "Internet of Things",
+          "count": 3
+        },
+        {
+          "concept": "Politics",
+          "count": 3
+        },
+        {
+          "concept": "Macro",
+          "count": 3
+        },
+        {
+          "concept": "Context (archaeology)",
+          "count": 3
+        },
+        {
+          "concept": "Visual Basic for Applications",
+          "count": 3
+        },
+        {
+          "concept": "Quality (philosophy)",
+          "count": 2
+        },
+        {
+          "concept": "Home automation",
+          "count": 2
+        },
+        {
+          "concept": "Suite",
+          "count": 2
+        },
+        {
+          "concept": "Visualization",
+          "count": 2
+        },
+        {
+          "concept": "Engineering education",
+          "count": 2
+        },
+        {
+          "concept": "State (computer science)",
+          "count": 2
+        },
+        {
+          "concept": "Personalization",
+          "count": 2
+        },
+        {
+          "concept": "Generative grammar",
+          "count": 2
+        },
+        {
+          "concept": "Block (permutation group theory)",
+          "count": 2
+        },
+        {
+          "concept": "Separation (statistics)",
+          "count": 2
+        },
+        {
+          "concept": "Modalities",
+          "count": 2
+        },
+        {
+          "concept": "Data flow diagram",
+          "count": 2
+        },
+        {
+          "concept": "Parallels",
+          "count": 2
+        },
+        {
+          "concept": "Curriculum",
+          "count": 2
+        },
+        {
+          "concept": "Stock (firearms)",
+          "count": 2
+        },
+        {
+          "concept": "Course (navigation)",
+          "count": 2
+        },
+        {
+          "concept": "User interface",
+          "count": 2
+        },
+        {
+          "concept": "Health care",
+          "count": 2
+        },
+        {
+          "concept": "Adaptation (eye)",
+          "count": 2
+        },
+        {
+          "concept": "Function (biology)",
+          "count": 2
+        },
+        {
+          "concept": "Payment",
+          "count": 2
+        },
+        {
+          "concept": "Field (mathematics)",
+          "count": 2
+        },
+        {
+          "concept": "Distribution (mathematics)",
+          "count": 2
+        },
+        {
+          "concept": "Ranking (information retrieval)",
+          "count": 2
+        },
+        {
+          "concept": "Mean squared error",
+          "count": 2
+        },
+        {
+          "concept": "Knowledge sharing",
+          "count": 2
+        },
+        {
+          "concept": "Bubble",
+          "count": 2
+        },
+        {
+          "concept": "Informatics",
+          "count": 2
+        },
+        {
+          "concept": "Iterative and incremental development",
+          "count": 1
+        },
+        {
+          "concept": "Augmented reality",
+          "count": 1
+        },
+        {
+          "concept": "Energy consumption",
+          "count": 1
+        },
+        {
+          "concept": "Energy (signal processing)",
+          "count": 1
+        },
+        {
+          "concept": "Bayesian optimization",
+          "count": 1
+        },
+        {
+          "concept": "User Friendly",
+          "count": 1
+        },
+        {
+          "concept": "Bayesian probability",
+          "count": 1
+        },
+        {
+          "concept": "Environmentally friendly",
+          "count": 1
+        },
+        {
+          "concept": "On the fly",
+          "count": 1
+        },
+        {
+          "concept": "Chart",
+          "count": 1
+        },
+        {
+          "concept": "Interaction design",
+          "count": 1
+        },
+        {
+          "concept": "Service (business)",
+          "count": 1
+        },
+        {
+          "concept": "JavaScript",
+          "count": 1
+        },
+        {
+          "concept": "Key (lock)",
+          "count": 1
+        },
+        {
+          "concept": "Risk management",
+          "count": 1
+        },
+        {
+          "concept": "Perspective (graphical)",
+          "count": 1
+        },
+        {
+          "concept": "Taxonomy (biology)",
+          "count": 1
+        },
+        {
+          "concept": "Risk assessment",
+          "count": 1
+        },
+        {
+          "concept": "Creativity",
+          "count": 1
+        },
+        {
+          "concept": "Correctness",
+          "count": 1
+        },
+        {
+          "concept": "Exploit",
+          "count": 1
+        },
+        {
+          "concept": "Assistive technology",
+          "count": 1
+        },
+        {
+          "concept": "Assistive device",
+          "count": 1
+        },
+        {
+          "concept": "Retention time",
+          "count": 1
+        },
+        {
+          "concept": "Disk formatting",
+          "count": 1
+        },
+        {
+          "concept": "Workaround",
+          "count": 1
+        },
+        {
+          "concept": "Information overload",
+          "count": 1
+        },
+        {
+          "concept": "Visually impaired",
+          "count": 1
+        },
+        {
+          "concept": "Leverage (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Table (database)",
+          "count": 1
+        },
+        {
+          "concept": "Syntax",
+          "count": 1
+        },
+        {
+          "concept": "Computation",
+          "count": 1
+        },
+        {
+          "concept": "Benchmark (surveying)",
+          "count": 1
+        },
+        {
+          "concept": "Point (geometry)",
+          "count": 1
+        },
+        {
+          "concept": "Architecture",
+          "count": 1
+        },
+        {
+          "concept": "Analytics",
+          "count": 1
+        },
+        {
+          "concept": "Visual programming language",
+          "count": 1
+        },
+        {
+          "concept": "Flow (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Repurposing",
+          "count": 1
+        },
+        {
+          "concept": "Drug",
+          "count": 1
+        },
+        {
+          "concept": "Personal Integrity",
+          "count": 1
+        },
+        {
+          "concept": "Citizen journalism",
+          "count": 1
+        },
+        {
+          "concept": "Event (particle physics)",
+          "count": 1
+        },
+        {
+          "concept": "Affordance",
+          "count": 1
+        },
+        {
+          "concept": "Educational technology",
+          "count": 1
+        },
+        {
+          "concept": "Computer-Assisted Instruction",
+          "count": 1
+        },
+        {
+          "concept": "Power (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Frontier",
+          "count": 1
+        },
+        {
+          "concept": "Taxable income",
+          "count": 1
+        },
+        {
+          "concept": "Liability",
+          "count": 1
+        },
+        {
+          "concept": "Tax credit",
+          "count": 1
+        },
+        {
+          "concept": "Problem solver",
+          "count": 1
+        },
+        {
+          "concept": "Tax reform",
+          "count": 1
+        },
+        {
+          "concept": "Unit (ring theory)",
+          "count": 1
+        },
+        {
+          "concept": "Resource (disambiguation)",
+          "count": 1
+        },
+        {
+          "concept": "Base (topology)",
+          "count": 1
+        },
+        {
+          "concept": "Isoperimetric inequality",
+          "count": 1
+        },
+        {
+          "concept": "Geometric probability",
+          "count": 1
+        },
+        {
+          "concept": "Probability density function",
+          "count": 1
+        },
+        {
+          "concept": "Random variable",
+          "count": 1
+        },
+        {
+          "concept": "Probability distribution",
+          "count": 1
+        },
+        {
+          "concept": "Probability theory",
+          "count": 1
+        },
+        {
+          "concept": "Subdivision",
+          "count": 1
+        },
+        {
+          "concept": "Hyperbola",
+          "count": 1
+        },
+        {
+          "concept": "Ellipse",
+          "count": 1
+        },
+        {
+          "concept": "Conic section",
+          "count": 1
+        },
+        {
+          "concept": "Parabola",
+          "count": 1
+        },
+        {
+          "concept": "Volatility (finance)",
+          "count": 1
+        },
+        {
+          "concept": "Animation",
+          "count": 1
+        },
+        {
+          "concept": "Reading (process)",
+          "count": 1
+        },
+        {
+          "concept": "Fraction (chemistry)",
+          "count": 1
+        },
+        {
+          "concept": "Balance (ability)",
+          "count": 1
+        },
+        {
+          "concept": "Material balance",
+          "count": 1
+        },
+        {
+          "concept": "Problem-based learning",
+          "count": 1
+        },
+        {
+          "concept": "Programming style",
+          "count": 1
+        },
+        {
+          "concept": "Adaptability",
+          "count": 1
+        },
+        {
+          "concept": "Unification",
+          "count": 1
+        },
+        {
+          "concept": "Scrutiny",
+          "count": 1
+        },
+        {
+          "concept": "Scale (ratio)",
+          "count": 1
+        },
+        {
+          "concept": "Construct (python library)",
+          "count": 1
+        },
+        {
+          "concept": "Expert system",
+          "count": 1
+        },
+        {
+          "concept": "Natural language",
+          "count": 1
+        },
+        {
+          "concept": "Source code",
+          "count": 1
+        },
+        {
+          "concept": "Scripting language",
+          "count": 1
+        },
+        {
+          "concept": "Productivity",
+          "count": 1
+        },
+        {
+          "concept": "Appropriation",
+          "count": 1
+        },
+        {
+          "concept": "Flexibility (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Calculator",
+          "count": 1
+        },
+        {
+          "concept": "Embedding",
+          "count": 1
+        },
+        {
+          "concept": "Space (punctuation)",
+          "count": 1
+        },
+        {
+          "concept": "Economic Justice",
+          "count": 1
+        },
+        {
+          "concept": "Loan",
+          "count": 1
+        },
+        {
+          "concept": "Conversation",
+          "count": 1
+        },
+        {
+          "concept": "Procurement",
+          "count": 1
+        },
+        {
+          "concept": "Current (fluid)",
+          "count": 1
+        },
+        {
+          "concept": "Liveness",
+          "count": 1
+        },
+        {
+          "concept": "Debugging",
+          "count": 1
+        },
+        {
+          "concept": "Line (geometry)",
+          "count": 1
+        },
+        {
+          "concept": "Flowchart",
+          "count": 1
+        },
+        {
+          "concept": "Block diagram",
+          "count": 1
+        },
+        {
+          "concept": "Program code",
+          "count": 1
+        },
+        {
+          "concept": "Flow chart",
+          "count": 1
+        },
+        {
+          "concept": "Accounts receivable",
+          "count": 1
+        },
+        {
+          "concept": "Convergence (economics)",
+          "count": 1
+        },
+        {
+          "concept": "Scalable Vector Graphics",
+          "count": 1
+        },
+        {
+          "concept": "Preference",
+          "count": 1
+        },
+        {
+          "concept": "Scope (computer science)",
+          "count": 1
+        },
+        {
+          "concept": "Comprehension",
+          "count": 1
+        },
+        {
+          "concept": "Integer programming",
+          "count": 1
+        },
+        {
+          "concept": "Bridge (graph theory)",
+          "count": 1
+        },
+        {
+          "concept": "Statistical analysis",
+          "count": 1
+        },
+        {
+          "concept": "Rate of return",
+          "count": 1
+        },
+        {
+          "concept": "Production (economics)",
+          "count": 1
+        },
+        {
+          "concept": "Stochastic process",
+          "count": 1
+        },
+        {
+          "concept": "Inflation (cosmology)",
+          "count": 1
+        },
+        {
+          "concept": "Value (mathematics)",
+          "count": 1
+        },
+        {
+          "concept": "Matching (statistics)",
+          "count": 1
+        },
+        {
+          "concept": "Drop (telecommunication)",
+          "count": 1
+        },
+        {
+          "concept": "Portfolio",
+          "count": 1
+        },
+        {
+          "concept": "Absolute deviation",
+          "count": 1
+        },
+        {
+          "concept": "Standard deviation",
+          "count": 1
+        },
+        {
+          "concept": "Simple (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Absolute (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Sensemaking",
+          "count": 1
+        },
+        {
+          "concept": "Hypertext",
+          "count": 1
+        },
+        {
+          "concept": "Stars",
+          "count": 1
+        },
+        {
+          "concept": "Gene",
+          "count": 1
+        },
+        {
+          "concept": "Incentive",
+          "count": 1
+        },
+        {
+          "concept": "Routing (electronic design automation)",
+          "count": 1
+        },
+        {
+          "concept": "Trinomial",
+          "count": 1
+        },
+        {
+          "concept": "Valuation of options",
+          "count": 1
+        },
+        {
+          "concept": "Index (typography)",
+          "count": 1
+        },
+        {
+          "concept": "Lean manufacturing",
+          "count": 1
+        },
+        {
+          "concept": "Linear regression",
+          "count": 1
+        },
+        {
+          "concept": "Regression analysis",
+          "count": 1
+        },
+        {
+          "concept": "Nonlinear system",
+          "count": 1
+        },
+        {
+          "concept": "Exponential function",
+          "count": 1
+        },
+        {
+          "concept": "Linear model",
+          "count": 1
+        },
+        {
+          "concept": "Coefficient of determination",
+          "count": 1
+        },
+        {
+          "concept": "Curve fitting",
+          "count": 1
+        },
+        {
+          "concept": "Regression",
+          "count": 1
+        },
+        {
+          "concept": "Cloud computing",
+          "count": 1
+        },
+        {
+          "concept": "Connection (principal bundle)",
+          "count": 1
+        },
+        {
+          "concept": "Flash (photography)",
+          "count": 1
+        },
+        {
+          "concept": "Desert (philosophy)",
+          "count": 1
+        },
+        {
+          "concept": "Plug-in",
+          "count": 1
+        },
+        {
+          "concept": "Work (physics)",
+          "count": 1
+        },
+        {
+          "concept": "Formulary",
+          "count": 1
+        },
+        {
+          "concept": "Real world evidence",
+          "count": 1
+        },
+        {
+          "concept": "Generalizability theory",
+          "count": 1
+        },
+        {
+          "concept": "Feature (linguistics)",
+          "count": 1
+        },
+        {
+          "concept": "Term (time)",
+          "count": 1
+        },
+        {
+          "concept": "Automation",
+          "count": 1
+        },
+        {
+          "concept": "Bit (key)",
+          "count": 1
+        },
+        {
+          "concept": "Voltage",
+          "count": 1
+        },
+        {
+          "concept": "Microsoft Office",
+          "count": 1
+        },
+        {
+          "concept": "Asset (computer security)",
+          "count": 1
+        },
+        {
+          "concept": "Exponential smoothing",
+          "count": 1
+        },
+        {
+          "concept": "Bespoke",
+          "count": 1
+        },
+        {
+          "concept": "Time series",
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "2020": [
+        {
+          "concept": "Programming language",
+          "count": 52
+        },
+        {
+          "concept": "Artificial intelligence",
+          "count": 27
+        },
+        {
+          "concept": "World Wide Web",
+          "count": 27
+        },
+        {
+          "concept": "Software engineering",
+          "count": 21
+        },
+        {
+          "concept": "Operating system",
+          "count": 19
+        },
+        {
+          "concept": "Human\u2013computer interaction",
+          "count": 18
+        },
+        {
+          "concept": "Mathematics education",
+          "count": 17
+        },
+        {
+          "concept": "Paleontology",
+          "count": 14
+        },
+        {
+          "concept": "Database",
+          "count": 11
+        },
+        {
+          "concept": "Data mining",
+          "count": 11
+        },
+        {
+          "concept": "Mathematical analysis",
+          "count": 11
+        },
+        {
+          "concept": "Epistemology",
+          "count": 10
+        },
+        {
+          "concept": "Finance",
+          "count": 10
+        },
+        {
+          "concept": "Law",
+          "count": 10
+        },
+        {
+          "concept": "Statistics",
+          "count": 10
+        },
+        {
+          "concept": "Data science",
+          "count": 8
+        },
+        {
+          "concept": "Mechanical engineering",
+          "count": 8
+        },
+        {
+          "concept": "Systems engineering",
+          "count": 7
+        },
+        {
+          "concept": "Management",
+          "count": 7
+        },
+        {
+          "concept": "Accounting",
+          "count": 7
+        },
+        {
+          "concept": "Multimedia",
+          "count": 7
+        },
+        {
+          "concept": "Operations research",
+          "count": 7
+        },
+        {
+          "concept": "Geometry",
+          "count": 6
+        },
+        {
+          "concept": "Computer graphics (images)",
+          "count": 6
+        },
+        {
+          "concept": "Computer network",
+          "count": 6
+        },
+        {
+          "concept": "Operations management",
+          "count": 6
+        },
+        {
+          "concept": "Quantum mechanics",
+          "count": 5
+        },
+        {
+          "concept": "Algorithm",
+          "count": 5
+        },
+        {
+          "concept": "Machine learning",
+          "count": 5
+        },
+        {
+          "concept": "Marketing",
+          "count": 5
+        },
+        {
+          "concept": "Pure mathematics",
+          "count": 5
+        },
+        {
+          "concept": "Radiology",
+          "count": 4
+        },
+        {
+          "concept": "Ecology",
+          "count": 4
+        },
+        {
+          "concept": "Knowledge management",
+          "count": 4
+        },
+        {
+          "concept": "Natural language processing",
+          "count": 4
+        },
+        {
+          "concept": "Information retrieval",
+          "count": 4
+        },
+        {
+          "concept": "Medical education",
+          "count": 4
+        },
+        {
+          "concept": "Dentistry",
+          "count": 4
+        },
+        {
+          "concept": "Mathematical optimization",
+          "count": 4
+        },
+        {
+          "concept": "Meteorology",
+          "count": 4
+        },
+        {
+          "concept": "Botany",
+          "count": 3
+        },
+        {
+          "concept": "Economy",
+          "count": 3
+        },
+        {
+          "concept": "Thermodynamics",
+          "count": 3
+        },
+        {
+          "concept": "Theoretical computer science",
+          "count": 3
+        },
+        {
+          "concept": "Arithmetic",
+          "count": 3
+        },
+        {
+          "concept": "Library science",
+          "count": 3
+        },
+        {
+          "concept": "Archaeology",
+          "count": 3
+        },
+        {
+          "concept": "Computer security",
+          "count": 3
+        },
+        {
+          "concept": "Linguistics",
+          "count": 3
+        },
+        {
+          "concept": "Industrial engineering",
+          "count": 3
+        },
+        {
+          "concept": "Microeconomics",
+          "count": 3
+        },
+        {
+          "concept": "Pedagogy",
+          "count": 3
+        },
+        {
+          "concept": "Engineering management",
+          "count": 3
+        },
+        {
+          "concept": "Econometrics",
+          "count": 3
+        },
+        {
+          "concept": "Applied mathematics",
+          "count": 3
+        },
+        {
+          "concept": "Civil engineering",
+          "count": 3
+        },
+        {
+          "concept": "Embedded system",
+          "count": 2
+        },
+        {
+          "concept": "Genetics",
+          "count": 2
+        },
+        {
+          "concept": "Astronomy",
+          "count": 2
+        },
+        {
+          "concept": "Computational science",
+          "count": 2
+        },
+        {
+          "concept": "Waste management",
+          "count": 2
+        },
+        {
+          "concept": "Internet privacy",
+          "count": 2
+        },
+        {
+          "concept": "Actuarial science",
+          "count": 2
+        },
+        {
+          "concept": "Social psychology",
+          "count": 2
+        },
+        {
+          "concept": "Developmental psychology",
+          "count": 2
+        },
+        {
+          "concept": "Process management",
+          "count": 2
+        },
+        {
+          "concept": "Macroeconomics",
+          "count": 2
+        },
+        {
+          "concept": "Electrical engineering",
+          "count": 2
+        },
+        {
+          "concept": "Simulation",
+          "count": 2
+        },
+        {
+          "concept": "Psychiatry",
+          "count": 2
+        },
+        {
+          "concept": "Aerospace engineering",
+          "count": 2
+        },
+        {
+          "concept": "Electronic engineering",
+          "count": 2
+        },
+        {
+          "concept": "Psychotherapist",
+          "count": 2
+        },
+        {
+          "concept": "Mechanics",
+          "count": 2
+        },
+        {
+          "concept": "Telecommunications",
+          "count": 2
+        },
+        {
+          "concept": "Biochemistry",
+          "count": 2
+        },
+        {
+          "concept": "Composite material",
+          "count": 2
+        },
+        {
+          "concept": "Art history",
+          "count": 1
+        },
+        {
+          "concept": "Anthropology",
+          "count": 1
+        },
+        {
+          "concept": "Speech recognition",
+          "count": 1
+        },
+        {
+          "concept": "Computational chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Endocrinology",
+          "count": 1
+        },
+        {
+          "concept": "Computer architecture",
+          "count": 1
+        },
+        {
+          "concept": "Visual arts",
+          "count": 1
+        },
+        {
+          "concept": "Literature",
+          "count": 1
+        },
+        {
+          "concept": "Advertising",
+          "count": 1
+        },
+        {
+          "concept": "Engineering ethics",
+          "count": 1
+        },
+        {
+          "concept": "Chromatography",
+          "count": 1
+        },
+        {
+          "concept": "Humanities",
+          "count": 1
+        },
+        {
+          "concept": "Theology",
+          "count": 1
+        },
+        {
+          "concept": "Demography",
+          "count": 1
+        },
+        {
+          "concept": "Internal medicine",
+          "count": 1
+        },
+        {
+          "concept": "Optics",
+          "count": 1
+        },
+        {
+          "concept": "Evolutionary biology",
+          "count": 1
+        },
+        {
+          "concept": "Environmental engineering",
+          "count": 1
+        },
+        {
+          "concept": "Environmental health",
+          "count": 1
+        },
+        {
+          "concept": "Cognitive psychology",
+          "count": 1
+        },
+        {
+          "concept": "Geodesy",
+          "count": 1
+        },
+        {
+          "concept": "Polymer chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Agricultural engineering",
+          "count": 1
+        },
+        {
+          "concept": "Agronomy",
+          "count": 1
+        },
+        {
+          "concept": "Metallurgy",
+          "count": 1
+        },
+        {
+          "concept": "Social science",
+          "count": 1
+        },
+        {
+          "concept": "Risk analysis (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Management science",
+          "count": 1
+        },
+        {
+          "concept": "Engineering drawing",
+          "count": 1
+        },
+        {
+          "concept": "Statistical physics",
+          "count": 1
+        },
+        {
+          "concept": "Orthodontics",
+          "count": 1
+        }
+      ],
+      "2021": [
+        {
+          "concept": "Programming language",
+          "count": 57
+        },
+        {
+          "concept": "Artificial intelligence",
+          "count": 36
+        },
+        {
+          "concept": "Operating system",
+          "count": 33
+        },
+        {
+          "concept": "World Wide Web",
+          "count": 32
+        },
+        {
+          "concept": "Human\u2013computer interaction",
+          "count": 32
+        },
+        {
+          "concept": "Software engineering",
+          "count": 32
+        },
+        {
+          "concept": "Data science",
+          "count": 17
+        },
+        {
+          "concept": "Quantum mechanics",
+          "count": 14
+        },
+        {
+          "concept": "Statistics",
+          "count": 12
+        },
+        {
+          "concept": "Information retrieval",
+          "count": 11
+        },
+        {
+          "concept": "Multimedia",
+          "count": 11
+        },
+        {
+          "concept": "Algorithm",
+          "count": 11
+        },
+        {
+          "concept": "Mathematical analysis",
+          "count": 11
+        },
+        {
+          "concept": "Geometry",
+          "count": 10
+        },
+        {
+          "concept": "Systems engineering",
+          "count": 10
+        },
+        {
+          "concept": "Data mining",
+          "count": 9
+        },
+        {
+          "concept": "Epistemology",
+          "count": 9
+        },
+        {
+          "concept": "Machine learning",
+          "count": 9
+        },
+        {
+          "concept": "Law",
+          "count": 9
+        },
+        {
+          "concept": "Marketing",
+          "count": 9
+        },
+        {
+          "concept": "Mechanical engineering",
+          "count": 8
+        },
+        {
+          "concept": "Paleontology",
+          "count": 8
+        },
+        {
+          "concept": "Database",
+          "count": 7
+        },
+        {
+          "concept": "Mathematics education",
+          "count": 7
+        },
+        {
+          "concept": "Finance",
+          "count": 7
+        },
+        {
+          "concept": "Operations research",
+          "count": 6
+        },
+        {
+          "concept": "Mathematical optimization",
+          "count": 6
+        },
+        {
+          "concept": "Operations management",
+          "count": 6
+        },
+        {
+          "concept": "Arithmetic",
+          "count": 6
+        },
+        {
+          "concept": "Computer security",
+          "count": 6
+        },
+        {
+          "concept": "Management",
+          "count": 5
+        },
+        {
+          "concept": "Macroeconomics",
+          "count": 5
+        },
+        {
+          "concept": "Microeconomics",
+          "count": 4
+        },
+        {
+          "concept": "Botany",
+          "count": 4
+        },
+        {
+          "concept": "Evolutionary biology",
+          "count": 4
+        },
+        {
+          "concept": "Telecommunications",
+          "count": 4
+        },
+        {
+          "concept": "Medical education",
+          "count": 4
+        },
+        {
+          "concept": "Theoretical computer science",
+          "count": 4
+        },
+        {
+          "concept": "Linguistics",
+          "count": 4
+        },
+        {
+          "concept": "Computational science",
+          "count": 4
+        },
+        {
+          "concept": "Industrial engineering",
+          "count": 4
+        },
+        {
+          "concept": "Aerospace engineering",
+          "count": 4
+        },
+        {
+          "concept": "Accounting",
+          "count": 4
+        },
+        {
+          "concept": "Library science",
+          "count": 4
+        },
+        {
+          "concept": "Computer graphics (images)",
+          "count": 4
+        },
+        {
+          "concept": "Genetics",
+          "count": 3
+        },
+        {
+          "concept": "Archaeology",
+          "count": 3
+        },
+        {
+          "concept": "Process management",
+          "count": 3
+        },
+        {
+          "concept": "Thermodynamics",
+          "count": 3
+        },
+        {
+          "concept": "Natural language processing",
+          "count": 3
+        },
+        {
+          "concept": "Humanities",
+          "count": 3
+        },
+        {
+          "concept": "Radiology",
+          "count": 3
+        },
+        {
+          "concept": "Pedagogy",
+          "count": 3
+        },
+        {
+          "concept": "Economy",
+          "count": 2
+        },
+        {
+          "concept": "Internet privacy",
+          "count": 2
+        },
+        {
+          "concept": "Social psychology",
+          "count": 2
+        },
+        {
+          "concept": "Economic growth",
+          "count": 2
+        },
+        {
+          "concept": "Visual arts",
+          "count": 2
+        },
+        {
+          "concept": "Parallel computing",
+          "count": 2
+        },
+        {
+          "concept": "Pure mathematics",
+          "count": 2
+        },
+        {
+          "concept": "Developmental psychology",
+          "count": 2
+        },
+        {
+          "concept": "Optics",
+          "count": 2
+        },
+        {
+          "concept": "Simulation",
+          "count": 2
+        },
+        {
+          "concept": "Social science",
+          "count": 2
+        },
+        {
+          "concept": "Embedded system",
+          "count": 2
+        },
+        {
+          "concept": "Computer network",
+          "count": 2
+        },
+        {
+          "concept": "Ecology",
+          "count": 2
+        },
+        {
+          "concept": "Astronomy",
+          "count": 2
+        },
+        {
+          "concept": "Biochemistry",
+          "count": 2
+        },
+        {
+          "concept": "Combinatorics",
+          "count": 2
+        },
+        {
+          "concept": "Applied mathematics",
+          "count": 2
+        },
+        {
+          "concept": "Neuroscience",
+          "count": 2
+        },
+        {
+          "concept": "Agronomy",
+          "count": 2
+        },
+        {
+          "concept": "Econometrics",
+          "count": 2
+        },
+        {
+          "concept": "Computational biology",
+          "count": 1
+        },
+        {
+          "concept": "Bioinformatics",
+          "count": 1
+        },
+        {
+          "concept": "Polymer chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Psychotherapist",
+          "count": 1
+        },
+        {
+          "concept": "Oceanography",
+          "count": 1
+        },
+        {
+          "concept": "Demographic economics",
+          "count": 1
+        },
+        {
+          "concept": "Engineering management",
+          "count": 1
+        },
+        {
+          "concept": "Civil engineering",
+          "count": 1
+        },
+        {
+          "concept": "Knowledge management",
+          "count": 1
+        },
+        {
+          "concept": "Combinatorial chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Environmental economics",
+          "count": 1
+        },
+        {
+          "concept": "Industrial organization",
+          "count": 1
+        },
+        {
+          "concept": "Natural resource economics",
+          "count": 1
+        },
+        {
+          "concept": "Nursing",
+          "count": 1
+        },
+        {
+          "concept": "Distributed computing",
+          "count": 1
+        },
+        {
+          "concept": "Composite material",
+          "count": 1
+        },
+        {
+          "concept": "Dentistry",
+          "count": 1
+        },
+        {
+          "concept": "Astrobiology",
+          "count": 1
+        },
+        {
+          "concept": "Geodesy",
+          "count": 1
+        },
+        {
+          "concept": "Food science",
+          "count": 1
+        },
+        {
+          "concept": "Risk analysis (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical physics",
+          "count": 1
+        },
+        {
+          "concept": "Engineering ethics",
+          "count": 1
+        },
+        {
+          "concept": "Agricultural engineering",
+          "count": 1
+        },
+        {
+          "concept": "Metallurgy",
+          "count": 1
+        },
+        {
+          "concept": "Petrology",
+          "count": 1
+        },
+        {
+          "concept": "Management science",
+          "count": 1
+        },
+        {
+          "concept": "Structural engineering",
+          "count": 1
+        },
+        {
+          "concept": "Virology",
+          "count": 1
+        },
+        {
+          "concept": "Pathology",
+          "count": 1
+        },
+        {
+          "concept": "Crystallography",
+          "count": 1
+        },
+        {
+          "concept": "Chemical engineering",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical economics",
+          "count": 1
+        },
+        {
+          "concept": "Chromatography",
+          "count": 1
+        },
+        {
+          "concept": "Physical chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Internal medicine",
+          "count": 1
+        }
+      ],
+      "2022": [
+        {
+          "concept": "Programming language",
+          "count": 36
+        },
+        {
+          "concept": "Human\u2013computer interaction",
+          "count": 29
+        },
+        {
+          "concept": "Artificial intelligence",
+          "count": 26
+        },
+        {
+          "concept": "World Wide Web",
+          "count": 24
+        },
+        {
+          "concept": "Operating system",
+          "count": 22
+        },
+        {
+          "concept": "Software engineering",
+          "count": 18
+        },
+        {
+          "concept": "Mathematical analysis",
+          "count": 17
+        },
+        {
+          "concept": "Data science",
+          "count": 13
+        },
+        {
+          "concept": "Epistemology",
+          "count": 12
+        },
+        {
+          "concept": "Mathematics education",
+          "count": 11
+        },
+        {
+          "concept": "Knowledge management",
+          "count": 10
+        },
+        {
+          "concept": "Database",
+          "count": 10
+        },
+        {
+          "concept": "Algorithm",
+          "count": 10
+        },
+        {
+          "concept": "Geometry",
+          "count": 9
+        },
+        {
+          "concept": "Computer security",
+          "count": 9
+        },
+        {
+          "concept": "Mechanical engineering",
+          "count": 8
+        },
+        {
+          "concept": "Paleontology",
+          "count": 8
+        },
+        {
+          "concept": "Operations research",
+          "count": 8
+        },
+        {
+          "concept": "Statistics",
+          "count": 8
+        },
+        {
+          "concept": "Pure mathematics",
+          "count": 7
+        },
+        {
+          "concept": "Quantum mechanics",
+          "count": 7
+        },
+        {
+          "concept": "Law",
+          "count": 7
+        },
+        {
+          "concept": "Data mining",
+          "count": 7
+        },
+        {
+          "concept": "Finance",
+          "count": 6
+        },
+        {
+          "concept": "Machine learning",
+          "count": 6
+        },
+        {
+          "concept": "Information retrieval",
+          "count": 6
+        },
+        {
+          "concept": "Management",
+          "count": 6
+        },
+        {
+          "concept": "Archaeology",
+          "count": 5
+        },
+        {
+          "concept": "Multimedia",
+          "count": 5
+        },
+        {
+          "concept": "Process management",
+          "count": 5
+        },
+        {
+          "concept": "Engineering management",
+          "count": 4
+        },
+        {
+          "concept": "Accounting",
+          "count": 4
+        },
+        {
+          "concept": "Systems engineering",
+          "count": 4
+        },
+        {
+          "concept": "Internet privacy",
+          "count": 3
+        },
+        {
+          "concept": "Computer network",
+          "count": 3
+        },
+        {
+          "concept": "Ecology",
+          "count": 3
+        },
+        {
+          "concept": "Pedagogy",
+          "count": 3
+        },
+        {
+          "concept": "Social psychology",
+          "count": 3
+        },
+        {
+          "concept": "Econometrics",
+          "count": 3
+        },
+        {
+          "concept": "Financial economics",
+          "count": 3
+        },
+        {
+          "concept": "Actuarial science",
+          "count": 3
+        },
+        {
+          "concept": "Evolutionary biology",
+          "count": 3
+        },
+        {
+          "concept": "Telecommunications",
+          "count": 2
+        },
+        {
+          "concept": "Marketing",
+          "count": 2
+        },
+        {
+          "concept": "Neuroscience",
+          "count": 2
+        },
+        {
+          "concept": "Thermodynamics",
+          "count": 2
+        },
+        {
+          "concept": "Pathology",
+          "count": 2
+        },
+        {
+          "concept": "Mathematical economics",
+          "count": 2
+        },
+        {
+          "concept": "Microeconomics",
+          "count": 2
+        },
+        {
+          "concept": "Computer graphics (images)",
+          "count": 2
+        },
+        {
+          "concept": "Theoretical computer science",
+          "count": 2
+        },
+        {
+          "concept": "Linguistics",
+          "count": 2
+        },
+        {
+          "concept": "Humanities",
+          "count": 2
+        },
+        {
+          "concept": "Seismology",
+          "count": 2
+        },
+        {
+          "concept": "Medical education",
+          "count": 2
+        },
+        {
+          "concept": "Macroeconomics",
+          "count": 2
+        },
+        {
+          "concept": "Industrial engineering",
+          "count": 2
+        },
+        {
+          "concept": "Psychiatry",
+          "count": 2
+        },
+        {
+          "concept": "Art history",
+          "count": 2
+        },
+        {
+          "concept": "Natural language processing",
+          "count": 1
+        },
+        {
+          "concept": "Transport engineering",
+          "count": 1
+        },
+        {
+          "concept": "Economy",
+          "count": 1
+        },
+        {
+          "concept": "Speech recognition",
+          "count": 1
+        },
+        {
+          "concept": "Polymer chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Optics",
+          "count": 1
+        },
+        {
+          "concept": "Geodesy",
+          "count": 1
+        },
+        {
+          "concept": "Visual arts",
+          "count": 1
+        },
+        {
+          "concept": "Biotechnology",
+          "count": 1
+        },
+        {
+          "concept": "Fishery",
+          "count": 1
+        },
+        {
+          "concept": "Agronomy",
+          "count": 1
+        },
+        {
+          "concept": "Embedded system",
+          "count": 1
+        },
+        {
+          "concept": "Anthropology",
+          "count": 1
+        },
+        {
+          "concept": "Arithmetic",
+          "count": 1
+        },
+        {
+          "concept": "Biochemistry",
+          "count": 1
+        },
+        {
+          "concept": "Social science",
+          "count": 1
+        },
+        {
+          "concept": "Risk analysis (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Gynecology",
+          "count": 1
+        },
+        {
+          "concept": "Management science",
+          "count": 1
+        },
+        {
+          "concept": "Public relations",
+          "count": 1
+        },
+        {
+          "concept": "Business administration",
+          "count": 1
+        },
+        {
+          "concept": "Communication",
+          "count": 1
+        },
+        {
+          "concept": "Economic growth",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical optimization",
+          "count": 1
+        },
+        {
+          "concept": "Psychotherapist",
+          "count": 1
+        },
+        {
+          "concept": "Demography",
+          "count": 1
+        },
+        {
+          "concept": "Nursing",
+          "count": 1
+        },
+        {
+          "concept": "Simulation",
+          "count": 1
+        },
+        {
+          "concept": "Developmental psychology",
+          "count": 1
+        },
+        {
+          "concept": "Cognitive psychology",
+          "count": 1
+        },
+        {
+          "concept": "Operations management",
+          "count": 1
+        },
+        {
+          "concept": "Parallel computing",
+          "count": 1
+        },
+        {
+          "concept": "Computer architecture",
+          "count": 1
+        },
+        {
+          "concept": "Oceanography",
+          "count": 1
+        },
+        {
+          "concept": "Petrology",
+          "count": 1
+        },
+        {
+          "concept": "Statistical physics",
+          "count": 1
+        },
+        {
+          "concept": "Reliability engineering",
+          "count": 1
+        },
+        {
+          "concept": "Aerospace engineering",
+          "count": 1
+        },
+        {
+          "concept": "Dentistry",
+          "count": 1
+        },
+        {
+          "concept": "Chromatography",
+          "count": 1
+        },
+        {
+          "concept": "Combinatorics",
+          "count": 1
+        },
+        {
+          "concept": "Internal medicine",
+          "count": 1
+        },
+        {
+          "concept": "Applied mathematics",
+          "count": 1
+        },
+        {
+          "concept": "Library science",
+          "count": 1
+        }
+      ],
+      "2023": [
+        {
+          "concept": "Programming language",
+          "count": 37
+        },
+        {
+          "concept": "Software engineering",
+          "count": 29
+        },
+        {
+          "concept": "Operating system",
+          "count": 25
+        },
+        {
+          "concept": "Artificial intelligence",
+          "count": 22
+        },
+        {
+          "concept": "Human\u2013computer interaction",
+          "count": 17
+        },
+        {
+          "concept": "World Wide Web",
+          "count": 16
+        },
+        {
+          "concept": "Database",
+          "count": 14
+        },
+        {
+          "concept": "Law",
+          "count": 14
+        },
+        {
+          "concept": "Finance",
+          "count": 13
+        },
+        {
+          "concept": "Data science",
+          "count": 12
+        },
+        {
+          "concept": "Statistics",
+          "count": 12
+        },
+        {
+          "concept": "Accounting",
+          "count": 10
+        },
+        {
+          "concept": "Data mining",
+          "count": 10
+        },
+        {
+          "concept": "Mathematical analysis",
+          "count": 10
+        },
+        {
+          "concept": "Computer security",
+          "count": 9
+        },
+        {
+          "concept": "Mechanical engineering",
+          "count": 8
+        },
+        {
+          "concept": "Mathematics education",
+          "count": 8
+        },
+        {
+          "concept": "Quantum mechanics",
+          "count": 7
+        },
+        {
+          "concept": "Archaeology",
+          "count": 7
+        },
+        {
+          "concept": "Epistemology",
+          "count": 6
+        },
+        {
+          "concept": "Machine learning",
+          "count": 6
+        },
+        {
+          "concept": "Marketing",
+          "count": 5
+        },
+        {
+          "concept": "Knowledge management",
+          "count": 5
+        },
+        {
+          "concept": "Microeconomics",
+          "count": 5
+        },
+        {
+          "concept": "Ecology",
+          "count": 5
+        },
+        {
+          "concept": "Paleontology",
+          "count": 5
+        },
+        {
+          "concept": "Optics",
+          "count": 4
+        },
+        {
+          "concept": "Management",
+          "count": 4
+        },
+        {
+          "concept": "Geometry",
+          "count": 4
+        },
+        {
+          "concept": "Telecommunications",
+          "count": 4
+        },
+        {
+          "concept": "Neuroscience",
+          "count": 4
+        },
+        {
+          "concept": "Theoretical computer science",
+          "count": 4
+        },
+        {
+          "concept": "Algorithm",
+          "count": 4
+        },
+        {
+          "concept": "Information retrieval",
+          "count": 3
+        },
+        {
+          "concept": "Social psychology",
+          "count": 3
+        },
+        {
+          "concept": "Distributed computing",
+          "count": 3
+        },
+        {
+          "concept": "Simulation",
+          "count": 3
+        },
+        {
+          "concept": "Pure mathematics",
+          "count": 3
+        },
+        {
+          "concept": "Operations research",
+          "count": 3
+        },
+        {
+          "concept": "Mathematical optimization",
+          "count": 3
+        },
+        {
+          "concept": "Econometrics",
+          "count": 3
+        },
+        {
+          "concept": "Actuarial science",
+          "count": 3
+        },
+        {
+          "concept": "Environmental economics",
+          "count": 2
+        },
+        {
+          "concept": "Industrial organization",
+          "count": 2
+        },
+        {
+          "concept": "Chromatography",
+          "count": 2
+        },
+        {
+          "concept": "Agricultural engineering",
+          "count": 2
+        },
+        {
+          "concept": "Parallel computing",
+          "count": 2
+        },
+        {
+          "concept": "Systems engineering",
+          "count": 2
+        },
+        {
+          "concept": "Internal medicine",
+          "count": 2
+        },
+        {
+          "concept": "Biochemistry",
+          "count": 2
+        },
+        {
+          "concept": "Humanities",
+          "count": 2
+        },
+        {
+          "concept": "Management science",
+          "count": 2
+        },
+        {
+          "concept": "Evolutionary biology",
+          "count": 2
+        },
+        {
+          "concept": "Agronomy",
+          "count": 2
+        },
+        {
+          "concept": "Social science",
+          "count": 2
+        },
+        {
+          "concept": "Operations management",
+          "count": 2
+        },
+        {
+          "concept": "Linguistics",
+          "count": 2
+        },
+        {
+          "concept": "Applied mathematics",
+          "count": 2
+        },
+        {
+          "concept": "Dentistry",
+          "count": 2
+        },
+        {
+          "concept": "Computer network",
+          "count": 2
+        },
+        {
+          "concept": "Aerospace engineering",
+          "count": 2
+        },
+        {
+          "concept": "Market economy",
+          "count": 1
+        },
+        {
+          "concept": "Communication",
+          "count": 1
+        },
+        {
+          "concept": "Public relations",
+          "count": 1
+        },
+        {
+          "concept": "Engineering ethics",
+          "count": 1
+        },
+        {
+          "concept": "Anthropology",
+          "count": 1
+        },
+        {
+          "concept": "Advertising",
+          "count": 1
+        },
+        {
+          "concept": "Electrical engineering",
+          "count": 1
+        },
+        {
+          "concept": "Industrial engineering",
+          "count": 1
+        },
+        {
+          "concept": "Genetics",
+          "count": 1
+        },
+        {
+          "concept": "Manufacturing engineering",
+          "count": 1
+        },
+        {
+          "concept": "Macroeconomics",
+          "count": 1
+        },
+        {
+          "concept": "Meteorology",
+          "count": 1
+        },
+        {
+          "concept": "Internet privacy",
+          "count": 1
+        },
+        {
+          "concept": "Waste management",
+          "count": 1
+        },
+        {
+          "concept": "Demography",
+          "count": 1
+        },
+        {
+          "concept": "Criminology",
+          "count": 1
+        },
+        {
+          "concept": "Food science",
+          "count": 1
+        },
+        {
+          "concept": "Library science",
+          "count": 1
+        },
+        {
+          "concept": "Thermodynamics",
+          "count": 1
+        },
+        {
+          "concept": "Computer graphics (images)",
+          "count": 1
+        },
+        {
+          "concept": "Structural engineering",
+          "count": 1
+        },
+        {
+          "concept": "Agricultural science",
+          "count": 1
+        },
+        {
+          "concept": "Organic chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Metallurgy",
+          "count": 1
+        },
+        {
+          "concept": "Combinatorics",
+          "count": 1
+        },
+        {
+          "concept": "Chemical engineering",
+          "count": 1
+        },
+        {
+          "concept": "Composite material",
+          "count": 1
+        },
+        {
+          "concept": "Pedagogy",
+          "count": 1
+        },
+        {
+          "concept": "Art history",
+          "count": 1
+        },
+        {
+          "concept": "Seismology",
+          "count": 1
+        },
+        {
+          "concept": "Radiology",
+          "count": 1
+        },
+        {
+          "concept": "Gynecology",
+          "count": 1
+        },
+        {
+          "concept": "Psychotherapist",
+          "count": 1
+        }
+      ],
+      "2024": [
+        {
+          "concept": "Programming language",
+          "count": 45
+        },
+        {
+          "concept": "Human\u2013computer interaction",
+          "count": 29
+        },
+        {
+          "concept": "World Wide Web",
+          "count": 26
+        },
+        {
+          "concept": "Software engineering",
+          "count": 26
+        },
+        {
+          "concept": "Artificial intelligence",
+          "count": 26
+        },
+        {
+          "concept": "Operating system",
+          "count": 22
+        },
+        {
+          "concept": "Statistics",
+          "count": 13
+        },
+        {
+          "concept": "Data science",
+          "count": 11
+        },
+        {
+          "concept": "Quantum mechanics",
+          "count": 11
+        },
+        {
+          "concept": "Mathematical analysis",
+          "count": 10
+        },
+        {
+          "concept": "Mathematics education",
+          "count": 9
+        },
+        {
+          "concept": "Engineering management",
+          "count": 8
+        },
+        {
+          "concept": "Multimedia",
+          "count": 8
+        },
+        {
+          "concept": "Knowledge management",
+          "count": 7
+        },
+        {
+          "concept": "Geometry",
+          "count": 7
+        },
+        {
+          "concept": "Computer graphics (images)",
+          "count": 7
+        },
+        {
+          "concept": "Systems engineering",
+          "count": 6
+        },
+        {
+          "concept": "Computer security",
+          "count": 6
+        },
+        {
+          "concept": "Machine learning",
+          "count": 6
+        },
+        {
+          "concept": "Law",
+          "count": 6
+        },
+        {
+          "concept": "Finance",
+          "count": 6
+        },
+        {
+          "concept": "Management",
+          "count": 5
+        },
+        {
+          "concept": "Accounting",
+          "count": 5
+        },
+        {
+          "concept": "Econometrics",
+          "count": 5
+        },
+        {
+          "concept": "Mechanical engineering",
+          "count": 5
+        },
+        {
+          "concept": "Electrical engineering",
+          "count": 5
+        },
+        {
+          "concept": "Archaeology",
+          "count": 4
+        },
+        {
+          "concept": "Algorithm",
+          "count": 4
+        },
+        {
+          "concept": "Information retrieval",
+          "count": 4
+        },
+        {
+          "concept": "Data mining",
+          "count": 4
+        },
+        {
+          "concept": "Economic growth",
+          "count": 4
+        },
+        {
+          "concept": "Engineering drawing",
+          "count": 4
+        },
+        {
+          "concept": "Microeconomics",
+          "count": 4
+        },
+        {
+          "concept": "Epistemology",
+          "count": 3
+        },
+        {
+          "concept": "Ecology",
+          "count": 3
+        },
+        {
+          "concept": "Embedded system",
+          "count": 3
+        },
+        {
+          "concept": "Database",
+          "count": 3
+        },
+        {
+          "concept": "Operations management",
+          "count": 3
+        },
+        {
+          "concept": "Actuarial science",
+          "count": 3
+        },
+        {
+          "concept": "Paleontology",
+          "count": 3
+        },
+        {
+          "concept": "Process management",
+          "count": 3
+        },
+        {
+          "concept": "Social psychology",
+          "count": 2
+        },
+        {
+          "concept": "Social science",
+          "count": 2
+        },
+        {
+          "concept": "Visual arts",
+          "count": 2
+        },
+        {
+          "concept": "Computational science",
+          "count": 2
+        },
+        {
+          "concept": "Financial economics",
+          "count": 2
+        },
+        {
+          "concept": "Aerospace engineering",
+          "count": 2
+        },
+        {
+          "concept": "Process engineering",
+          "count": 2
+        },
+        {
+          "concept": "Neuroscience",
+          "count": 2
+        },
+        {
+          "concept": "Linguistics",
+          "count": 2
+        },
+        {
+          "concept": "Evolutionary biology",
+          "count": 2
+        },
+        {
+          "concept": "Pure mathematics",
+          "count": 2
+        },
+        {
+          "concept": "Operations research",
+          "count": 2
+        },
+        {
+          "concept": "Internal medicine",
+          "count": 2
+        },
+        {
+          "concept": "Telecommunications",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical optimization",
+          "count": 1
+        },
+        {
+          "concept": "Natural language processing",
+          "count": 1
+        },
+        {
+          "concept": "Economy",
+          "count": 1
+        },
+        {
+          "concept": "Risk analysis (engineering)",
+          "count": 1
+        },
+        {
+          "concept": "Management science",
+          "count": 1
+        },
+        {
+          "concept": "Botany",
+          "count": 1
+        },
+        {
+          "concept": "Physical medicine and rehabilitation",
+          "count": 1
+        },
+        {
+          "concept": "Chromatography",
+          "count": 1
+        },
+        {
+          "concept": "Geodesy",
+          "count": 1
+        },
+        {
+          "concept": "Pharmacology",
+          "count": 1
+        },
+        {
+          "concept": "Waste management",
+          "count": 1
+        },
+        {
+          "concept": "Architectural engineering",
+          "count": 1
+        },
+        {
+          "concept": "Public economics",
+          "count": 1
+        },
+        {
+          "concept": "Computer network",
+          "count": 1
+        },
+        {
+          "concept": "Manufacturing engineering",
+          "count": 1
+        },
+        {
+          "concept": "Combinatorics",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical economics",
+          "count": 1
+        },
+        {
+          "concept": "Pedagogy",
+          "count": 1
+        },
+        {
+          "concept": "Organic chemistry",
+          "count": 1
+        },
+        {
+          "concept": "Medical education",
+          "count": 1
+        },
+        {
+          "concept": "Macroeconomics",
+          "count": 1
+        },
+        {
+          "concept": "Optics",
+          "count": 1
+        },
+        {
+          "concept": "Law and economics",
+          "count": 1
+        },
+        {
+          "concept": "Oceanography",
+          "count": 1
+        },
+        {
+          "concept": "Communication",
+          "count": 1
+        },
+        {
+          "concept": "Media studies",
+          "count": 1
+        },
+        {
+          "concept": "Theoretical computer science",
+          "count": 1
+        },
+        {
+          "concept": "Theoretical physics",
+          "count": 1
+        },
+        {
+          "concept": "Medical emergency",
+          "count": 1
+        },
+        {
+          "concept": "Astrophysics",
+          "count": 1
+        },
+        {
+          "concept": "Biochemistry",
+          "count": 1
+        },
+        {
+          "concept": "Internet privacy",
+          "count": 1
+        },
+        {
+          "concept": "Discrete mathematics",
+          "count": 1
+        },
+        {
+          "concept": "Reliability engineering",
+          "count": 1
+        },
+        {
+          "concept": "Simulation",
+          "count": 1
+        },
+        {
+          "concept": "Remote sensing",
+          "count": 1
+        },
+        {
+          "concept": "Nursing",
+          "count": 1
+        },
+        {
+          "concept": "Computer vision",
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "2020": [
+        {
+          "concept": "End-user development",
+          "count": 6
+        },
+        {
+          "concept": "Software development",
+          "count": 5
+        },
+        {
+          "concept": "Code (set theory)",
+          "count": 4
+        },
+        {
+          "concept": "Inductive programming",
+          "count": 2
+        },
+        {
+          "concept": "Robotics",
+          "count": 2
+        },
+        {
+          "concept": "Mars rover",
+          "count": 2
+        },
+        {
+          "concept": "Programming by demonstration",
+          "count": 1
+        },
+        {
+          "concept": "Operational semantics",
+          "count": 1
+        },
+        {
+          "concept": "Reusability",
+          "count": 1
+        },
+        {
+          "concept": "Exploration of Mars",
+          "count": 1
+        },
+        {
+          "concept": "clone (Java method)",
+          "count": 1
+        },
+        {
+          "concept": "Decision table",
+          "count": 1
+        },
+        {
+          "concept": "Code reuse",
+          "count": 1
+        },
+        {
+          "concept": "Service composition",
+          "count": 1
+        },
+        {
+          "concept": "Social network (sociolinguistics)",
+          "count": 1
+        },
+        {
+          "concept": "Unified Modeling Language",
+          "count": 1
+        },
+        {
+          "concept": "Modeling language",
+          "count": 1
+        },
+        {
+          "concept": "Gaussian process",
+          "count": 1
+        },
+        {
+          "concept": "Polynomial regression",
+          "count": 1
+        },
+        {
+          "concept": "Synchronization (alternating current)",
+          "count": 1
+        },
+        {
+          "concept": "Web 2.0",
+          "count": 1
+        },
+        {
+          "concept": "CPU shielding",
+          "count": 1
+        },
+        {
+          "concept": "Assembly language",
+          "count": 1
+        },
+        {
+          "concept": "Database schema",
+          "count": 1
+        },
+        {
+          "concept": "Database model",
+          "count": 1
+        },
+        {
+          "concept": "Cash flow statement",
+          "count": 1
+        },
+        {
+          "concept": "Investment (military)",
+          "count": 1
+        },
+        {
+          "concept": "ABC analysis",
+          "count": 1
+        },
+        {
+          "concept": "Maximum bubble pressure method",
+          "count": 1
+        },
+        {
+          "concept": "Humanoid robot",
+          "count": 1
+        },
+        {
+          "concept": "Financial accounting",
+          "count": 1
+        },
+        {
+          "concept": "Interpolation (computer graphics)",
+          "count": 1
+        },
+        {
+          "concept": "Worry",
+          "count": 1
+        },
+        {
+          "concept": "Dialog system",
+          "count": 1
+        },
+        {
+          "concept": "Source lines of code",
+          "count": 1
+        },
+        {
+          "concept": "Sedimentation",
+          "count": 1
+        },
+        {
+          "concept": "Ordinary differential equation",
+          "count": 1
+        },
+        {
+          "concept": "Transformation (genetics)",
+          "count": 1
+        },
+        {
+          "concept": "Model transformation",
+          "count": 1
+        },
+        {
+          "concept": "Representation (politics)",
+          "count": 1
+        },
+        {
+          "concept": "Domain model",
+          "count": 1
+        },
+        {
+          "concept": "Subject-matter expert",
+          "count": 1
+        },
+        {
+          "concept": "Business education",
+          "count": 1
+        },
+        {
+          "concept": "Nonprobability sampling",
+          "count": 1
+        },
+        {
+          "concept": "Vehicle routing problem",
+          "count": 1
+        },
+        {
+          "concept": "Concurrent engineering",
+          "count": 1
+        },
+        {
+          "concept": "Crop cultivation",
+          "count": 1
+        },
+        {
+          "concept": "Compressible flow",
+          "count": 1
+        },
+        {
+          "concept": "Data quality",
+          "count": 1
+        },
+        {
+          "concept": "Microsoft Visual Studio",
+          "count": 1
+        },
+        {
+          "concept": "Adhesive",
+          "count": 1
+        }
+      ],
+      "2021": [
+        {
+          "concept": "End-user development",
+          "count": 8
+        },
+        {
+          "concept": "Code (set theory)",
+          "count": 7
+        },
+        {
+          "concept": "Software development",
+          "count": 5
+        },
+        {
+          "concept": "Maximum bubble pressure method",
+          "count": 3
+        },
+        {
+          "concept": "Programming by demonstration",
+          "count": 3
+        },
+        {
+          "concept": "Think aloud protocol",
+          "count": 3
+        },
+        {
+          "concept": "Software system",
+          "count": 3
+        },
+        {
+          "concept": "Algorithmic program debugging",
+          "count": 2
+        },
+        {
+          "concept": "Smart objects",
+          "count": 2
+        },
+        {
+          "concept": "Subject-matter expert",
+          "count": 2
+        },
+        {
+          "concept": "Runge\u2013Kutta methods",
+          "count": 2
+        },
+        {
+          "concept": "Ordinary differential equation",
+          "count": 2
+        },
+        {
+          "concept": "Euler method",
+          "count": 2
+        },
+        {
+          "concept": "Concurrent engineering",
+          "count": 2
+        },
+        {
+          "concept": "Genome",
+          "count": 1
+        },
+        {
+          "concept": "Nomenclature",
+          "count": 1
+        },
+        {
+          "concept": "Social needs",
+          "count": 1
+        },
+        {
+          "concept": "Sweet spot",
+          "count": 1
+        },
+        {
+          "concept": "Qualitative analysis",
+          "count": 1
+        },
+        {
+          "concept": "Semantic computing",
+          "count": 1
+        },
+        {
+          "concept": "Inductive programming",
+          "count": 1
+        },
+        {
+          "concept": "Visual Basic",
+          "count": 1
+        },
+        {
+          "concept": "Systematic review",
+          "count": 1
+        },
+        {
+          "concept": "Supply chain management",
+          "count": 1
+        },
+        {
+          "concept": "Web development",
+          "count": 1
+        },
+        {
+          "concept": "Web modeling",
+          "count": 1
+        },
+        {
+          "concept": "Web design",
+          "count": 1
+        },
+        {
+          "concept": "Graph drawing",
+          "count": 1
+        },
+        {
+          "concept": "Product metric",
+          "count": 1
+        },
+        {
+          "concept": "Schwarzschild radius",
+          "count": 1
+        },
+        {
+          "concept": "Cloud computing security",
+          "count": 1
+        },
+        {
+          "concept": "Robustness (evolution)",
+          "count": 1
+        },
+        {
+          "concept": "Fuzzy set",
+          "count": 1
+        },
+        {
+          "concept": "Data exploration",
+          "count": 1
+        },
+        {
+          "concept": "Smart environment",
+          "count": 1
+        },
+        {
+          "concept": "Emissions trading",
+          "count": 1
+        },
+        {
+          "concept": "Carbon market",
+          "count": 1
+        },
+        {
+          "concept": "Carbon credit",
+          "count": 1
+        },
+        {
+          "concept": "Carbon fibers",
+          "count": 1
+        },
+        {
+          "concept": "Column (typography)",
+          "count": 1
+        },
+        {
+          "concept": "Row and column spaces",
+          "count": 1
+        },
+        {
+          "concept": "Economic order quantity",
+          "count": 1
+        },
+        {
+          "concept": "Representation (politics)",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical notation",
+          "count": 1
+        },
+        {
+          "concept": "ENCODE",
+          "count": 1
+        },
+        {
+          "concept": "Workbench",
+          "count": 1
+        },
+        {
+          "concept": "Abstract syntax",
+          "count": 1
+        },
+        {
+          "concept": "Beam search",
+          "count": 1
+        },
+        {
+          "concept": "Online analytical processing",
+          "count": 1
+        },
+        {
+          "concept": "Adhesive",
+          "count": 1
+        },
+        {
+          "concept": "Cognitive dimensions of notations",
+          "count": 1
+        },
+        {
+          "concept": "Code refactoring",
+          "count": 1
+        },
+        {
+          "concept": "Video game development",
+          "count": 1
+        },
+        {
+          "concept": "Reading comprehension",
+          "count": 1
+        },
+        {
+          "concept": "Financial accounting",
+          "count": 1
+        },
+        {
+          "concept": "Net present value",
+          "count": 1
+        },
+        {
+          "concept": "Business analysis",
+          "count": 1
+        },
+        {
+          "concept": "2019-20 coronavirus outbreak",
+          "count": 1
+        },
+        {
+          "concept": "Infectious disease (medical specialty)",
+          "count": 1
+        },
+        {
+          "concept": "Fixed asset",
+          "count": 1
+        },
+        {
+          "concept": "Crop production",
+          "count": 1
+        }
+      ],
+      "2022": [
+        {
+          "concept": "End-user development",
+          "count": 9
+        },
+        {
+          "concept": "Value at risk",
+          "count": 3
+        },
+        {
+          "concept": "Risk measure",
+          "count": 3
+        },
+        {
+          "concept": "Code (set theory)",
+          "count": 2
+        },
+        {
+          "concept": "Comprehension approach",
+          "count": 1
+        },
+        {
+          "concept": "Column (typography)",
+          "count": 1
+        },
+        {
+          "concept": "Dialog system",
+          "count": 1
+        },
+        {
+          "concept": "Software versioning",
+          "count": 1
+        },
+        {
+          "concept": "Generator (circuit theory)",
+          "count": 1
+        },
+        {
+          "concept": "Transformer",
+          "count": 1
+        },
+        {
+          "concept": "Cryopreservation",
+          "count": 1
+        },
+        {
+          "concept": "Throughput",
+          "count": 1
+        },
+        {
+          "concept": "Threatened species",
+          "count": 1
+        },
+        {
+          "concept": "Protocol (science)",
+          "count": 1
+        },
+        {
+          "concept": "Web browser",
+          "count": 1
+        },
+        {
+          "concept": "Web development",
+          "count": 1
+        },
+        {
+          "concept": "Subject-matter expert",
+          "count": 1
+        },
+        {
+          "concept": "RDF",
+          "count": 1
+        },
+        {
+          "concept": "Personal knowledge management",
+          "count": 1
+        },
+        {
+          "concept": "Transformation (genetics)",
+          "count": 1
+        },
+        {
+          "concept": "Mathematical notation",
+          "count": 1
+        },
+        {
+          "concept": "Programming by demonstration",
+          "count": 1
+        },
+        {
+          "concept": "Sequential game",
+          "count": 1
+        },
+        {
+          "concept": "Bibliographic coupling",
+          "count": 1
+        },
+        {
+          "concept": "Codebase",
+          "count": 1
+        },
+        {
+          "concept": "Workspace",
+          "count": 1
+        },
+        {
+          "concept": "Root-finding algorithm",
+          "count": 1
+        },
+        {
+          "concept": "Newton's method",
+          "count": 1
+        },
+        {
+          "concept": "Web 2.0",
+          "count": 1
+        },
+        {
+          "concept": "Systematic review",
+          "count": 1
+        },
+        {
+          "concept": "eHealth",
+          "count": 1
+        },
+        {
+          "concept": "Operational semantics",
+          "count": 1
+        },
+        {
+          "concept": "Representation (politics)",
+          "count": 1
+        },
+        {
+          "concept": "Upper ontology",
+          "count": 1
+        },
+        {
+          "concept": "Process ontology",
+          "count": 1
+        },
+        {
+          "concept": "Ontology-based data integration",
+          "count": 1
+        },
+        {
+          "concept": "Security controls",
+          "count": 1
+        },
+        {
+          "concept": "Similarity (geometry)",
+          "count": 1
+        },
+        {
+          "concept": "Abia",
+          "count": 1
+        },
+        {
+          "concept": "Cronbach's alpha",
+          "count": 1
+        },
+        {
+          "concept": "Production planning",
+          "count": 1
+        },
+        {
+          "concept": "Smart objects",
+          "count": 1
+        },
+        {
+          "concept": "Web of Things",
+          "count": 1
+        },
+        {
+          "concept": "Stock price",
+          "count": 1
+        },
+        {
+          "concept": "Fault detection and isolation",
+          "count": 1
+        },
+        {
+          "concept": "Unified Modeling Language",
+          "count": 1
+        },
+        {
+          "concept": "Structured systems analysis and design method",
+          "count": 1
+        },
+        {
+          "concept": "Inductive programming",
+          "count": 1
+        },
+        {
+          "concept": "Participatory design",
+          "count": 1
+        },
+        {
+          "concept": "Human\u2013robot interaction",
+          "count": 1
+        },
+        {
+          "concept": "Ordinary differential equation",
+          "count": 1
+        },
+        {
+          "concept": "Numerical partial differential equations",
+          "count": 1
+        },
+        {
+          "concept": "Infectious disease (medical specialty)",
+          "count": 1
+        }
+      ],
+      "2023": [
+        {
+          "concept": "Investment (military)",
+          "count": 5
+        },
+        {
+          "concept": "Software development",
+          "count": 4
+        },
+        {
+          "concept": "Business analysis",
+          "count": 4
+        },
+        {
+          "concept": "Maximum bubble pressure method",
+          "count": 4
+        },
+        {
+          "concept": "Representation (politics)",
+          "count": 4
+        },
+        {
+          "concept": "Capital budgeting",
+          "count": 4
+        },
+        {
+          "concept": "Code (set theory)",
+          "count": 3
+        },
+        {
+          "concept": "Cognitive model",
+          "count": 2
+        },
+        {
+          "concept": "End-user development",
+          "count": 2
+        },
+        {
+          "concept": "Microsoft Visual Studio",
+          "count": 2
+        },
+        {
+          "concept": "Software bug",
+          "count": 2
+        },
+        {
+          "concept": "Code refactoring",
+          "count": 2
+        },
+        {
+          "concept": "Debugger",
+          "count": 2
+        },
+        {
+          "concept": "Open source",
+          "count": 2
+        },
+        {
+          "concept": "View",
+          "count": 2
+        },
+        {
+          "concept": "Relational database management system",
+          "count": 2
+        },
+        {
+          "concept": "Net present value",
+          "count": 2
+        },
+        {
+          "concept": "Algorithmic program debugging",
+          "count": 2
+        },
+        {
+          "concept": "Investment decisions",
+          "count": 1
+        },
+        {
+          "concept": "User modeling",
+          "count": 1
+        },
+        {
+          "concept": "User interface design",
+          "count": 1
+        },
+        {
+          "concept": "Gender diversity",
+          "count": 1
+        },
+        {
+          "concept": "Nutrient management",
+          "count": 1
+        },
+        {
+          "concept": "Sustainable agriculture",
+          "count": 1
+        },
+        {
+          "concept": "Anaerobic digestion",
+          "count": 1
+        },
+        {
+          "concept": "Software system",
+          "count": 1
+        },
+        {
+          "concept": "Web of Things",
+          "count": 1
+        },
+        {
+          "concept": "Smart objects",
+          "count": 1
+        },
+        {
+          "concept": "Smart environment",
+          "count": 1
+        },
+        {
+          "concept": "clone (Java method)",
+          "count": 1
+        },
+        {
+          "concept": "Data extraction",
+          "count": 1
+        },
+        {
+          "concept": "Robotics",
+          "count": 1
+        },
+        {
+          "concept": "Code reuse",
+          "count": 1
+        },
+        {
+          "concept": "Programming by demonstration",
+          "count": 1
+        },
+        {
+          "concept": "Data visualization",
+          "count": 1
+        },
+        {
+          "concept": "Democracy",
+          "count": 1
+        },
+        {
+          "concept": "Data transformation",
+          "count": 1
+        },
+        {
+          "concept": "Transformation (genetics)",
+          "count": 1
+        },
+        {
+          "concept": "Logical analysis",
+          "count": 1
+        },
+        {
+          "concept": "Beam search",
+          "count": 1
+        },
+        {
+          "concept": "Visual Basic",
+          "count": 1
+        },
+        {
+          "concept": "Simplex algorithm",
+          "count": 1
+        },
+        {
+          "concept": "Incidence matrix",
+          "count": 1
+        },
+        {
+          "concept": "Quality management",
+          "count": 1
+        },
+        {
+          "concept": "Potash",
+          "count": 1
+        },
+        {
+          "concept": "Natural language generation",
+          "count": 1
+        },
+        {
+          "concept": "Natural language understanding",
+          "count": 1
+        },
+        {
+          "concept": "Principal\u2013agent problem",
+          "count": 1
+        },
+        {
+          "concept": "Shareholder",
+          "count": 1
+        },
+        {
+          "concept": "Simulation software",
+          "count": 1
+        },
+        {
+          "concept": "Algebraic expression",
+          "count": 1
+        },
+        {
+          "concept": "Cumulative distribution function",
+          "count": 1
+        },
+        {
+          "concept": "Iterative design",
+          "count": 1
+        },
+        {
+          "concept": "The Conceptual Framework",
+          "count": 1
+        },
+        {
+          "concept": "Unified Modeling Language",
+          "count": 1
+        },
+        {
+          "concept": "Open source software",
+          "count": 1
+        }
+      ],
+      "2024": [
+        {
+          "concept": "End-user development",
+          "count": 11
+        },
+        {
+          "concept": "Code (set theory)",
+          "count": 4
+        },
+        {
+          "concept": "Robotics",
+          "count": 4
+        },
+        {
+          "concept": "Software development",
+          "count": 3
+        },
+        {
+          "concept": "Inductive programming",
+          "count": 3
+        },
+        {
+          "concept": "Mobile robot",
+          "count": 2
+        },
+        {
+          "concept": "Programming by demonstration",
+          "count": 2
+        },
+        {
+          "concept": "Participatory design",
+          "count": 2
+        },
+        {
+          "concept": "Representation (politics)",
+          "count": 2
+        },
+        {
+          "concept": "Maximum bubble pressure method",
+          "count": 2
+        },
+        {
+          "concept": "Open source",
+          "count": 1
+        },
+        {
+          "concept": "Code generation",
+          "count": 1
+        },
+        {
+          "concept": "Originality",
+          "count": 1
+        },
+        {
+          "concept": "IT risk management",
+          "count": 1
+        },
+        {
+          "concept": "Data visualization",
+          "count": 1
+        },
+        {
+          "concept": "Visual analytics",
+          "count": 1
+        },
+        {
+          "concept": "Screen reader",
+          "count": 1
+        },
+        {
+          "concept": "First-generation programming language",
+          "count": 1
+        },
+        {
+          "concept": "Drug repositioning",
+          "count": 1
+        },
+        {
+          "concept": "Generator (circuit theory)",
+          "count": 1
+        },
+        {
+          "concept": "State income tax",
+          "count": 1
+        },
+        {
+          "concept": "Tax avoidance",
+          "count": 1
+        },
+        {
+          "concept": "Moment-generating function",
+          "count": 1
+        },
+        {
+          "concept": "Black\u2013Scholes model",
+          "count": 1
+        },
+        {
+          "concept": "Investment (military)",
+          "count": 1
+        },
+        {
+          "concept": "Humanoid robot",
+          "count": 1
+        },
+        {
+          "concept": "Subject-matter expert",
+          "count": 1
+        },
+        {
+          "concept": "Amortization",
+          "count": 1
+        },
+        {
+          "concept": "Human\u2013robot interaction",
+          "count": 1
+        },
+        {
+          "concept": "Data-flow analysis",
+          "count": 1
+        },
+        {
+          "concept": "Accounts payable",
+          "count": 1
+        },
+        {
+          "concept": "Visual Basic",
+          "count": 1
+        },
+        {
+          "concept": "Internal rate of return",
+          "count": 1
+        },
+        {
+          "concept": "Return on investment",
+          "count": 1
+        },
+        {
+          "concept": "Portfolio optimization",
+          "count": 1
+        },
+        {
+          "concept": "Mean absolute error",
+          "count": 1
+        },
+        {
+          "concept": "White dwarf",
+          "count": 1
+        },
+        {
+          "concept": "White (mutation)",
+          "count": 1
+        },
+        {
+          "concept": "Vehicle routing problem",
+          "count": 1
+        },
+        {
+          "concept": "Binomial options pricing model",
+          "count": 1
+        },
+        {
+          "concept": "Six Sigma",
+          "count": 1
+        },
+        {
+          "concept": "Nonlinear regression",
+          "count": 1
+        },
+        {
+          "concept": "Ampere",
+          "count": 1
+        },
+        {
+          "concept": "Autoregressive integrated moving average",
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "2020": [
+        {
+          "concept": "Fourth-generation programming language",
+          "count": 1
+        },
+        {
+          "concept": "Event-driven programming",
+          "count": 1
+        },
+        {
+          "concept": "Physical data model",
+          "count": 1
+        },
+        {
+          "concept": "Intelligent database",
+          "count": 1
+        },
+        {
+          "concept": "Domain analysis",
+          "count": 1
+        },
+        {
+          "concept": "Domain engineering",
+          "count": 1
+        }
+      ],
+      "2021": [
+        {
+          "concept": "Code review",
+          "count": 1
+        },
+        {
+          "concept": "Firewall (physics)",
+          "count": 1
+        },
+        {
+          "concept": "End-user computing",
+          "count": 1
+        },
+        {
+          "concept": "Explicit and implicit methods",
+          "count": 1
+        },
+        {
+          "concept": "Code smell",
+          "count": 1
+        },
+        {
+          "concept": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+          "count": 1
+        },
+        {
+          "concept": "Pandemic",
+          "count": 1
+        }
+      ],
+      "2022": [
+        {
+          "concept": "Natural language programming",
+          "count": 1
+        },
+        {
+          "concept": "Event-driven programming",
+          "count": 1
+        },
+        {
+          "concept": "Explicit and implicit methods",
+          "count": 1
+        },
+        {
+          "concept": "Pandemic",
+          "count": 1
+        }
+      ],
+      "2023": [
+        {
+          "concept": "Software analytics",
+          "count": 1
+        },
+        {
+          "concept": "Domain analysis",
+          "count": 1
+        },
+        {
+          "concept": "KPI-driven code analysis",
+          "count": 1
+        },
+        {
+          "concept": "Code review",
+          "count": 1
+        }
+      ],
+      "2024": [
+        {
+          "concept": "Event-driven programming",
+          "count": 2
+        },
+        {
+          "concept": "Personal robot",
+          "count": 1
+        },
+        {
+          "concept": "Software requirements",
+          "count": 1
+        },
+        {
+          "concept": "Functional reactive programming",
+          "count": 1
+        },
+        {
+          "concept": "Social robot",
+          "count": 1
+        },
+        {
+          "concept": "Modified internal rate of return",
+          "count": 1
+        },
+        {
+          "concept": "Social software engineering",
+          "count": 1
+        },
+        {
+          "concept": "Software peer review",
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "2020": [
+        {
+          "concept": "Functional logic programming",
+          "count": 1
+        },
+        {
+          "concept": "Denotational semantics",
+          "count": 1
+        },
+        {
+          "concept": "Applications of UML",
+          "count": 1
+        },
+        {
+          "concept": "Systems Modeling Language",
+          "count": 1
+        },
+        {
+          "concept": "Mashup",
+          "count": 1
+        },
+        {
+          "concept": "Reactive programming",
+          "count": 1
+        },
+        {
+          "concept": "Database testing",
+          "count": 1
+        },
+        {
+          "concept": "Interface (matter)",
+          "count": 1
+        },
+        {
+          "concept": "Revenue recognition",
+          "count": 1
+        },
+        {
+          "concept": "Software quality",
+          "count": 1
+        },
+        {
+          "concept": "Software construction",
+          "count": 1
+        },
+        {
+          "concept": "Component-based software engineering",
+          "count": 1
+        },
+        {
+          "concept": "Microsoft Office Live Meeting",
+          "count": 1
+        }
+      ],
+      "2021": [
+        {
+          "concept": "Interface (matter)",
+          "count": 3
+        },
+        {
+          "concept": "Program comprehension",
+          "count": 3
+        },
+        {
+          "concept": "Gene nomenclature",
+          "count": 1
+        },
+        {
+          "concept": "Gene prediction",
+          "count": 1
+        },
+        {
+          "concept": "Static program analysis",
+          "count": 1
+        },
+        {
+          "concept": "Procedural programming",
+          "count": 1
+        },
+        {
+          "concept": "Service management",
+          "count": 1
+        },
+        {
+          "concept": "Web application development",
+          "count": 1
+        },
+        {
+          "concept": "Graph Layout",
+          "count": 1
+        },
+        {
+          "concept": "Charged black hole",
+          "count": 1
+        },
+        {
+          "concept": "Utility computing",
+          "count": 1
+        },
+        {
+          "concept": "Software prototyping",
+          "count": 1
+        },
+        {
+          "concept": "Reorder point",
+          "count": 1
+        },
+        {
+          "concept": "Differential algebraic equation",
+          "count": 1
+        },
+        {
+          "concept": "Incremental heuristic search",
+          "count": 1
+        },
+        {
+          "concept": "Software quality",
+          "count": 1
+        },
+        {
+          "concept": "Throughput accounting",
+          "count": 1
+        },
+        {
+          "concept": "Business analytics",
+          "count": 1
+        },
+        {
+          "concept": "Coronavirus disease 2019 (COVID-19)",
+          "count": 1
+        }
+      ],
+      "2022": [
+        {
+          "concept": "Universal Networking Language",
+          "count": 1
+        },
+        {
+          "concept": "Web API",
+          "count": 1
+        },
+        {
+          "concept": "Open Knowledge Base Connectivity",
+          "count": 1
+        },
+        {
+          "concept": "Simulations and games in economics education",
+          "count": 1
+        },
+        {
+          "concept": "Mashup",
+          "count": 1
+        },
+        {
+          "concept": "Denotational semantics",
+          "count": 1
+        },
+        {
+          "concept": "Class diagram",
+          "count": 1
+        },
+        {
+          "concept": "Reactive programming",
+          "count": 1
+        },
+        {
+          "concept": "Differential algebraic equation",
+          "count": 1
+        },
+        {
+          "concept": "Coronavirus disease 2019 (COVID-19)",
+          "count": 1
+        }
+      ],
+      "2023": [
+        {
+          "concept": "Business analytics",
+          "count": 4
+        },
+        {
+          "concept": "Interface (matter)",
+          "count": 4
+        },
+        {
+          "concept": "Software construction",
+          "count": 3
+        },
+        {
+          "concept": "Digestate",
+          "count": 1
+        },
+        {
+          "concept": "Incremental heuristic search",
+          "count": 1
+        },
+        {
+          "concept": "Materialized view",
+          "count": 1
+        },
+        {
+          "concept": "Quality management system",
+          "count": 1
+        },
+        {
+          "concept": "Agency cost",
+          "count": 1
+        },
+        {
+          "concept": "Q-function",
+          "count": 1
+        },
+        {
+          "concept": "Software development process",
+          "count": 1
+        },
+        {
+          "concept": "Static program analysis",
+          "count": 1
+        },
+        {
+          "concept": "Class diagram",
+          "count": 1
+        }
+      ],
+      "2024": [
+        {
+          "concept": "Robot control",
+          "count": 2
+        },
+        {
+          "concept": "Software construction",
+          "count": 2
+        },
+        {
+          "concept": "Reactive programming",
+          "count": 2
+        },
+        {
+          "concept": "Interface (matter)",
+          "count": 2
+        },
+        {
+          "concept": "Programming domain",
+          "count": 1
+        },
+        {
+          "concept": "Tax planning",
+          "count": 1
+        },
+        {
+          "concept": "Procedural programming",
+          "count": 1
+        },
+        {
+          "concept": "Investment performance",
+          "count": 1
+        },
+        {
+          "concept": "Rate of return on a portfolio",
+          "count": 1
+        },
+        {
+          "concept": "Trinomial tree",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

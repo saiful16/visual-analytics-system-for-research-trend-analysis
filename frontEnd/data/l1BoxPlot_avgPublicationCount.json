@@ -1,0 +1,2490 @@
+{
+  "data": [
+    {
+      "subFieldName": "Artificial Intelligence",
+      "subFieldId": "https://openalex.org/subfields/1702",
+      "values": [
+        {
+          "year": 1970,
+          "value": 60.17
+        },
+        {
+          "year": 1971,
+          "value": 55.44
+        },
+        {
+          "year": 1972,
+          "value": 60.58
+        },
+        {
+          "year": 1973,
+          "value": 62.47
+        },
+        {
+          "year": 1974,
+          "value": 65.45
+        },
+        {
+          "year": 1975,
+          "value": 69.82
+        },
+        {
+          "year": 1976,
+          "value": 69.35
+        },
+        {
+          "year": 1977,
+          "value": 75.91
+        },
+        {
+          "year": 1978,
+          "value": 77.17
+        },
+        {
+          "year": 1979,
+          "value": 77.69
+        },
+        {
+          "year": 1980,
+          "value": 82.88
+        },
+        {
+          "year": 1981,
+          "value": 84.09
+        },
+        {
+          "year": 1982,
+          "value": 91.68
+        },
+        {
+          "year": 1983,
+          "value": 102.25
+        },
+        {
+          "year": 1984,
+          "value": 104.9
+        },
+        {
+          "year": 1985,
+          "value": 110.34
+        },
+        {
+          "year": 1986,
+          "value": 127.18
+        },
+        {
+          "year": 1987,
+          "value": 143.48
+        },
+        {
+          "year": 1988,
+          "value": 159.12
+        },
+        {
+          "year": 1989,
+          "value": 171.29
+        },
+        {
+          "year": 1990,
+          "value": 195.01
+        },
+        {
+          "year": 1991,
+          "value": 203.64
+        },
+        {
+          "year": 1992,
+          "value": 218.95
+        },
+        {
+          "year": 1993,
+          "value": 231.47
+        },
+        {
+          "year": 1994,
+          "value": 244.79
+        },
+        {
+          "year": 1995,
+          "value": 243.49
+        },
+        {
+          "year": 1996,
+          "value": 267.55
+        },
+        {
+          "year": 1997,
+          "value": 270.22
+        },
+        {
+          "year": 1998,
+          "value": 287.87
+        },
+        {
+          "year": 1999,
+          "value": 309.57
+        },
+        {
+          "year": 2000,
+          "value": 374.73
+        },
+        {
+          "year": 2001,
+          "value": 415.57
+        },
+        {
+          "year": 2002,
+          "value": 780.04
+        },
+        {
+          "year": 2003,
+          "value": 674.83
+        },
+        {
+          "year": 2004,
+          "value": 686.0
+        },
+        {
+          "year": 2005,
+          "value": 793.47
+        },
+        {
+          "year": 2006,
+          "value": 857.65
+        },
+        {
+          "year": 2007,
+          "value": 894.87
+        },
+        {
+          "year": 2008,
+          "value": 944.29
+        },
+        {
+          "year": 2009,
+          "value": 988.82
+        },
+        {
+          "year": 2010,
+          "value": 1056.17
+        },
+        {
+          "year": 2011,
+          "value": 1026.83
+        },
+        {
+          "year": 2012,
+          "value": 1045.92
+        },
+        {
+          "year": 2013,
+          "value": 1061.84
+        },
+        {
+          "year": 2014,
+          "value": 1064.44
+        },
+        {
+          "year": 2015,
+          "value": 1054.99
+        },
+        {
+          "year": 2016,
+          "value": 1076.49
+        },
+        {
+          "year": 2017,
+          "value": 1095.22
+        },
+        {
+          "year": 2018,
+          "value": 1212.82
+        },
+        {
+          "year": 2019,
+          "value": 1365.52
+        },
+        {
+          "year": 2020,
+          "value": 1412.4
+        },
+        {
+          "year": 2021,
+          "value": 1465.22
+        },
+        {
+          "year": 2022,
+          "value": 1320.13
+        },
+        {
+          "year": 2023,
+          "value": 1528.17
+        },
+        {
+          "year": 2024,
+          "value": 1697.45
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computational Theory and Mathematics",
+      "subFieldId": "https://openalex.org/subfields/1703",
+      "values": [
+        {
+          "year": 1970,
+          "value": 141.71
+        },
+        {
+          "year": 1971,
+          "value": 139.33
+        },
+        {
+          "year": 1972,
+          "value": 152.0
+        },
+        {
+          "year": 1973,
+          "value": 153.46
+        },
+        {
+          "year": 1974,
+          "value": 159.83
+        },
+        {
+          "year": 1975,
+          "value": 159.38
+        },
+        {
+          "year": 1976,
+          "value": 158.33
+        },
+        {
+          "year": 1977,
+          "value": 155.75
+        },
+        {
+          "year": 1978,
+          "value": 157.54
+        },
+        {
+          "year": 1979,
+          "value": 162.83
+        },
+        {
+          "year": 1980,
+          "value": 170.42
+        },
+        {
+          "year": 1981,
+          "value": 174.75
+        },
+        {
+          "year": 1982,
+          "value": 179.92
+        },
+        {
+          "year": 1983,
+          "value": 183.08
+        },
+        {
+          "year": 1984,
+          "value": 195.79
+        },
+        {
+          "year": 1985,
+          "value": 207.62
+        },
+        {
+          "year": 1986,
+          "value": 222.54
+        },
+        {
+          "year": 1987,
+          "value": 229.83
+        },
+        {
+          "year": 1988,
+          "value": 246.88
+        },
+        {
+          "year": 1989,
+          "value": 263.21
+        },
+        {
+          "year": 1990,
+          "value": 283.42
+        },
+        {
+          "year": 1991,
+          "value": 295.42
+        },
+        {
+          "year": 1992,
+          "value": 310.58
+        },
+        {
+          "year": 1993,
+          "value": 322.33
+        },
+        {
+          "year": 1994,
+          "value": 340.25
+        },
+        {
+          "year": 1995,
+          "value": 360.46
+        },
+        {
+          "year": 1996,
+          "value": 381.12
+        },
+        {
+          "year": 1997,
+          "value": 378.12
+        },
+        {
+          "year": 1998,
+          "value": 395.92
+        },
+        {
+          "year": 1999,
+          "value": 411.08
+        },
+        {
+          "year": 2000,
+          "value": 462.33
+        },
+        {
+          "year": 2001,
+          "value": 469.33
+        },
+        {
+          "year": 2002,
+          "value": 790.33
+        },
+        {
+          "year": 2003,
+          "value": 678.71
+        },
+        {
+          "year": 2004,
+          "value": 670.58
+        },
+        {
+          "year": 2005,
+          "value": 751.08
+        },
+        {
+          "year": 2006,
+          "value": 796.58
+        },
+        {
+          "year": 2007,
+          "value": 823.79
+        },
+        {
+          "year": 2008,
+          "value": 867.17
+        },
+        {
+          "year": 2009,
+          "value": 895.71
+        },
+        {
+          "year": 2010,
+          "value": 936.46
+        },
+        {
+          "year": 2011,
+          "value": 950.0
+        },
+        {
+          "year": 2012,
+          "value": 952.29
+        },
+        {
+          "year": 2013,
+          "value": 952.58
+        },
+        {
+          "year": 2014,
+          "value": 933.83
+        },
+        {
+          "year": 2015,
+          "value": 923.17
+        },
+        {
+          "year": 2016,
+          "value": 895.33
+        },
+        {
+          "year": 2017,
+          "value": 878.96
+        },
+        {
+          "year": 2018,
+          "value": 904.08
+        },
+        {
+          "year": 2019,
+          "value": 915.83
+        },
+        {
+          "year": 2020,
+          "value": 954.58
+        },
+        {
+          "year": 2021,
+          "value": 945.88
+        },
+        {
+          "year": 2022,
+          "value": 872.42
+        },
+        {
+          "year": 2023,
+          "value": 889.29
+        },
+        {
+          "year": 2024,
+          "value": 933.67
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Graphics and Computer-Aided Design",
+      "subFieldId": "https://openalex.org/subfields/1704",
+      "values": [
+        {
+          "year": 1970,
+          "value": 59.0
+        },
+        {
+          "year": 1971,
+          "value": 53.5
+        },
+        {
+          "year": 1972,
+          "value": 59.5
+        },
+        {
+          "year": 1973,
+          "value": 61.75
+        },
+        {
+          "year": 1974,
+          "value": 61.5
+        },
+        {
+          "year": 1975,
+          "value": 68.25
+        },
+        {
+          "year": 1976,
+          "value": 64.75
+        },
+        {
+          "year": 1977,
+          "value": 74.0
+        },
+        {
+          "year": 1978,
+          "value": 78.5
+        },
+        {
+          "year": 1979,
+          "value": 81.0
+        },
+        {
+          "year": 1980,
+          "value": 87.0
+        },
+        {
+          "year": 1981,
+          "value": 93.5
+        },
+        {
+          "year": 1982,
+          "value": 99.25
+        },
+        {
+          "year": 1983,
+          "value": 117.25
+        },
+        {
+          "year": 1984,
+          "value": 134.5
+        },
+        {
+          "year": 1985,
+          "value": 162.5
+        },
+        {
+          "year": 1986,
+          "value": 171.25
+        },
+        {
+          "year": 1987,
+          "value": 197.0
+        },
+        {
+          "year": 1988,
+          "value": 190.25
+        },
+        {
+          "year": 1989,
+          "value": 221.25
+        },
+        {
+          "year": 1990,
+          "value": 265.25
+        },
+        {
+          "year": 1991,
+          "value": 278.75
+        },
+        {
+          "year": 1992,
+          "value": 331.5
+        },
+        {
+          "year": 1993,
+          "value": 323.75
+        },
+        {
+          "year": 1994,
+          "value": 319.5
+        },
+        {
+          "year": 1995,
+          "value": 350.25
+        },
+        {
+          "year": 1996,
+          "value": 372.5
+        },
+        {
+          "year": 1997,
+          "value": 399.75
+        },
+        {
+          "year": 1998,
+          "value": 448.0
+        },
+        {
+          "year": 1999,
+          "value": 477.0
+        },
+        {
+          "year": 2000,
+          "value": 606.75
+        },
+        {
+          "year": 2001,
+          "value": 713.5
+        },
+        {
+          "year": 2002,
+          "value": 1155.0
+        },
+        {
+          "year": 2003,
+          "value": 1130.75
+        },
+        {
+          "year": 2004,
+          "value": 1168.5
+        },
+        {
+          "year": 2005,
+          "value": 1271.5
+        },
+        {
+          "year": 2006,
+          "value": 1364.0
+        },
+        {
+          "year": 2007,
+          "value": 1493.0
+        },
+        {
+          "year": 2008,
+          "value": 1487.25
+        },
+        {
+          "year": 2009,
+          "value": 1639.0
+        },
+        {
+          "year": 2010,
+          "value": 1703.25
+        },
+        {
+          "year": 2011,
+          "value": 1655.0
+        },
+        {
+          "year": 2012,
+          "value": 1342.25
+        },
+        {
+          "year": 2013,
+          "value": 1270.75
+        },
+        {
+          "year": 2014,
+          "value": 1260.25
+        },
+        {
+          "year": 2015,
+          "value": 1263.25
+        },
+        {
+          "year": 2016,
+          "value": 1120.75
+        },
+        {
+          "year": 2017,
+          "value": 1049.75
+        },
+        {
+          "year": 2018,
+          "value": 1065.75
+        },
+        {
+          "year": 2019,
+          "value": 1132.5
+        },
+        {
+          "year": 2020,
+          "value": 1183.5
+        },
+        {
+          "year": 2021,
+          "value": 1193.25
+        },
+        {
+          "year": 2022,
+          "value": 1138.25
+        },
+        {
+          "year": 2023,
+          "value": 1367.5
+        },
+        {
+          "year": 2024,
+          "value": 1535.25
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Networks and Communications",
+      "subFieldId": "https://openalex.org/subfields/1705",
+      "values": [
+        {
+          "year": 1970,
+          "value": 57.37
+        },
+        {
+          "year": 1971,
+          "value": 49.37
+        },
+        {
+          "year": 1972,
+          "value": 50.84
+        },
+        {
+          "year": 1973,
+          "value": 52.07
+        },
+        {
+          "year": 1974,
+          "value": 58.56
+        },
+        {
+          "year": 1975,
+          "value": 66.77
+        },
+        {
+          "year": 1976,
+          "value": 69.98
+        },
+        {
+          "year": 1977,
+          "value": 69.07
+        },
+        {
+          "year": 1978,
+          "value": 73.72
+        },
+        {
+          "year": 1979,
+          "value": 83.98
+        },
+        {
+          "year": 1980,
+          "value": 90.19
+        },
+        {
+          "year": 1981,
+          "value": 95.19
+        },
+        {
+          "year": 1982,
+          "value": 105.23
+        },
+        {
+          "year": 1983,
+          "value": 117.86
+        },
+        {
+          "year": 1984,
+          "value": 122.19
+        },
+        {
+          "year": 1985,
+          "value": 131.12
+        },
+        {
+          "year": 1986,
+          "value": 152.81
+        },
+        {
+          "year": 1987,
+          "value": 163.93
+        },
+        {
+          "year": 1988,
+          "value": 169.93
+        },
+        {
+          "year": 1989,
+          "value": 178.07
+        },
+        {
+          "year": 1990,
+          "value": 193.86
+        },
+        {
+          "year": 1991,
+          "value": 208.88
+        },
+        {
+          "year": 1992,
+          "value": 227.3
+        },
+        {
+          "year": 1993,
+          "value": 248.72
+        },
+        {
+          "year": 1994,
+          "value": 271.6
+        },
+        {
+          "year": 1995,
+          "value": 278.7
+        },
+        {
+          "year": 1996,
+          "value": 309.07
+        },
+        {
+          "year": 1997,
+          "value": 330.3
+        },
+        {
+          "year": 1998,
+          "value": 348.65
+        },
+        {
+          "year": 1999,
+          "value": 380.14
+        },
+        {
+          "year": 2000,
+          "value": 422.09
+        },
+        {
+          "year": 2001,
+          "value": 458.47
+        },
+        {
+          "year": 2002,
+          "value": 1263.53
+        },
+        {
+          "year": 2003,
+          "value": 961.02
+        },
+        {
+          "year": 2004,
+          "value": 960.53
+        },
+        {
+          "year": 2005,
+          "value": 1160.44
+        },
+        {
+          "year": 2006,
+          "value": 1297.88
+        },
+        {
+          "year": 2007,
+          "value": 1305.91
+        },
+        {
+          "year": 2008,
+          "value": 1420.26
+        },
+        {
+          "year": 2009,
+          "value": 1484.91
+        },
+        {
+          "year": 2010,
+          "value": 1574.44
+        },
+        {
+          "year": 2011,
+          "value": 1557.09
+        },
+        {
+          "year": 2012,
+          "value": 1576.19
+        },
+        {
+          "year": 2013,
+          "value": 1541.0
+        },
+        {
+          "year": 2014,
+          "value": 1570.16
+        },
+        {
+          "year": 2015,
+          "value": 1485.19
+        },
+        {
+          "year": 2016,
+          "value": 1430.02
+        },
+        {
+          "year": 2017,
+          "value": 1381.49
+        },
+        {
+          "year": 2018,
+          "value": 1374.44
+        },
+        {
+          "year": 2019,
+          "value": 1368.58
+        },
+        {
+          "year": 2020,
+          "value": 1241.6
+        },
+        {
+          "year": 2021,
+          "value": 1131.81
+        },
+        {
+          "year": 2022,
+          "value": 995.53
+        },
+        {
+          "year": 2023,
+          "value": 1054.95
+        },
+        {
+          "year": 2024,
+          "value": 1157.51
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Science Applications",
+      "subFieldId": "https://openalex.org/subfields/1706",
+      "values": [
+        {
+          "year": 1970,
+          "value": 50.8
+        },
+        {
+          "year": 1971,
+          "value": 33.4
+        },
+        {
+          "year": 1972,
+          "value": 40.2
+        },
+        {
+          "year": 1973,
+          "value": 41.7
+        },
+        {
+          "year": 1974,
+          "value": 46.3
+        },
+        {
+          "year": 1975,
+          "value": 45.1
+        },
+        {
+          "year": 1976,
+          "value": 55.1
+        },
+        {
+          "year": 1977,
+          "value": 44.5
+        },
+        {
+          "year": 1978,
+          "value": 51.3
+        },
+        {
+          "year": 1979,
+          "value": 44.3
+        },
+        {
+          "year": 1980,
+          "value": 40.9
+        },
+        {
+          "year": 1981,
+          "value": 48.2
+        },
+        {
+          "year": 1982,
+          "value": 50.8
+        },
+        {
+          "year": 1983,
+          "value": 60.6
+        },
+        {
+          "year": 1984,
+          "value": 73.6
+        },
+        {
+          "year": 1985,
+          "value": 68.3
+        },
+        {
+          "year": 1986,
+          "value": 79.6
+        },
+        {
+          "year": 1987,
+          "value": 77.3
+        },
+        {
+          "year": 1988,
+          "value": 81.6
+        },
+        {
+          "year": 1989,
+          "value": 81.0
+        },
+        {
+          "year": 1990,
+          "value": 76.5
+        },
+        {
+          "year": 1991,
+          "value": 78.5
+        },
+        {
+          "year": 1992,
+          "value": 84.4
+        },
+        {
+          "year": 1993,
+          "value": 92.5
+        },
+        {
+          "year": 1994,
+          "value": 100.8
+        },
+        {
+          "year": 1995,
+          "value": 110.6
+        },
+        {
+          "year": 1996,
+          "value": 134.9
+        },
+        {
+          "year": 1997,
+          "value": 140.8
+        },
+        {
+          "year": 1998,
+          "value": 163.0
+        },
+        {
+          "year": 1999,
+          "value": 166.3
+        },
+        {
+          "year": 2000,
+          "value": 191.2
+        },
+        {
+          "year": 2001,
+          "value": 221.9
+        },
+        {
+          "year": 2002,
+          "value": 295.1
+        },
+        {
+          "year": 2003,
+          "value": 319.5
+        },
+        {
+          "year": 2004,
+          "value": 372.2
+        },
+        {
+          "year": 2005,
+          "value": 420.4
+        },
+        {
+          "year": 2006,
+          "value": 441.4
+        },
+        {
+          "year": 2007,
+          "value": 486.1
+        },
+        {
+          "year": 2008,
+          "value": 531.3
+        },
+        {
+          "year": 2009,
+          "value": 598.9
+        },
+        {
+          "year": 2010,
+          "value": 689.7
+        },
+        {
+          "year": 2011,
+          "value": 726.7
+        },
+        {
+          "year": 2012,
+          "value": 838.1
+        },
+        {
+          "year": 2013,
+          "value": 935.9
+        },
+        {
+          "year": 2014,
+          "value": 1064.6
+        },
+        {
+          "year": 2015,
+          "value": 1169.8
+        },
+        {
+          "year": 2016,
+          "value": 1248.5
+        },
+        {
+          "year": 2017,
+          "value": 1292.1
+        },
+        {
+          "year": 2018,
+          "value": 1372.5
+        },
+        {
+          "year": 2019,
+          "value": 1468.3
+        },
+        {
+          "year": 2020,
+          "value": 1584.9
+        },
+        {
+          "year": 2021,
+          "value": 1348.2
+        },
+        {
+          "year": 2022,
+          "value": 1124.8
+        },
+        {
+          "year": 2023,
+          "value": 1261.8
+        },
+        {
+          "year": 2024,
+          "value": 1481.5
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Vision and Pattern Recognition",
+      "subFieldId": "https://openalex.org/subfields/1707",
+      "values": [
+        {
+          "year": 1970,
+          "value": 38.2
+        },
+        {
+          "year": 1971,
+          "value": 36.89
+        },
+        {
+          "year": 1972,
+          "value": 36.63
+        },
+        {
+          "year": 1973,
+          "value": 39.94
+        },
+        {
+          "year": 1974,
+          "value": 41.06
+        },
+        {
+          "year": 1975,
+          "value": 46.26
+        },
+        {
+          "year": 1976,
+          "value": 43.26
+        },
+        {
+          "year": 1977,
+          "value": 46.17
+        },
+        {
+          "year": 1978,
+          "value": 49.51
+        },
+        {
+          "year": 1979,
+          "value": 59.54
+        },
+        {
+          "year": 1980,
+          "value": 58.91
+        },
+        {
+          "year": 1981,
+          "value": 61.46
+        },
+        {
+          "year": 1982,
+          "value": 66.2
+        },
+        {
+          "year": 1983,
+          "value": 71.49
+        },
+        {
+          "year": 1984,
+          "value": 76.63
+        },
+        {
+          "year": 1985,
+          "value": 85.86
+        },
+        {
+          "year": 1986,
+          "value": 93.51
+        },
+        {
+          "year": 1987,
+          "value": 103.46
+        },
+        {
+          "year": 1988,
+          "value": 117.77
+        },
+        {
+          "year": 1989,
+          "value": 127.94
+        },
+        {
+          "year": 1990,
+          "value": 146.6
+        },
+        {
+          "year": 1991,
+          "value": 167.4
+        },
+        {
+          "year": 1992,
+          "value": 186.14
+        },
+        {
+          "year": 1993,
+          "value": 198.69
+        },
+        {
+          "year": 1994,
+          "value": 219.09
+        },
+        {
+          "year": 1995,
+          "value": 224.77
+        },
+        {
+          "year": 1996,
+          "value": 266.57
+        },
+        {
+          "year": 1997,
+          "value": 252.11
+        },
+        {
+          "year": 1998,
+          "value": 286.69
+        },
+        {
+          "year": 1999,
+          "value": 303.63
+        },
+        {
+          "year": 2000,
+          "value": 328.37
+        },
+        {
+          "year": 2001,
+          "value": 352.8
+        },
+        {
+          "year": 2002,
+          "value": 1015.51
+        },
+        {
+          "year": 2003,
+          "value": 750.37
+        },
+        {
+          "year": 2004,
+          "value": 728.4
+        },
+        {
+          "year": 2005,
+          "value": 912.57
+        },
+        {
+          "year": 2006,
+          "value": 973.8
+        },
+        {
+          "year": 2007,
+          "value": 998.91
+        },
+        {
+          "year": 2008,
+          "value": 1076.0
+        },
+        {
+          "year": 2009,
+          "value": 1167.29
+        },
+        {
+          "year": 2010,
+          "value": 1279.74
+        },
+        {
+          "year": 2011,
+          "value": 1271.46
+        },
+        {
+          "year": 2012,
+          "value": 1297.66
+        },
+        {
+          "year": 2013,
+          "value": 1375.94
+        },
+        {
+          "year": 2014,
+          "value": 1398.03
+        },
+        {
+          "year": 2015,
+          "value": 1397.91
+        },
+        {
+          "year": 2016,
+          "value": 1372.4
+        },
+        {
+          "year": 2017,
+          "value": 1380.2
+        },
+        {
+          "year": 2018,
+          "value": 1473.69
+        },
+        {
+          "year": 2019,
+          "value": 1638.6
+        },
+        {
+          "year": 2020,
+          "value": 1576.23
+        },
+        {
+          "year": 2021,
+          "value": 1702.23
+        },
+        {
+          "year": 2022,
+          "value": 1669.91
+        },
+        {
+          "year": 2023,
+          "value": 1871.34
+        },
+        {
+          "year": 2024,
+          "value": 1904.54
+        }
+      ]
+    },
+    {
+      "subFieldName": "Hardware and Architecture",
+      "subFieldId": "https://openalex.org/subfields/1708",
+      "values": [
+        {
+          "year": 1970,
+          "value": 47.75
+        },
+        {
+          "year": 1971,
+          "value": 51.12
+        },
+        {
+          "year": 1972,
+          "value": 57.25
+        },
+        {
+          "year": 1973,
+          "value": 68.25
+        },
+        {
+          "year": 1974,
+          "value": 70.38
+        },
+        {
+          "year": 1975,
+          "value": 86.25
+        },
+        {
+          "year": 1976,
+          "value": 102.62
+        },
+        {
+          "year": 1977,
+          "value": 110.75
+        },
+        {
+          "year": 1978,
+          "value": 119.12
+        },
+        {
+          "year": 1979,
+          "value": 143.12
+        },
+        {
+          "year": 1980,
+          "value": 140.75
+        },
+        {
+          "year": 1981,
+          "value": 146.75
+        },
+        {
+          "year": 1982,
+          "value": 202.0
+        },
+        {
+          "year": 1983,
+          "value": 200.0
+        },
+        {
+          "year": 1984,
+          "value": 193.88
+        },
+        {
+          "year": 1985,
+          "value": 207.0
+        },
+        {
+          "year": 1986,
+          "value": 249.75
+        },
+        {
+          "year": 1987,
+          "value": 275.25
+        },
+        {
+          "year": 1988,
+          "value": 305.12
+        },
+        {
+          "year": 1989,
+          "value": 297.12
+        },
+        {
+          "year": 1990,
+          "value": 324.38
+        },
+        {
+          "year": 1991,
+          "value": 341.0
+        },
+        {
+          "year": 1992,
+          "value": 375.5
+        },
+        {
+          "year": 1993,
+          "value": 391.75
+        },
+        {
+          "year": 1994,
+          "value": 407.75
+        },
+        {
+          "year": 1995,
+          "value": 402.25
+        },
+        {
+          "year": 1996,
+          "value": 411.5
+        },
+        {
+          "year": 1997,
+          "value": 414.5
+        },
+        {
+          "year": 1998,
+          "value": 426.38
+        },
+        {
+          "year": 1999,
+          "value": 442.12
+        },
+        {
+          "year": 2000,
+          "value": 470.75
+        },
+        {
+          "year": 2001,
+          "value": 486.75
+        },
+        {
+          "year": 2002,
+          "value": 2149.0
+        },
+        {
+          "year": 2003,
+          "value": 1327.88
+        },
+        {
+          "year": 2004,
+          "value": 955.62
+        },
+        {
+          "year": 2005,
+          "value": 1179.5
+        },
+        {
+          "year": 2006,
+          "value": 1134.38
+        },
+        {
+          "year": 2007,
+          "value": 1064.12
+        },
+        {
+          "year": 2008,
+          "value": 1088.25
+        },
+        {
+          "year": 2009,
+          "value": 1148.0
+        },
+        {
+          "year": 2010,
+          "value": 1187.25
+        },
+        {
+          "year": 2011,
+          "value": 1203.75
+        },
+        {
+          "year": 2012,
+          "value": 1189.75
+        },
+        {
+          "year": 2013,
+          "value": 1182.0
+        },
+        {
+          "year": 2014,
+          "value": 1175.88
+        },
+        {
+          "year": 2015,
+          "value": 1110.62
+        },
+        {
+          "year": 2016,
+          "value": 1064.75
+        },
+        {
+          "year": 2017,
+          "value": 958.62
+        },
+        {
+          "year": 2018,
+          "value": 930.0
+        },
+        {
+          "year": 2019,
+          "value": 857.75
+        },
+        {
+          "year": 2020,
+          "value": 752.75
+        },
+        {
+          "year": 2021,
+          "value": 682.62
+        },
+        {
+          "year": 2022,
+          "value": 591.12
+        },
+        {
+          "year": 2023,
+          "value": 619.0
+        },
+        {
+          "year": 2024,
+          "value": 743.12
+        }
+      ]
+    },
+    {
+      "subFieldName": "Human-Computer Interaction",
+      "subFieldId": "https://openalex.org/subfields/1709",
+      "values": [
+        {
+          "year": 1970,
+          "value": 19.38
+        },
+        {
+          "year": 1971,
+          "value": 15.88
+        },
+        {
+          "year": 1972,
+          "value": 13.0
+        },
+        {
+          "year": 1973,
+          "value": 18.88
+        },
+        {
+          "year": 1974,
+          "value": 16.5
+        },
+        {
+          "year": 1975,
+          "value": 20.25
+        },
+        {
+          "year": 1976,
+          "value": 19.38
+        },
+        {
+          "year": 1977,
+          "value": 20.12
+        },
+        {
+          "year": 1978,
+          "value": 19.12
+        },
+        {
+          "year": 1979,
+          "value": 20.5
+        },
+        {
+          "year": 1980,
+          "value": 23.12
+        },
+        {
+          "year": 1981,
+          "value": 27.62
+        },
+        {
+          "year": 1982,
+          "value": 30.62
+        },
+        {
+          "year": 1983,
+          "value": 32.0
+        },
+        {
+          "year": 1984,
+          "value": 31.25
+        },
+        {
+          "year": 1985,
+          "value": 37.12
+        },
+        {
+          "year": 1986,
+          "value": 48.25
+        },
+        {
+          "year": 1987,
+          "value": 44.5
+        },
+        {
+          "year": 1988,
+          "value": 53.88
+        },
+        {
+          "year": 1989,
+          "value": 69.88
+        },
+        {
+          "year": 1990,
+          "value": 72.38
+        },
+        {
+          "year": 1991,
+          "value": 78.25
+        },
+        {
+          "year": 1992,
+          "value": 90.0
+        },
+        {
+          "year": 1993,
+          "value": 101.38
+        },
+        {
+          "year": 1994,
+          "value": 102.5
+        },
+        {
+          "year": 1995,
+          "value": 116.38
+        },
+        {
+          "year": 1996,
+          "value": 124.12
+        },
+        {
+          "year": 1997,
+          "value": 136.75
+        },
+        {
+          "year": 1998,
+          "value": 148.25
+        },
+        {
+          "year": 1999,
+          "value": 183.0
+        },
+        {
+          "year": 2000,
+          "value": 207.75
+        },
+        {
+          "year": 2001,
+          "value": 226.5
+        },
+        {
+          "year": 2002,
+          "value": 412.75
+        },
+        {
+          "year": 2003,
+          "value": 391.5
+        },
+        {
+          "year": 2004,
+          "value": 391.88
+        },
+        {
+          "year": 2005,
+          "value": 459.38
+        },
+        {
+          "year": 2006,
+          "value": 527.0
+        },
+        {
+          "year": 2007,
+          "value": 528.62
+        },
+        {
+          "year": 2008,
+          "value": 611.25
+        },
+        {
+          "year": 2009,
+          "value": 685.62
+        },
+        {
+          "year": 2010,
+          "value": 784.62
+        },
+        {
+          "year": 2011,
+          "value": 798.88
+        },
+        {
+          "year": 2012,
+          "value": 887.88
+        },
+        {
+          "year": 2013,
+          "value": 941.5
+        },
+        {
+          "year": 2014,
+          "value": 980.62
+        },
+        {
+          "year": 2015,
+          "value": 1020.25
+        },
+        {
+          "year": 2016,
+          "value": 1045.0
+        },
+        {
+          "year": 2017,
+          "value": 1027.0
+        },
+        {
+          "year": 2018,
+          "value": 1115.38
+        },
+        {
+          "year": 2019,
+          "value": 1185.88
+        },
+        {
+          "year": 2020,
+          "value": 1153.5
+        },
+        {
+          "year": 2021,
+          "value": 1130.0
+        },
+        {
+          "year": 2022,
+          "value": 1160.38
+        },
+        {
+          "year": 2023,
+          "value": 1335.12
+        },
+        {
+          "year": 2024,
+          "value": 1449.62
+        }
+      ]
+    },
+    {
+      "subFieldName": "Information Systems",
+      "subFieldId": "https://openalex.org/subfields/1710",
+      "values": [
+        {
+          "year": 1970,
+          "value": 34.82
+        },
+        {
+          "year": 1971,
+          "value": 22.53
+        },
+        {
+          "year": 1972,
+          "value": 23.56
+        },
+        {
+          "year": 1973,
+          "value": 24.53
+        },
+        {
+          "year": 1974,
+          "value": 25.58
+        },
+        {
+          "year": 1975,
+          "value": 29.59
+        },
+        {
+          "year": 1976,
+          "value": 28.73
+        },
+        {
+          "year": 1977,
+          "value": 29.63
+        },
+        {
+          "year": 1978,
+          "value": 31.23
+        },
+        {
+          "year": 1979,
+          "value": 31.47
+        },
+        {
+          "year": 1980,
+          "value": 33.5
+        },
+        {
+          "year": 1981,
+          "value": 36.12
+        },
+        {
+          "year": 1982,
+          "value": 37.08
+        },
+        {
+          "year": 1983,
+          "value": 41.13
+        },
+        {
+          "year": 1984,
+          "value": 44.9
+        },
+        {
+          "year": 1985,
+          "value": 47.4
+        },
+        {
+          "year": 1986,
+          "value": 54.08
+        },
+        {
+          "year": 1987,
+          "value": 56.15
+        },
+        {
+          "year": 1988,
+          "value": 59.95
+        },
+        {
+          "year": 1989,
+          "value": 61.94
+        },
+        {
+          "year": 1990,
+          "value": 66.71
+        },
+        {
+          "year": 1991,
+          "value": 67.78
+        },
+        {
+          "year": 1992,
+          "value": 72.83
+        },
+        {
+          "year": 1993,
+          "value": 78.92
+        },
+        {
+          "year": 1994,
+          "value": 85.23
+        },
+        {
+          "year": 1995,
+          "value": 92.67
+        },
+        {
+          "year": 1996,
+          "value": 110.44
+        },
+        {
+          "year": 1997,
+          "value": 121.47
+        },
+        {
+          "year": 1998,
+          "value": 130.29
+        },
+        {
+          "year": 1999,
+          "value": 155.18
+        },
+        {
+          "year": 2000,
+          "value": 225.03
+        },
+        {
+          "year": 2001,
+          "value": 284.67
+        },
+        {
+          "year": 2002,
+          "value": 420.64
+        },
+        {
+          "year": 2003,
+          "value": 459.74
+        },
+        {
+          "year": 2004,
+          "value": 520.41
+        },
+        {
+          "year": 2005,
+          "value": 600.28
+        },
+        {
+          "year": 2006,
+          "value": 684.06
+        },
+        {
+          "year": 2007,
+          "value": 773.53
+        },
+        {
+          "year": 2008,
+          "value": 855.36
+        },
+        {
+          "year": 2009,
+          "value": 967.06
+        },
+        {
+          "year": 2010,
+          "value": 1074.67
+        },
+        {
+          "year": 2011,
+          "value": 1159.24
+        },
+        {
+          "year": 2012,
+          "value": 1174.64
+        },
+        {
+          "year": 2013,
+          "value": 1249.88
+        },
+        {
+          "year": 2014,
+          "value": 1248.58
+        },
+        {
+          "year": 2015,
+          "value": 1285.63
+        },
+        {
+          "year": 2016,
+          "value": 1240.54
+        },
+        {
+          "year": 2017,
+          "value": 1296.03
+        },
+        {
+          "year": 2018,
+          "value": 1425.78
+        },
+        {
+          "year": 2019,
+          "value": 1541.45
+        },
+        {
+          "year": 2020,
+          "value": 1698.24
+        },
+        {
+          "year": 2021,
+          "value": 1651.47
+        },
+        {
+          "year": 2022,
+          "value": 1505.9
+        },
+        {
+          "year": 2023,
+          "value": 1612.45
+        },
+        {
+          "year": 2024,
+          "value": 1524.65
+        }
+      ]
+    },
+    {
+      "subFieldName": "Signal Processing",
+      "subFieldId": "https://openalex.org/subfields/1711",
+      "values": [
+        {
+          "year": 1970,
+          "value": 47.7
+        },
+        {
+          "year": 1971,
+          "value": 48.4
+        },
+        {
+          "year": 1972,
+          "value": 49.0
+        },
+        {
+          "year": 1973,
+          "value": 57.7
+        },
+        {
+          "year": 1974,
+          "value": 57.1
+        },
+        {
+          "year": 1975,
+          "value": 62.3
+        },
+        {
+          "year": 1976,
+          "value": 64.8
+        },
+        {
+          "year": 1977,
+          "value": 68.8
+        },
+        {
+          "year": 1978,
+          "value": 74.0
+        },
+        {
+          "year": 1979,
+          "value": 84.4
+        },
+        {
+          "year": 1980,
+          "value": 84.4
+        },
+        {
+          "year": 1981,
+          "value": 91.2
+        },
+        {
+          "year": 1982,
+          "value": 95.1
+        },
+        {
+          "year": 1983,
+          "value": 100.8
+        },
+        {
+          "year": 1984,
+          "value": 102.7
+        },
+        {
+          "year": 1985,
+          "value": 109.8
+        },
+        {
+          "year": 1986,
+          "value": 122.4
+        },
+        {
+          "year": 1987,
+          "value": 136.1
+        },
+        {
+          "year": 1988,
+          "value": 150.4
+        },
+        {
+          "year": 1989,
+          "value": 168.0
+        },
+        {
+          "year": 1990,
+          "value": 186.9
+        },
+        {
+          "year": 1991,
+          "value": 224.4
+        },
+        {
+          "year": 1992,
+          "value": 233.9
+        },
+        {
+          "year": 1993,
+          "value": 236.7
+        },
+        {
+          "year": 1994,
+          "value": 240.1
+        },
+        {
+          "year": 1995,
+          "value": 251.9
+        },
+        {
+          "year": 1996,
+          "value": 311.5
+        },
+        {
+          "year": 1997,
+          "value": 301.5
+        },
+        {
+          "year": 1998,
+          "value": 332.9
+        },
+        {
+          "year": 1999,
+          "value": 379.5
+        },
+        {
+          "year": 2000,
+          "value": 393.5
+        },
+        {
+          "year": 2001,
+          "value": 392.2
+        },
+        {
+          "year": 2002,
+          "value": 1464.7
+        },
+        {
+          "year": 2003,
+          "value": 1043.6
+        },
+        {
+          "year": 2004,
+          "value": 931.2
+        },
+        {
+          "year": 2005,
+          "value": 1271.3
+        },
+        {
+          "year": 2006,
+          "value": 1325.7
+        },
+        {
+          "year": 2007,
+          "value": 1259.5
+        },
+        {
+          "year": 2008,
+          "value": 1345.4
+        },
+        {
+          "year": 2009,
+          "value": 1411.0
+        },
+        {
+          "year": 2010,
+          "value": 1491.6
+        },
+        {
+          "year": 2011,
+          "value": 1436.7
+        },
+        {
+          "year": 2012,
+          "value": 1482.1
+        },
+        {
+          "year": 2013,
+          "value": 1508.8
+        },
+        {
+          "year": 2014,
+          "value": 1532.8
+        },
+        {
+          "year": 2015,
+          "value": 1463.3
+        },
+        {
+          "year": 2016,
+          "value": 1451.0
+        },
+        {
+          "year": 2017,
+          "value": 1389.2
+        },
+        {
+          "year": 2018,
+          "value": 1442.9
+        },
+        {
+          "year": 2019,
+          "value": 1504.4
+        },
+        {
+          "year": 2020,
+          "value": 1382.0
+        },
+        {
+          "year": 2021,
+          "value": 1352.7
+        },
+        {
+          "year": 2022,
+          "value": 1290.7
+        },
+        {
+          "year": 2023,
+          "value": 1397.0
+        },
+        {
+          "year": 2024,
+          "value": 1568.8
+        }
+      ]
+    },
+    {
+      "subFieldName": "Software",
+      "subFieldId": "https://openalex.org/subfields/1712",
+      "values": [
+        {
+          "year": 1970,
+          "value": 47.4
+        },
+        {
+          "year": 1971,
+          "value": 32.8
+        },
+        {
+          "year": 1972,
+          "value": 35.4
+        },
+        {
+          "year": 1973,
+          "value": 38.6
+        },
+        {
+          "year": 1974,
+          "value": 42.0
+        },
+        {
+          "year": 1975,
+          "value": 60.6
+        },
+        {
+          "year": 1976,
+          "value": 57.4
+        },
+        {
+          "year": 1977,
+          "value": 64.4
+        },
+        {
+          "year": 1978,
+          "value": 69.2
+        },
+        {
+          "year": 1979,
+          "value": 66.2
+        },
+        {
+          "year": 1980,
+          "value": 73.2
+        },
+        {
+          "year": 1981,
+          "value": 90.2
+        },
+        {
+          "year": 1982,
+          "value": 94.4
+        },
+        {
+          "year": 1983,
+          "value": 102.2
+        },
+        {
+          "year": 1984,
+          "value": 110.8
+        },
+        {
+          "year": 1985,
+          "value": 133.6
+        },
+        {
+          "year": 1986,
+          "value": 150.4
+        },
+        {
+          "year": 1987,
+          "value": 157.2
+        },
+        {
+          "year": 1988,
+          "value": 169.6
+        },
+        {
+          "year": 1989,
+          "value": 182.0
+        },
+        {
+          "year": 1990,
+          "value": 188.2
+        },
+        {
+          "year": 1991,
+          "value": 211.0
+        },
+        {
+          "year": 1992,
+          "value": 221.2
+        },
+        {
+          "year": 1993,
+          "value": 245.0
+        },
+        {
+          "year": 1994,
+          "value": 234.8
+        },
+        {
+          "year": 1995,
+          "value": 246.6
+        },
+        {
+          "year": 1996,
+          "value": 264.2
+        },
+        {
+          "year": 1997,
+          "value": 289.4
+        },
+        {
+          "year": 1998,
+          "value": 277.2
+        },
+        {
+          "year": 1999,
+          "value": 319.8
+        },
+        {
+          "year": 2000,
+          "value": 354.8
+        },
+        {
+          "year": 2001,
+          "value": 365.6
+        },
+        {
+          "year": 2002,
+          "value": 826.8
+        },
+        {
+          "year": 2003,
+          "value": 617.0
+        },
+        {
+          "year": 2004,
+          "value": 611.4
+        },
+        {
+          "year": 2005,
+          "value": 687.4
+        },
+        {
+          "year": 2006,
+          "value": 732.6
+        },
+        {
+          "year": 2007,
+          "value": 786.8
+        },
+        {
+          "year": 2008,
+          "value": 815.4
+        },
+        {
+          "year": 2009,
+          "value": 855.6
+        },
+        {
+          "year": 2010,
+          "value": 924.4
+        },
+        {
+          "year": 2011,
+          "value": 950.2
+        },
+        {
+          "year": 2012,
+          "value": 930.2
+        },
+        {
+          "year": 2013,
+          "value": 975.8
+        },
+        {
+          "year": 2014,
+          "value": 976.6
+        },
+        {
+          "year": 2015,
+          "value": 1003.4
+        },
+        {
+          "year": 2016,
+          "value": 910.8
+        },
+        {
+          "year": 2017,
+          "value": 876.6
+        },
+        {
+          "year": 2018,
+          "value": 853.0
+        },
+        {
+          "year": 2019,
+          "value": 819.0
+        },
+        {
+          "year": 2020,
+          "value": 691.4
+        },
+        {
+          "year": 2021,
+          "value": 616.0
+        },
+        {
+          "year": 2022,
+          "value": 493.8
+        },
+        {
+          "year": 2023,
+          "value": 496.4
+        },
+        {
+          "year": 2024,
+          "value": 593.2
+        }
+      ]
+    }
+  ]
+}

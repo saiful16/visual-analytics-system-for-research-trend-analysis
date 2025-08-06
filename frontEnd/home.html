@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Multi-Level Visualization System</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-cloud/build/d3.layout.cloud.min.js"></script>
+
+    <script>
+        window.PlotlyGlobal = Plotly;
+
+    </script>
+</head>
+
+<body>
+
+<div id="sidebar">
+
+    <h4 id="refreshBtn" class="cursor-pointer ">
+        Research Trend Analysis
+    </h4>
+    <br>
+
+
+    <div class="level" id="level1">
+        <h3>Field Overview</h3>
+        <button data-level="1" data-id="1" title="Multi line chart showing publication count over time">Publication
+            Trend
+        </button>
+
+        <!-- <button data-level="1" data-id="2">Visualization 1.2</button> -->
+        <button data-level="1" data-id="4">Pattern & Share</button>
+        <button data-level="1" data-id="3">Size & Growth</button>
+    </div>
+
+    <div class="level" id="level2">
+        <h3>Sub Field Overview</h3>
+        <button data-level="2" data-id="1" disabled>Topics Overview</button>
+        <button data-level="2" data-id="2" disabled>Topics Growth Rate</button>
+        <button data-level="2" data-id="3" disabled>Topics Comparison</button>
+    </div>
+
+    <div class="level" id="level3">
+        <h3>Topic Detail</h3>
+        <button data-level="3" data-id="1" disabled>Publication Detail</button>
+        <button data-level="3" data-id="2" disabled>Trend Comparison</button>
+        <!-- <button data-level="3" data-id="3" disabled>Visualization 3.3</button> -->
+    </div>
+
+    <div class="level" id="level4">
+        <h3>Concept Detail</h3>
+        <button data-level="4" data-id="2">Top Concepts</button>
+        <button data-level="4" data-id="1">Ranking Overview</button>
+        <button data-level="4" data-id="3">Concept Evaluation</button>
+    </div>
+</div>
+
+<div id="vizArea">
+    <h2 class="text-3xl mb-2">Visualization Area</h2>
+    <p>Select a visualization to begin.</p>
+    <div class="p-1 text-gray-800 space-y-2">
+        <!-- Overview -->
+        <p class="text-lg leading-relaxed">
+            This application is a <strong class="text-indigo-700">multi-level visual analytics system</strong> designed
+            to help users explore
+            research trends within the domain of computer science.
+        </p>
+
+        <!-- Aim -->
+        <p class=" leading-relaxed">
+            <span class=" text-lg font-semibold text-indigo-700">Aim:</span>
+            To enable users to explore broad research fields, drill down into specific concepts, and identify emerging
+            or
+            dominant trends through structured visual analysis.
+        </p>
+    </div>
+    <!-- Workflow Section -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+        <div class="animated-border">
+            <div class="animated-border-inner">
+                <div class="p-1 space-y-1 text-gray-800 leading-relaxed">
+
+                    <!-- Title -->
+                    <h2 class="text-lg font-bold text-indigo-700">A Guide for Users:</h2>
+                    <p>Use the following levels to systematically analyze research publications, start with broad fields,
+                        then
+                        refine your focus through subfields, topics, and concepts to identify and validate emerging
+                        trends.</p>
+
+                    <!-- Level Structure -->
+                    <div class="space-y-2">
+                        <!-- Level 1 -->
+                        <div>
+                            <h4 class="text-lg font-semibold text-blue-700">Level 1: Field Overview</h4>
+                            <ul class="list-disc list-inside ml-4">
+                                <li><strong>What it shows:</strong> Overall publication trends across different major
+                                    fields.
+                                </li>
+                                <li><strong>How to use it:</strong> Observe long-term trends; identify fields with
+                                    consistent or rapid
+                                    growth.
+                                </li>
+                                <li><strong>Goal:</strong> Identify which major research fields are trending.</li>
+                            </ul>
+                        </div>
+
+                        <!-- Level 2 -->
+                        <div>
+                            <h4 class="text-lg font-semibold text-purple-700">Level 2: Subfield Overview</h4>
+                            <ul class="list-disc list-inside ml-4">
+                                <li><strong>What it shows:</strong> Growth rates, publication sizes, and topic makeup
+                                    within a field.
+                                </li>
+                                <li><strong>How to use it:</strong> Drill down into subfields to find fast-growing or
+                                    high-volume
+                                    areas.
+                                </li>
+                                <li><strong>Goal:</strong> Pinpoint trending subfields within the broader domain.</li>
+                            </ul>
+                        </div>
+
+                        <!-- Level 3 -->
+                        <div>
+                            <h4 class="text-lg font-semibold text-yellow-700">Level 3: Topic Details</h4>
+                            <ul class="list-disc list-inside ml-4">
+                                <li><strong>What it shows:</strong> Trends and comparisons of a selected topic</li>
+                                <li><strong>How to use it:</strong> Identify specific topics with high or rising
+                                    interest over time.
+                                </li>
+                                <li><strong>Goal:</strong> Discover the trend of a selected topic.</li>
+                            </ul>
+                        </div>
+
+                        <!-- Level 4 -->
+                        <div>
+                            <h4 class="text-lg font-semibold text-red-700">Level 4: Concept Detail</h4>
+                            <ul class="list-disc list-inside ml-4">
+                                <li><strong>What it shows:</strong> Concept-level insights via word clouds, timelines,
+                                    and heatmaps.
+                                </li>
+                                <li><strong>How to use it:</strong> View high-frequency or newly emerging concepts under
+                                    a topic.
+                                </li>
+                                <li><strong>Goal:</strong> Recognize trending or influential concepts in research.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Validation Section -->
+                    <div>
+                        <h3 class="text-lg font-semibold text-indigo-600">Validation Strategy</h3>
+                        <p>
+                            Each level includes follow-up visualizations to <strong>validate identified trends</strong>:
+                        </p>
+                        <ul class="list-disc list-inside ml-6">
+                            <li>Use <strong>size and growth metrics</strong> to confirm trend intensity.</li>
+                            <li>Use <strong>comparisons</strong> to evaluate relative performance.</li>
+                            <li>Use <strong>concept views</strong> to discover new or popular research ideas.</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+        <!-- data & metrics -->
+        <div class="animated-border">
+            <div class="animated-border-inner">
+                <h2 class="text-xl font-bold text-indigo-700">Data & Metrics</h2>
+                <div class="p-6 text-gray-800 space-y-6">
+
+                    <!-- Data Hierarchy -->
+                    <div>
+                        <h3 class="text-2xl font-semibold text-indigo-700 mb-2">Data Hierarchy</h3>
+                        <p class="text-lg">
+                            The system organizes research data across four levels for progressive analysis:
+                        </p>
+                        <br>
+                        <img
+                                src="./assets/flow.png"
+                                alt="Field to Concept hierarchy diagram"
+                                class="w-full max-w-[400px] h-auto mx-auto"
+                        />
+
+
+                        <p class="mt-2 text-base text-gray-700">
+                            Each level enables deeper exploration, allowing users to trace trends from broad domains to
+                            fine-grained research ideas.
+                        </p>
+                    </div>
+
+                    <!-- Key Metrics -->
+                    <div>
+                        <h3 class="text-2xl font-semibold text-indigo-700 mb-2">Key Metrics Explained</h3>
+                        <p class="text-base text-gray-700">
+                            These metrics support trend identification and comparison at each level:
+                        </p>
+                        <ul class="list-disc list-inside mt-4 space-y-1 text-base text-gray-700 ml-4">
+                            <li><strong>Year:</strong> The publication year used for time-based analysis.</li>
+                            <li><strong>Publication Count:</strong> Total number of publications for a given entity.
+                            </li>
+                            <li><strong>Growth Rate:</strong> Annual percentage increase or decrease in publication
+                                volume.
+                            </li>
+                            <li><strong>Subfield Size:</strong> Total publication volume of a subfield over time.</li>
+                            <li><strong>Subfield Average:</strong> Average metric (e.g., growth or count) for a subfield
+                                compared internally.
+                            </li>
+                            <li><strong>Global Average:</strong> Benchmark metrics averaged across all subfields/topics
+                                for comparison.
+                            </li>
+                            <li><strong>Top Concepts:</strong> Frequently occurring or highly weighted terms within a
+                                topic.
+                            </li>
+                            <li><strong>Concept Level:</strong> Hierarchical layer indicating the depth or abstraction
+                                level of a concept (e.g., general vs. specific).
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
+
+<script type="module" src="js/main.js"></script>
+</body>
+
+</html>

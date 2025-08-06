@@ -1,0 +1,83 @@
+swagger: "2.0"
+info:
+  description: API for retrieving publication and concept data for subfields and topics.
+  version: "1.0.0"
+  title: API Clarification of Backend for VAS.
+
+host: localhost:5000
+basePath: /
+schemes:
+  - http
+
+paths:
+  /sub-field-detail:
+    get:
+      summary: Get subfield detail data
+      parameters:
+        - name: name
+          in: query
+          required: true
+          type: string
+          description: Subfield name (URI encoded/direct execution from swagger does not required encoding)
+        - name: type
+          in: query
+          required: true
+          type: string
+          enum: [count, growth, size]
+          description: Type of data to retrieve
+      responses:
+        200:
+          description: Successful response with subfield data
+
+  /topic-detail:
+    get:
+      summary: Get topic detail data
+      parameters:
+        - name: name
+          in: query
+          required: true
+          type: string
+          description: Topic name (URI encoded/direct execution from swagger does not required encoding)
+        - name: type
+          in: query
+          required: true
+          type: string
+          enum: [count, size]
+          description: Type of data to retrieve
+      responses:
+        200:
+          description: Successful response with topic data
+
+  /concepts:
+    get:
+      summary: Get concept visual data
+      parameters:
+        - name: name
+          in: query
+          required: true
+          type: string
+          description: Topic name (URI encoded/direct execution from swagger does not required encoding)
+        - name: type
+          in: query
+          required: true
+          type: string
+          enum: [heatMap, wordCloud, timeLine]
+          description: Type of visualization to return
+        - name: level
+          in: query
+          required: true
+          type: string
+          description: Concept level (e.g., 0, 1, 2)
+        - name: year
+          in: query
+          required: true
+          type: integer
+          description: Year (required for wordCloud and timeLine)
+        - name: top
+          in: query
+          required: true
+          type: integer
+          description: Number of top concepts to return (positive for top, negative for bottom)
+      responses:
+        200:
+          description: Successful response with concept visualization data

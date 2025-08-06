@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a134d60-1795-4cd3-a921-f1a8fc854369" name="Changes" comment="chor: Fixed formatting." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fix-modify-visualizations" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yNc7vN31tztUJKUNvwxtdYexhZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/saifu/Desktop/uni git for project/visual-analytics-system-for-research-trend-analysis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a1305\Desktop\visual-analytics-system-for-research-trend-analysis\frontEnd\icons" />
+      <recent name="C:\Users\a1305\Desktop\visual-analytics-system-for-research-trend-analysis\frontEnd\data" />
+      <recent name="C:\Users\a1305\Desktop\visual-analytics-system-for-research-trend-analysis\backEnd\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="visual-analytics-system-for-research-trend-analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backEnd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backEnd/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a134d60-1795-4cd3-a921-f1a8fc854369" name="Changes" comment="" />
+      <created>1749678308527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749678308527</updated>
+      <workItem from="1754249035902" duration="37000" />
+      <workItem from="1754431163307" duration="677000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: Added functionalities for the vis3.1 service.&#10;  -endpoint: /topic-detail,&#10;  -name: topic name,&#10;  -type: count.">
+      <created>1749752048183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749752048183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Added functionalities for the vis4.1 service.&#10;  -endpoint: /concepts?name=topic name&amp;type=heatMap&amp;level=(0-5)&amp;top=(+/-) int">
+      <created>1749764755562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749764755562</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Replaced bump chart in level 1.3. &#10;  -Added cluster grid with zoom capacity.">
+      <created>1750336921091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750336921091</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Modify chart in level 1.3. &#10;  - adjust pop up size.&#10;  - add dot for lower publication count.">
+      <created>1750387229968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750387229968</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: filter option added and bug fixed. &#10;  - added filter option for vis 1.3.&#10;  - added data set with avgPubCount for vis 1.2.">
+      <created>1750568841537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750568841537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: line chart modified. &#10;  - add Gaussian smoothing option for vis 1.1.&#10;  - add toggle button for raw and smooth data visualization.">
+      <created>1751120018375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751120018375</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: dot matrix plot modified. &#10;  - add year interval filter for vis 1.3.&#10;  - add default year range for data visualization.&#10;  - add default subfield when render the visualiyation.">
+      <created>1751123379368</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751123379368</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: modification and filter addition.&#10;  -vis 1.1&#10;  -vis 1.4">
+      <created>1751128943947</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751128943947</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: add backend connector.&#10;  -backend CROS add.">
+      <created>1751142222898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751142222898</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: add visualization 2.1.&#10;  -small multiple with line chart.&#10;  - Year and pagination filter used.">
+      <created>1751208133145</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1751208133145</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: add visualization 2.2.&#10;  - Heat map.&#10;  - Year and pagination filter used.">
+      <created>1751213980097</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1751213980097</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: add visualization 2.3.&#10;  - Stacked area chart.&#10;  - Year and pagination filter used.">
+      <created>1751220357073</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1751220357073</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: visualization level 3.&#10;  - Histogram in 3.1.&#10;  - Multi-line chart in 3.2.&#10;  - Year range filter.">
+      <created>1751271037637</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1751271037637</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: visualization 4.1 heatmap.&#10;  - Concept count with filter.&#10;  - Dynamic heatmap color encoding.">
+      <created>1751277540855</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1751277540855</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: visualization 4.2 WordCloud.&#10;  - Concept count with filter.">
+      <created>1751284614954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1751284614954</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: visualization 4.3 timeline bubble chart.">
+      <created>1751287911093</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1751287911093</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix: Modified names and user instructions.">
+      <created>1752258535865</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1752258535865</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix: Add home page url.">
+      <created>1752258562978</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1752258562978</updated>
+    </task>
+    <task id="LOCAL-00019" summary="chor: Fixed formatting.">
+      <created>1754249144653</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1754249144653</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Added functionalities for the vis3.1 service.&#10;  -endpoint: /topic-detail,&#10;  -name: topic name,&#10;  -type: count." />
+    <MESSAGE value="feat: Added functionalities for the vis4.1 service.&#10;  -endpoint: /concepts?name=topic name&amp;type=heatMap&amp;level=(0-5)&amp;top=(+/-) int" />
+    <MESSAGE value="feat: Replaced bump chart in level 1.3. &#10;  -Added cluster grid with zoom capacity." />
+    <MESSAGE value="feat: Modify chart in level 1.3. &#10;  - adjust pop up size.&#10;  - add dot for lower publication count." />
+    <MESSAGE value="feat: filter option added and bug fixed. &#10;  - added filter option for vis 1.3.&#10;  - added data set with avgPubCount for vis 1.2." />
+    <MESSAGE value="feat: line chart modified. &#10;  - add Gaussian smoothing option for vis 1.1.&#10;  - add toggle button for raw and smooth data visualization." />
+    <MESSAGE value="feat: dot matrix plot modified. &#10;  - add year interval filter for vis 1.3.&#10;  - add default year range for data visualization.&#10;  - add default subfield when render the visualiyation." />
+    <MESSAGE value="feat: modification and filter addition.&#10;  -vis 1.1&#10;  -vis 1.4" />
+    <MESSAGE value="feat: add backend connector.&#10;  -backend CROS add." />
+    <MESSAGE value="feat: add visualization 2.1.&#10;  -small multiple with line chart.&#10;  - Year and pagination filter used." />
+    <MESSAGE value="feat: add visualization 2.2.&#10;  - Heat map.&#10;  - Year and pagination filter used." />
+    <MESSAGE value="feat: add visualization 2.3.&#10;  - Stacked area chart.&#10;  - Year and pagination filter used." />
+    <MESSAGE value="feat: visualization level 3.&#10;  - Histogram in 3.1.&#10;  - Multi-line chart in 3.2.&#10;  - Year range filter." />
+    <MESSAGE value="feat: visualization 4.1 heatmap.&#10;  - Concept count with filter.&#10;  - Dynamic heatmap color encoding." />
+    <MESSAGE value="feat: visualization 4.2 WordCloud.&#10;  - Concept count with filter." />
+    <MESSAGE value="feat: visualization 4.3 timeline bubble chart." />
+    <MESSAGE value="fix: Modified names and user instructions." />
+    <MESSAGE value="fix: Add home page url." />
+    <MESSAGE value="chor: Fixed formatting." />
+    <option name="LAST_COMMIT_MESSAGE" value="chor: Fixed formatting." />
+  </component>
+</project>

@@ -1,0 +1,2490 @@
+{
+  "data": [
+    {
+      "subFieldName": "Artificial Intelligence",
+      "subFieldId": "https://openalex.org/subfields/1702",
+      "values": [
+        {
+          "year": 1970,
+          "value": 4633
+        },
+        {
+          "year": 1971,
+          "value": 4269
+        },
+        {
+          "year": 1972,
+          "value": 4665
+        },
+        {
+          "year": 1973,
+          "value": 4810
+        },
+        {
+          "year": 1974,
+          "value": 5040
+        },
+        {
+          "year": 1975,
+          "value": 5376
+        },
+        {
+          "year": 1976,
+          "value": 5340
+        },
+        {
+          "year": 1977,
+          "value": 5845
+        },
+        {
+          "year": 1978,
+          "value": 5942
+        },
+        {
+          "year": 1979,
+          "value": 5982
+        },
+        {
+          "year": 1980,
+          "value": 6382
+        },
+        {
+          "year": 1981,
+          "value": 6475
+        },
+        {
+          "year": 1982,
+          "value": 7059
+        },
+        {
+          "year": 1983,
+          "value": 7873
+        },
+        {
+          "year": 1984,
+          "value": 8077
+        },
+        {
+          "year": 1985,
+          "value": 8496
+        },
+        {
+          "year": 1986,
+          "value": 9793
+        },
+        {
+          "year": 1987,
+          "value": 11048
+        },
+        {
+          "year": 1988,
+          "value": 12252
+        },
+        {
+          "year": 1989,
+          "value": 13189
+        },
+        {
+          "year": 1990,
+          "value": 15016
+        },
+        {
+          "year": 1991,
+          "value": 15680
+        },
+        {
+          "year": 1992,
+          "value": 16859
+        },
+        {
+          "year": 1993,
+          "value": 17823
+        },
+        {
+          "year": 1994,
+          "value": 18849
+        },
+        {
+          "year": 1995,
+          "value": 18749
+        },
+        {
+          "year": 1996,
+          "value": 20601
+        },
+        {
+          "year": 1997,
+          "value": 20807
+        },
+        {
+          "year": 1998,
+          "value": 22166
+        },
+        {
+          "year": 1999,
+          "value": 23837
+        },
+        {
+          "year": 2000,
+          "value": 28854
+        },
+        {
+          "year": 2001,
+          "value": 31999
+        },
+        {
+          "year": 2002,
+          "value": 60063
+        },
+        {
+          "year": 2003,
+          "value": 51962
+        },
+        {
+          "year": 2004,
+          "value": 52822
+        },
+        {
+          "year": 2005,
+          "value": 61097
+        },
+        {
+          "year": 2006,
+          "value": 66039
+        },
+        {
+          "year": 2007,
+          "value": 68905
+        },
+        {
+          "year": 2008,
+          "value": 72710
+        },
+        {
+          "year": 2009,
+          "value": 76139
+        },
+        {
+          "year": 2010,
+          "value": 81325
+        },
+        {
+          "year": 2011,
+          "value": 79066
+        },
+        {
+          "year": 2012,
+          "value": 80536
+        },
+        {
+          "year": 2013,
+          "value": 81762
+        },
+        {
+          "year": 2014,
+          "value": 81962
+        },
+        {
+          "year": 2015,
+          "value": 81234
+        },
+        {
+          "year": 2016,
+          "value": 82890
+        },
+        {
+          "year": 2017,
+          "value": 84332
+        },
+        {
+          "year": 2018,
+          "value": 93387
+        },
+        {
+          "year": 2019,
+          "value": 105145
+        },
+        {
+          "year": 2020,
+          "value": 108755
+        },
+        {
+          "year": 2021,
+          "value": 112822
+        },
+        {
+          "year": 2022,
+          "value": 101650
+        },
+        {
+          "year": 2023,
+          "value": 117669
+        },
+        {
+          "year": 2024,
+          "value": 130704
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computational Theory and Mathematics",
+      "subFieldId": "https://openalex.org/subfields/1703",
+      "values": [
+        {
+          "year": 1970,
+          "value": 3401
+        },
+        {
+          "year": 1971,
+          "value": 3344
+        },
+        {
+          "year": 1972,
+          "value": 3648
+        },
+        {
+          "year": 1973,
+          "value": 3683
+        },
+        {
+          "year": 1974,
+          "value": 3836
+        },
+        {
+          "year": 1975,
+          "value": 3825
+        },
+        {
+          "year": 1976,
+          "value": 3800
+        },
+        {
+          "year": 1977,
+          "value": 3738
+        },
+        {
+          "year": 1978,
+          "value": 3781
+        },
+        {
+          "year": 1979,
+          "value": 3908
+        },
+        {
+          "year": 1980,
+          "value": 4090
+        },
+        {
+          "year": 1981,
+          "value": 4194
+        },
+        {
+          "year": 1982,
+          "value": 4318
+        },
+        {
+          "year": 1983,
+          "value": 4394
+        },
+        {
+          "year": 1984,
+          "value": 4699
+        },
+        {
+          "year": 1985,
+          "value": 4983
+        },
+        {
+          "year": 1986,
+          "value": 5341
+        },
+        {
+          "year": 1987,
+          "value": 5516
+        },
+        {
+          "year": 1988,
+          "value": 5925
+        },
+        {
+          "year": 1989,
+          "value": 6317
+        },
+        {
+          "year": 1990,
+          "value": 6802
+        },
+        {
+          "year": 1991,
+          "value": 7090
+        },
+        {
+          "year": 1992,
+          "value": 7454
+        },
+        {
+          "year": 1993,
+          "value": 7736
+        },
+        {
+          "year": 1994,
+          "value": 8166
+        },
+        {
+          "year": 1995,
+          "value": 8651
+        },
+        {
+          "year": 1996,
+          "value": 9147
+        },
+        {
+          "year": 1997,
+          "value": 9075
+        },
+        {
+          "year": 1998,
+          "value": 9502
+        },
+        {
+          "year": 1999,
+          "value": 9866
+        },
+        {
+          "year": 2000,
+          "value": 11096
+        },
+        {
+          "year": 2001,
+          "value": 11264
+        },
+        {
+          "year": 2002,
+          "value": 18968
+        },
+        {
+          "year": 2003,
+          "value": 16289
+        },
+        {
+          "year": 2004,
+          "value": 16094
+        },
+        {
+          "year": 2005,
+          "value": 18026
+        },
+        {
+          "year": 2006,
+          "value": 19118
+        },
+        {
+          "year": 2007,
+          "value": 19771
+        },
+        {
+          "year": 2008,
+          "value": 20812
+        },
+        {
+          "year": 2009,
+          "value": 21497
+        },
+        {
+          "year": 2010,
+          "value": 22475
+        },
+        {
+          "year": 2011,
+          "value": 22800
+        },
+        {
+          "year": 2012,
+          "value": 22855
+        },
+        {
+          "year": 2013,
+          "value": 22862
+        },
+        {
+          "year": 2014,
+          "value": 22412
+        },
+        {
+          "year": 2015,
+          "value": 22156
+        },
+        {
+          "year": 2016,
+          "value": 21488
+        },
+        {
+          "year": 2017,
+          "value": 21095
+        },
+        {
+          "year": 2018,
+          "value": 21698
+        },
+        {
+          "year": 2019,
+          "value": 21980
+        },
+        {
+          "year": 2020,
+          "value": 22910
+        },
+        {
+          "year": 2021,
+          "value": 22701
+        },
+        {
+          "year": 2022,
+          "value": 20938
+        },
+        {
+          "year": 2023,
+          "value": 21343
+        },
+        {
+          "year": 2024,
+          "value": 22408
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Graphics and Computer-Aided Design",
+      "subFieldId": "https://openalex.org/subfields/1704",
+      "values": [
+        {
+          "year": 1970,
+          "value": 236
+        },
+        {
+          "year": 1971,
+          "value": 214
+        },
+        {
+          "year": 1972,
+          "value": 238
+        },
+        {
+          "year": 1973,
+          "value": 247
+        },
+        {
+          "year": 1974,
+          "value": 246
+        },
+        {
+          "year": 1975,
+          "value": 273
+        },
+        {
+          "year": 1976,
+          "value": 259
+        },
+        {
+          "year": 1977,
+          "value": 296
+        },
+        {
+          "year": 1978,
+          "value": 314
+        },
+        {
+          "year": 1979,
+          "value": 324
+        },
+        {
+          "year": 1980,
+          "value": 348
+        },
+        {
+          "year": 1981,
+          "value": 374
+        },
+        {
+          "year": 1982,
+          "value": 397
+        },
+        {
+          "year": 1983,
+          "value": 469
+        },
+        {
+          "year": 1984,
+          "value": 538
+        },
+        {
+          "year": 1985,
+          "value": 650
+        },
+        {
+          "year": 1986,
+          "value": 685
+        },
+        {
+          "year": 1987,
+          "value": 788
+        },
+        {
+          "year": 1988,
+          "value": 761
+        },
+        {
+          "year": 1989,
+          "value": 885
+        },
+        {
+          "year": 1990,
+          "value": 1061
+        },
+        {
+          "year": 1991,
+          "value": 1115
+        },
+        {
+          "year": 1992,
+          "value": 1326
+        },
+        {
+          "year": 1993,
+          "value": 1295
+        },
+        {
+          "year": 1994,
+          "value": 1278
+        },
+        {
+          "year": 1995,
+          "value": 1401
+        },
+        {
+          "year": 1996,
+          "value": 1490
+        },
+        {
+          "year": 1997,
+          "value": 1599
+        },
+        {
+          "year": 1998,
+          "value": 1792
+        },
+        {
+          "year": 1999,
+          "value": 1908
+        },
+        {
+          "year": 2000,
+          "value": 2427
+        },
+        {
+          "year": 2001,
+          "value": 2854
+        },
+        {
+          "year": 2002,
+          "value": 4620
+        },
+        {
+          "year": 2003,
+          "value": 4523
+        },
+        {
+          "year": 2004,
+          "value": 4674
+        },
+        {
+          "year": 2005,
+          "value": 5086
+        },
+        {
+          "year": 2006,
+          "value": 5456
+        },
+        {
+          "year": 2007,
+          "value": 5972
+        },
+        {
+          "year": 2008,
+          "value": 5949
+        },
+        {
+          "year": 2009,
+          "value": 6556
+        },
+        {
+          "year": 2010,
+          "value": 6813
+        },
+        {
+          "year": 2011,
+          "value": 6620
+        },
+        {
+          "year": 2012,
+          "value": 5369
+        },
+        {
+          "year": 2013,
+          "value": 5083
+        },
+        {
+          "year": 2014,
+          "value": 5041
+        },
+        {
+          "year": 2015,
+          "value": 5053
+        },
+        {
+          "year": 2016,
+          "value": 4483
+        },
+        {
+          "year": 2017,
+          "value": 4199
+        },
+        {
+          "year": 2018,
+          "value": 4263
+        },
+        {
+          "year": 2019,
+          "value": 4530
+        },
+        {
+          "year": 2020,
+          "value": 4734
+        },
+        {
+          "year": 2021,
+          "value": 4773
+        },
+        {
+          "year": 2022,
+          "value": 4553
+        },
+        {
+          "year": 2023,
+          "value": 5470
+        },
+        {
+          "year": 2024,
+          "value": 6141
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Networks and Communications",
+      "subFieldId": "https://openalex.org/subfields/1705",
+      "values": [
+        {
+          "year": 1970,
+          "value": 2467
+        },
+        {
+          "year": 1971,
+          "value": 2123
+        },
+        {
+          "year": 1972,
+          "value": 2186
+        },
+        {
+          "year": 1973,
+          "value": 2239
+        },
+        {
+          "year": 1974,
+          "value": 2518
+        },
+        {
+          "year": 1975,
+          "value": 2871
+        },
+        {
+          "year": 1976,
+          "value": 3009
+        },
+        {
+          "year": 1977,
+          "value": 2970
+        },
+        {
+          "year": 1978,
+          "value": 3170
+        },
+        {
+          "year": 1979,
+          "value": 3611
+        },
+        {
+          "year": 1980,
+          "value": 3878
+        },
+        {
+          "year": 1981,
+          "value": 4093
+        },
+        {
+          "year": 1982,
+          "value": 4525
+        },
+        {
+          "year": 1983,
+          "value": 5068
+        },
+        {
+          "year": 1984,
+          "value": 5254
+        },
+        {
+          "year": 1985,
+          "value": 5638
+        },
+        {
+          "year": 1986,
+          "value": 6571
+        },
+        {
+          "year": 1987,
+          "value": 7049
+        },
+        {
+          "year": 1988,
+          "value": 7307
+        },
+        {
+          "year": 1989,
+          "value": 7657
+        },
+        {
+          "year": 1990,
+          "value": 8336
+        },
+        {
+          "year": 1991,
+          "value": 8982
+        },
+        {
+          "year": 1992,
+          "value": 9774
+        },
+        {
+          "year": 1993,
+          "value": 10695
+        },
+        {
+          "year": 1994,
+          "value": 11679
+        },
+        {
+          "year": 1995,
+          "value": 11984
+        },
+        {
+          "year": 1996,
+          "value": 13290
+        },
+        {
+          "year": 1997,
+          "value": 14203
+        },
+        {
+          "year": 1998,
+          "value": 14992
+        },
+        {
+          "year": 1999,
+          "value": 16346
+        },
+        {
+          "year": 2000,
+          "value": 18150
+        },
+        {
+          "year": 2001,
+          "value": 19714
+        },
+        {
+          "year": 2002,
+          "value": 54332
+        },
+        {
+          "year": 2003,
+          "value": 41324
+        },
+        {
+          "year": 2004,
+          "value": 41303
+        },
+        {
+          "year": 2005,
+          "value": 49899
+        },
+        {
+          "year": 2006,
+          "value": 55809
+        },
+        {
+          "year": 2007,
+          "value": 56154
+        },
+        {
+          "year": 2008,
+          "value": 61071
+        },
+        {
+          "year": 2009,
+          "value": 63851
+        },
+        {
+          "year": 2010,
+          "value": 67701
+        },
+        {
+          "year": 2011,
+          "value": 66955
+        },
+        {
+          "year": 2012,
+          "value": 67776
+        },
+        {
+          "year": 2013,
+          "value": 66263
+        },
+        {
+          "year": 2014,
+          "value": 67517
+        },
+        {
+          "year": 2015,
+          "value": 63863
+        },
+        {
+          "year": 2016,
+          "value": 61491
+        },
+        {
+          "year": 2017,
+          "value": 59404
+        },
+        {
+          "year": 2018,
+          "value": 59101
+        },
+        {
+          "year": 2019,
+          "value": 58849
+        },
+        {
+          "year": 2020,
+          "value": 53389
+        },
+        {
+          "year": 2021,
+          "value": 48668
+        },
+        {
+          "year": 2022,
+          "value": 42808
+        },
+        {
+          "year": 2023,
+          "value": 45363
+        },
+        {
+          "year": 2024,
+          "value": 49773
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Science Applications",
+      "subFieldId": "https://openalex.org/subfields/1706",
+      "values": [
+        {
+          "year": 1970,
+          "value": 508
+        },
+        {
+          "year": 1971,
+          "value": 334
+        },
+        {
+          "year": 1972,
+          "value": 402
+        },
+        {
+          "year": 1973,
+          "value": 417
+        },
+        {
+          "year": 1974,
+          "value": 463
+        },
+        {
+          "year": 1975,
+          "value": 451
+        },
+        {
+          "year": 1976,
+          "value": 551
+        },
+        {
+          "year": 1977,
+          "value": 445
+        },
+        {
+          "year": 1978,
+          "value": 513
+        },
+        {
+          "year": 1979,
+          "value": 443
+        },
+        {
+          "year": 1980,
+          "value": 409
+        },
+        {
+          "year": 1981,
+          "value": 482
+        },
+        {
+          "year": 1982,
+          "value": 508
+        },
+        {
+          "year": 1983,
+          "value": 606
+        },
+        {
+          "year": 1984,
+          "value": 736
+        },
+        {
+          "year": 1985,
+          "value": 683
+        },
+        {
+          "year": 1986,
+          "value": 796
+        },
+        {
+          "year": 1987,
+          "value": 773
+        },
+        {
+          "year": 1988,
+          "value": 816
+        },
+        {
+          "year": 1989,
+          "value": 810
+        },
+        {
+          "year": 1990,
+          "value": 765
+        },
+        {
+          "year": 1991,
+          "value": 785
+        },
+        {
+          "year": 1992,
+          "value": 844
+        },
+        {
+          "year": 1993,
+          "value": 925
+        },
+        {
+          "year": 1994,
+          "value": 1008
+        },
+        {
+          "year": 1995,
+          "value": 1106
+        },
+        {
+          "year": 1996,
+          "value": 1349
+        },
+        {
+          "year": 1997,
+          "value": 1408
+        },
+        {
+          "year": 1998,
+          "value": 1630
+        },
+        {
+          "year": 1999,
+          "value": 1663
+        },
+        {
+          "year": 2000,
+          "value": 1912
+        },
+        {
+          "year": 2001,
+          "value": 2219
+        },
+        {
+          "year": 2002,
+          "value": 2951
+        },
+        {
+          "year": 2003,
+          "value": 3195
+        },
+        {
+          "year": 2004,
+          "value": 3722
+        },
+        {
+          "year": 2005,
+          "value": 4204
+        },
+        {
+          "year": 2006,
+          "value": 4414
+        },
+        {
+          "year": 2007,
+          "value": 4861
+        },
+        {
+          "year": 2008,
+          "value": 5313
+        },
+        {
+          "year": 2009,
+          "value": 5989
+        },
+        {
+          "year": 2010,
+          "value": 6897
+        },
+        {
+          "year": 2011,
+          "value": 7267
+        },
+        {
+          "year": 2012,
+          "value": 8381
+        },
+        {
+          "year": 2013,
+          "value": 9359
+        },
+        {
+          "year": 2014,
+          "value": 10646
+        },
+        {
+          "year": 2015,
+          "value": 11698
+        },
+        {
+          "year": 2016,
+          "value": 12485
+        },
+        {
+          "year": 2017,
+          "value": 12921
+        },
+        {
+          "year": 2018,
+          "value": 13725
+        },
+        {
+          "year": 2019,
+          "value": 14683
+        },
+        {
+          "year": 2020,
+          "value": 15849
+        },
+        {
+          "year": 2021,
+          "value": 13482
+        },
+        {
+          "year": 2022,
+          "value": 11248
+        },
+        {
+          "year": 2023,
+          "value": 12618
+        },
+        {
+          "year": 2024,
+          "value": 14815
+        }
+      ]
+    },
+    {
+      "subFieldName": "Computer Vision and Pattern Recognition",
+      "subFieldId": "https://openalex.org/subfields/1707",
+      "values": [
+        {
+          "year": 1970,
+          "value": 1337
+        },
+        {
+          "year": 1971,
+          "value": 1291
+        },
+        {
+          "year": 1972,
+          "value": 1282
+        },
+        {
+          "year": 1973,
+          "value": 1398
+        },
+        {
+          "year": 1974,
+          "value": 1437
+        },
+        {
+          "year": 1975,
+          "value": 1619
+        },
+        {
+          "year": 1976,
+          "value": 1514
+        },
+        {
+          "year": 1977,
+          "value": 1616
+        },
+        {
+          "year": 1978,
+          "value": 1733
+        },
+        {
+          "year": 1979,
+          "value": 2084
+        },
+        {
+          "year": 1980,
+          "value": 2062
+        },
+        {
+          "year": 1981,
+          "value": 2151
+        },
+        {
+          "year": 1982,
+          "value": 2317
+        },
+        {
+          "year": 1983,
+          "value": 2502
+        },
+        {
+          "year": 1984,
+          "value": 2682
+        },
+        {
+          "year": 1985,
+          "value": 3005
+        },
+        {
+          "year": 1986,
+          "value": 3273
+        },
+        {
+          "year": 1987,
+          "value": 3621
+        },
+        {
+          "year": 1988,
+          "value": 4122
+        },
+        {
+          "year": 1989,
+          "value": 4478
+        },
+        {
+          "year": 1990,
+          "value": 5131
+        },
+        {
+          "year": 1991,
+          "value": 5859
+        },
+        {
+          "year": 1992,
+          "value": 6515
+        },
+        {
+          "year": 1993,
+          "value": 6954
+        },
+        {
+          "year": 1994,
+          "value": 7668
+        },
+        {
+          "year": 1995,
+          "value": 7867
+        },
+        {
+          "year": 1996,
+          "value": 9330
+        },
+        {
+          "year": 1997,
+          "value": 8824
+        },
+        {
+          "year": 1998,
+          "value": 10034
+        },
+        {
+          "year": 1999,
+          "value": 10627
+        },
+        {
+          "year": 2000,
+          "value": 11493
+        },
+        {
+          "year": 2001,
+          "value": 12348
+        },
+        {
+          "year": 2002,
+          "value": 35543
+        },
+        {
+          "year": 2003,
+          "value": 26263
+        },
+        {
+          "year": 2004,
+          "value": 25494
+        },
+        {
+          "year": 2005,
+          "value": 31940
+        },
+        {
+          "year": 2006,
+          "value": 34083
+        },
+        {
+          "year": 2007,
+          "value": 34962
+        },
+        {
+          "year": 2008,
+          "value": 37660
+        },
+        {
+          "year": 2009,
+          "value": 40855
+        },
+        {
+          "year": 2010,
+          "value": 44791
+        },
+        {
+          "year": 2011,
+          "value": 44501
+        },
+        {
+          "year": 2012,
+          "value": 45418
+        },
+        {
+          "year": 2013,
+          "value": 48158
+        },
+        {
+          "year": 2014,
+          "value": 48931
+        },
+        {
+          "year": 2015,
+          "value": 48927
+        },
+        {
+          "year": 2016,
+          "value": 48034
+        },
+        {
+          "year": 2017,
+          "value": 48307
+        },
+        {
+          "year": 2018,
+          "value": 51579
+        },
+        {
+          "year": 2019,
+          "value": 57351
+        },
+        {
+          "year": 2020,
+          "value": 55168
+        },
+        {
+          "year": 2021,
+          "value": 59578
+        },
+        {
+          "year": 2022,
+          "value": 58447
+        },
+        {
+          "year": 2023,
+          "value": 65497
+        },
+        {
+          "year": 2024,
+          "value": 66659
+        }
+      ]
+    },
+    {
+      "subFieldName": "Hardware and Architecture",
+      "subFieldId": "https://openalex.org/subfields/1708",
+      "values": [
+        {
+          "year": 1970,
+          "value": 382
+        },
+        {
+          "year": 1971,
+          "value": 409
+        },
+        {
+          "year": 1972,
+          "value": 458
+        },
+        {
+          "year": 1973,
+          "value": 546
+        },
+        {
+          "year": 1974,
+          "value": 563
+        },
+        {
+          "year": 1975,
+          "value": 690
+        },
+        {
+          "year": 1976,
+          "value": 821
+        },
+        {
+          "year": 1977,
+          "value": 886
+        },
+        {
+          "year": 1978,
+          "value": 953
+        },
+        {
+          "year": 1979,
+          "value": 1145
+        },
+        {
+          "year": 1980,
+          "value": 1126
+        },
+        {
+          "year": 1981,
+          "value": 1174
+        },
+        {
+          "year": 1982,
+          "value": 1616
+        },
+        {
+          "year": 1983,
+          "value": 1600
+        },
+        {
+          "year": 1984,
+          "value": 1551
+        },
+        {
+          "year": 1985,
+          "value": 1656
+        },
+        {
+          "year": 1986,
+          "value": 1998
+        },
+        {
+          "year": 1987,
+          "value": 2202
+        },
+        {
+          "year": 1988,
+          "value": 2441
+        },
+        {
+          "year": 1989,
+          "value": 2377
+        },
+        {
+          "year": 1990,
+          "value": 2595
+        },
+        {
+          "year": 1991,
+          "value": 2728
+        },
+        {
+          "year": 1992,
+          "value": 3004
+        },
+        {
+          "year": 1993,
+          "value": 3134
+        },
+        {
+          "year": 1994,
+          "value": 3262
+        },
+        {
+          "year": 1995,
+          "value": 3218
+        },
+        {
+          "year": 1996,
+          "value": 3292
+        },
+        {
+          "year": 1997,
+          "value": 3316
+        },
+        {
+          "year": 1998,
+          "value": 3411
+        },
+        {
+          "year": 1999,
+          "value": 3537
+        },
+        {
+          "year": 2000,
+          "value": 3766
+        },
+        {
+          "year": 2001,
+          "value": 3894
+        },
+        {
+          "year": 2002,
+          "value": 17192
+        },
+        {
+          "year": 2003,
+          "value": 10623
+        },
+        {
+          "year": 2004,
+          "value": 7645
+        },
+        {
+          "year": 2005,
+          "value": 9436
+        },
+        {
+          "year": 2006,
+          "value": 9075
+        },
+        {
+          "year": 2007,
+          "value": 8513
+        },
+        {
+          "year": 2008,
+          "value": 8706
+        },
+        {
+          "year": 2009,
+          "value": 9184
+        },
+        {
+          "year": 2010,
+          "value": 9498
+        },
+        {
+          "year": 2011,
+          "value": 9630
+        },
+        {
+          "year": 2012,
+          "value": 9518
+        },
+        {
+          "year": 2013,
+          "value": 9456
+        },
+        {
+          "year": 2014,
+          "value": 9407
+        },
+        {
+          "year": 2015,
+          "value": 8885
+        },
+        {
+          "year": 2016,
+          "value": 8518
+        },
+        {
+          "year": 2017,
+          "value": 7669
+        },
+        {
+          "year": 2018,
+          "value": 7440
+        },
+        {
+          "year": 2019,
+          "value": 6862
+        },
+        {
+          "year": 2020,
+          "value": 6022
+        },
+        {
+          "year": 2021,
+          "value": 5461
+        },
+        {
+          "year": 2022,
+          "value": 4729
+        },
+        {
+          "year": 2023,
+          "value": 4952
+        },
+        {
+          "year": 2024,
+          "value": 5945
+        }
+      ]
+    },
+    {
+      "subFieldName": "Human-Computer Interaction",
+      "subFieldId": "https://openalex.org/subfields/1709",
+      "values": [
+        {
+          "year": 1970,
+          "value": 155
+        },
+        {
+          "year": 1971,
+          "value": 127
+        },
+        {
+          "year": 1972,
+          "value": 104
+        },
+        {
+          "year": 1973,
+          "value": 151
+        },
+        {
+          "year": 1974,
+          "value": 132
+        },
+        {
+          "year": 1975,
+          "value": 162
+        },
+        {
+          "year": 1976,
+          "value": 155
+        },
+        {
+          "year": 1977,
+          "value": 161
+        },
+        {
+          "year": 1978,
+          "value": 153
+        },
+        {
+          "year": 1979,
+          "value": 164
+        },
+        {
+          "year": 1980,
+          "value": 185
+        },
+        {
+          "year": 1981,
+          "value": 221
+        },
+        {
+          "year": 1982,
+          "value": 245
+        },
+        {
+          "year": 1983,
+          "value": 256
+        },
+        {
+          "year": 1984,
+          "value": 250
+        },
+        {
+          "year": 1985,
+          "value": 297
+        },
+        {
+          "year": 1986,
+          "value": 386
+        },
+        {
+          "year": 1987,
+          "value": 356
+        },
+        {
+          "year": 1988,
+          "value": 431
+        },
+        {
+          "year": 1989,
+          "value": 559
+        },
+        {
+          "year": 1990,
+          "value": 579
+        },
+        {
+          "year": 1991,
+          "value": 626
+        },
+        {
+          "year": 1992,
+          "value": 720
+        },
+        {
+          "year": 1993,
+          "value": 811
+        },
+        {
+          "year": 1994,
+          "value": 820
+        },
+        {
+          "year": 1995,
+          "value": 931
+        },
+        {
+          "year": 1996,
+          "value": 993
+        },
+        {
+          "year": 1997,
+          "value": 1094
+        },
+        {
+          "year": 1998,
+          "value": 1186
+        },
+        {
+          "year": 1999,
+          "value": 1464
+        },
+        {
+          "year": 2000,
+          "value": 1662
+        },
+        {
+          "year": 2001,
+          "value": 1812
+        },
+        {
+          "year": 2002,
+          "value": 3302
+        },
+        {
+          "year": 2003,
+          "value": 3132
+        },
+        {
+          "year": 2004,
+          "value": 3135
+        },
+        {
+          "year": 2005,
+          "value": 3675
+        },
+        {
+          "year": 2006,
+          "value": 4216
+        },
+        {
+          "year": 2007,
+          "value": 4229
+        },
+        {
+          "year": 2008,
+          "value": 4890
+        },
+        {
+          "year": 2009,
+          "value": 5485
+        },
+        {
+          "year": 2010,
+          "value": 6277
+        },
+        {
+          "year": 2011,
+          "value": 6391
+        },
+        {
+          "year": 2012,
+          "value": 7103
+        },
+        {
+          "year": 2013,
+          "value": 7532
+        },
+        {
+          "year": 2014,
+          "value": 7845
+        },
+        {
+          "year": 2015,
+          "value": 8162
+        },
+        {
+          "year": 2016,
+          "value": 8360
+        },
+        {
+          "year": 2017,
+          "value": 8216
+        },
+        {
+          "year": 2018,
+          "value": 8923
+        },
+        {
+          "year": 2019,
+          "value": 9487
+        },
+        {
+          "year": 2020,
+          "value": 9228
+        },
+        {
+          "year": 2021,
+          "value": 9040
+        },
+        {
+          "year": 2022,
+          "value": 9283
+        },
+        {
+          "year": 2023,
+          "value": 10681
+        },
+        {
+          "year": 2024,
+          "value": 11597
+        }
+      ]
+    },
+    {
+      "subFieldName": "Information Systems",
+      "subFieldId": "https://openalex.org/subfields/1710",
+      "values": [
+        {
+          "year": 1970,
+          "value": 2716
+        },
+        {
+          "year": 1971,
+          "value": 1757
+        },
+        {
+          "year": 1972,
+          "value": 1838
+        },
+        {
+          "year": 1973,
+          "value": 1913
+        },
+        {
+          "year": 1974,
+          "value": 1995
+        },
+        {
+          "year": 1975,
+          "value": 2308
+        },
+        {
+          "year": 1976,
+          "value": 2241
+        },
+        {
+          "year": 1977,
+          "value": 2311
+        },
+        {
+          "year": 1978,
+          "value": 2436
+        },
+        {
+          "year": 1979,
+          "value": 2455
+        },
+        {
+          "year": 1980,
+          "value": 2613
+        },
+        {
+          "year": 1981,
+          "value": 2817
+        },
+        {
+          "year": 1982,
+          "value": 2892
+        },
+        {
+          "year": 1983,
+          "value": 3208
+        },
+        {
+          "year": 1984,
+          "value": 3502
+        },
+        {
+          "year": 1985,
+          "value": 3697
+        },
+        {
+          "year": 1986,
+          "value": 4218
+        },
+        {
+          "year": 1987,
+          "value": 4380
+        },
+        {
+          "year": 1988,
+          "value": 4676
+        },
+        {
+          "year": 1989,
+          "value": 4831
+        },
+        {
+          "year": 1990,
+          "value": 5203
+        },
+        {
+          "year": 1991,
+          "value": 5287
+        },
+        {
+          "year": 1992,
+          "value": 5681
+        },
+        {
+          "year": 1993,
+          "value": 6156
+        },
+        {
+          "year": 1994,
+          "value": 6648
+        },
+        {
+          "year": 1995,
+          "value": 7228
+        },
+        {
+          "year": 1996,
+          "value": 8614
+        },
+        {
+          "year": 1997,
+          "value": 9475
+        },
+        {
+          "year": 1998,
+          "value": 10163
+        },
+        {
+          "year": 1999,
+          "value": 12104
+        },
+        {
+          "year": 2000,
+          "value": 17552
+        },
+        {
+          "year": 2001,
+          "value": 22204
+        },
+        {
+          "year": 2002,
+          "value": 32810
+        },
+        {
+          "year": 2003,
+          "value": 35860
+        },
+        {
+          "year": 2004,
+          "value": 40592
+        },
+        {
+          "year": 2005,
+          "value": 46822
+        },
+        {
+          "year": 2006,
+          "value": 53357
+        },
+        {
+          "year": 2007,
+          "value": 60335
+        },
+        {
+          "year": 2008,
+          "value": 66718
+        },
+        {
+          "year": 2009,
+          "value": 75431
+        },
+        {
+          "year": 2010,
+          "value": 83824
+        },
+        {
+          "year": 2011,
+          "value": 90421
+        },
+        {
+          "year": 2012,
+          "value": 91622
+        },
+        {
+          "year": 2013,
+          "value": 97491
+        },
+        {
+          "year": 2014,
+          "value": 97389
+        },
+        {
+          "year": 2015,
+          "value": 100279
+        },
+        {
+          "year": 2016,
+          "value": 96762
+        },
+        {
+          "year": 2017,
+          "value": 101090
+        },
+        {
+          "year": 2018,
+          "value": 111211
+        },
+        {
+          "year": 2019,
+          "value": 120233
+        },
+        {
+          "year": 2020,
+          "value": 132463
+        },
+        {
+          "year": 2021,
+          "value": 128815
+        },
+        {
+          "year": 2022,
+          "value": 117460
+        },
+        {
+          "year": 2023,
+          "value": 125771
+        },
+        {
+          "year": 2024,
+          "value": 118923
+        }
+      ]
+    },
+    {
+      "subFieldName": "Signal Processing",
+      "subFieldId": "https://openalex.org/subfields/1711",
+      "values": [
+        {
+          "year": 1970,
+          "value": 477
+        },
+        {
+          "year": 1971,
+          "value": 484
+        },
+        {
+          "year": 1972,
+          "value": 490
+        },
+        {
+          "year": 1973,
+          "value": 577
+        },
+        {
+          "year": 1974,
+          "value": 571
+        },
+        {
+          "year": 1975,
+          "value": 623
+        },
+        {
+          "year": 1976,
+          "value": 648
+        },
+        {
+          "year": 1977,
+          "value": 688
+        },
+        {
+          "year": 1978,
+          "value": 740
+        },
+        {
+          "year": 1979,
+          "value": 844
+        },
+        {
+          "year": 1980,
+          "value": 844
+        },
+        {
+          "year": 1981,
+          "value": 912
+        },
+        {
+          "year": 1982,
+          "value": 951
+        },
+        {
+          "year": 1983,
+          "value": 1008
+        },
+        {
+          "year": 1984,
+          "value": 1027
+        },
+        {
+          "year": 1985,
+          "value": 1098
+        },
+        {
+          "year": 1986,
+          "value": 1224
+        },
+        {
+          "year": 1987,
+          "value": 1361
+        },
+        {
+          "year": 1988,
+          "value": 1504
+        },
+        {
+          "year": 1989,
+          "value": 1680
+        },
+        {
+          "year": 1990,
+          "value": 1869
+        },
+        {
+          "year": 1991,
+          "value": 2244
+        },
+        {
+          "year": 1992,
+          "value": 2339
+        },
+        {
+          "year": 1993,
+          "value": 2367
+        },
+        {
+          "year": 1994,
+          "value": 2401
+        },
+        {
+          "year": 1995,
+          "value": 2519
+        },
+        {
+          "year": 1996,
+          "value": 3115
+        },
+        {
+          "year": 1997,
+          "value": 3015
+        },
+        {
+          "year": 1998,
+          "value": 3329
+        },
+        {
+          "year": 1999,
+          "value": 3795
+        },
+        {
+          "year": 2000,
+          "value": 3935
+        },
+        {
+          "year": 2001,
+          "value": 3922
+        },
+        {
+          "year": 2002,
+          "value": 14647
+        },
+        {
+          "year": 2003,
+          "value": 10436
+        },
+        {
+          "year": 2004,
+          "value": 9312
+        },
+        {
+          "year": 2005,
+          "value": 12713
+        },
+        {
+          "year": 2006,
+          "value": 13257
+        },
+        {
+          "year": 2007,
+          "value": 12595
+        },
+        {
+          "year": 2008,
+          "value": 13454
+        },
+        {
+          "year": 2009,
+          "value": 14110
+        },
+        {
+          "year": 2010,
+          "value": 14916
+        },
+        {
+          "year": 2011,
+          "value": 14367
+        },
+        {
+          "year": 2012,
+          "value": 14821
+        },
+        {
+          "year": 2013,
+          "value": 15088
+        },
+        {
+          "year": 2014,
+          "value": 15328
+        },
+        {
+          "year": 2015,
+          "value": 14633
+        },
+        {
+          "year": 2016,
+          "value": 14510
+        },
+        {
+          "year": 2017,
+          "value": 13892
+        },
+        {
+          "year": 2018,
+          "value": 14429
+        },
+        {
+          "year": 2019,
+          "value": 15044
+        },
+        {
+          "year": 2020,
+          "value": 13820
+        },
+        {
+          "year": 2021,
+          "value": 13527
+        },
+        {
+          "year": 2022,
+          "value": 12907
+        },
+        {
+          "year": 2023,
+          "value": 13970
+        },
+        {
+          "year": 2024,
+          "value": 15688
+        }
+      ]
+    },
+    {
+      "subFieldName": "Software",
+      "subFieldId": "https://openalex.org/subfields/1712",
+      "values": [
+        {
+          "year": 1970,
+          "value": 237
+        },
+        {
+          "year": 1971,
+          "value": 164
+        },
+        {
+          "year": 1972,
+          "value": 177
+        },
+        {
+          "year": 1973,
+          "value": 193
+        },
+        {
+          "year": 1974,
+          "value": 210
+        },
+        {
+          "year": 1975,
+          "value": 303
+        },
+        {
+          "year": 1976,
+          "value": 287
+        },
+        {
+          "year": 1977,
+          "value": 322
+        },
+        {
+          "year": 1978,
+          "value": 346
+        },
+        {
+          "year": 1979,
+          "value": 331
+        },
+        {
+          "year": 1980,
+          "value": 366
+        },
+        {
+          "year": 1981,
+          "value": 451
+        },
+        {
+          "year": 1982,
+          "value": 472
+        },
+        {
+          "year": 1983,
+          "value": 511
+        },
+        {
+          "year": 1984,
+          "value": 554
+        },
+        {
+          "year": 1985,
+          "value": 668
+        },
+        {
+          "year": 1986,
+          "value": 752
+        },
+        {
+          "year": 1987,
+          "value": 786
+        },
+        {
+          "year": 1988,
+          "value": 848
+        },
+        {
+          "year": 1989,
+          "value": 910
+        },
+        {
+          "year": 1990,
+          "value": 941
+        },
+        {
+          "year": 1991,
+          "value": 1055
+        },
+        {
+          "year": 1992,
+          "value": 1106
+        },
+        {
+          "year": 1993,
+          "value": 1225
+        },
+        {
+          "year": 1994,
+          "value": 1174
+        },
+        {
+          "year": 1995,
+          "value": 1233
+        },
+        {
+          "year": 1996,
+          "value": 1321
+        },
+        {
+          "year": 1997,
+          "value": 1447
+        },
+        {
+          "year": 1998,
+          "value": 1386
+        },
+        {
+          "year": 1999,
+          "value": 1599
+        },
+        {
+          "year": 2000,
+          "value": 1774
+        },
+        {
+          "year": 2001,
+          "value": 1828
+        },
+        {
+          "year": 2002,
+          "value": 4134
+        },
+        {
+          "year": 2003,
+          "value": 3085
+        },
+        {
+          "year": 2004,
+          "value": 3057
+        },
+        {
+          "year": 2005,
+          "value": 3437
+        },
+        {
+          "year": 2006,
+          "value": 3663
+        },
+        {
+          "year": 2007,
+          "value": 3934
+        },
+        {
+          "year": 2008,
+          "value": 4077
+        },
+        {
+          "year": 2009,
+          "value": 4278
+        },
+        {
+          "year": 2010,
+          "value": 4622
+        },
+        {
+          "year": 2011,
+          "value": 4751
+        },
+        {
+          "year": 2012,
+          "value": 4651
+        },
+        {
+          "year": 2013,
+          "value": 4879
+        },
+        {
+          "year": 2014,
+          "value": 4883
+        },
+        {
+          "year": 2015,
+          "value": 5017
+        },
+        {
+          "year": 2016,
+          "value": 4554
+        },
+        {
+          "year": 2017,
+          "value": 4383
+        },
+        {
+          "year": 2018,
+          "value": 4265
+        },
+        {
+          "year": 2019,
+          "value": 4095
+        },
+        {
+          "year": 2020,
+          "value": 3457
+        },
+        {
+          "year": 2021,
+          "value": 3080
+        },
+        {
+          "year": 2022,
+          "value": 2469
+        },
+        {
+          "year": 2023,
+          "value": 2482
+        },
+        {
+          "year": 2024,
+          "value": 2966
+        }
+      ]
+    }
+  ]
+}

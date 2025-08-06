@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head><title>Quick Test</title></head>
+<body>
+<div id="out">Waiting...</div>
+<script type="module">
+    import {apiFetch} from './js/util/apiFetch.js';
+
+    document.getElementById('out').textContent = 'Running test...';
+
+    apiFetch('/concepts?name=Direction-of-Arrival%20Estimation%20Techniques&type=timeLine&level=4&top=2&year=2020')
+        .then(data => {
+            document.getElementById('out').textContent = JSON.stringify(data);
+        })
+        .catch(err => {
+            document.getElementById('out').textContent = '❌ ' + err.message;
+        });
+
+</script>
+</body>
+</html>

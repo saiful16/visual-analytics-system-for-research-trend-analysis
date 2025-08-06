@@ -1,0 +1,38 @@
+.legend-grid {
+    display: grid;
+    max-width: 80rem;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    padding-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.legend-item {
+    cursor: pointer;
+    padding: 4px 4px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    border: 1px solid transparent;
+    transition: all 0.2s;
+}
+
+.legend-item.active {
+    background: #e0e7ff;
+    font-weight: bold;
+}
+
+.legend-line {
+    width: 18px;
+    height: 3px;
+    margin-right: 6px;
+    flex-shrink: 0;
+}
+
+#encoding-modal.hidden {
+    display: none;
+}
+
