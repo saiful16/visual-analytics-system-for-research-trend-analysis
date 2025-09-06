@@ -9,7 +9,6 @@
  * Dependencies: topicList.js, apiFetch.js, infoModal.js
  */
 
-
 import {topicList} from '../util/topicList.js';
 import {apiFetch} from '../util/apiFetch.js';
 import {injectInfoAndModal} from '../util/infoModal.js';
@@ -50,10 +49,9 @@ export function renderLevel4_1({onSelect}) {
         levelId: 'l4-1',
         infoHTML: `
       <p class="mb-2 text-3xl"> Concept Ranking Heatmap Across Time</p>
-      <p class="mb-2"><strong>Overview:</strong> This heatmap shows how frequently concepts occurred with a selected topic over recent years, based on concept-level analysis.</p>
-      <p class="mb-2"><strong>Interaction:</strong> Each cell represents occurrence count for a concept in a given year, with darker blue indicating higher frequency.
-
-</p>
+      <p class="mb-2"><strong>What’s the purpose:</strong> Helps identify consistent, emerging, or declining concepts in relation to a research topic. </p>
+      <p class="mb-2"><strong>What’s being shown: </strong> Occurrence frequency of top-ranked concepts with a selected topic over time</p>
+      <p class="mb-2"><strong>How is it shown: </strong> Encodes frequency as cell color in a heatmap: concept on X-axis, year on Y-axis, and intensity by color.</p>
     `,
         modalContentHTML: `
       <h2 class="text-lg font-semibold mb-4">Detailed Visual Encoding and Functionality</h2>
@@ -62,24 +60,64 @@ export function renderLevel4_1({onSelect}) {
             To visualize the annual co-occurrence frequency of concepts associated with a selected topic using a heatmap. This helps users detect patterns and shifts in related concepts over time based on concept count per year.
         </p>
 
-      <h3 class="font-semibold mt-4 mb-2">Visual Encodings:</h3>
-      <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
-        <li><strong>X-axis:</strong> Displays the top N co-occurring concepts with the selected topic, sorted alphabetically.</li>
-        <li><strong>Y-axis:</strong> Represents the publication year (2020–2024).</li>
-        <li><strong>Cell Color:</strong> Encodes concept frequency (co-occurrence count) with darker blues indicating higher values. Zero values use a light gray.</li>
-        <li><strong>Color Scale Legend:</strong> Dynamically generated scale maps count ranges to color intensity using a custom threshold-based palette.</li>
-        <li><strong>Tooltip:</strong> Hovering over a cell displays the concept, year, and exact frequency value.</li>
-      </ul>
-      
-      <h3 class="font-semibold mt-4 mb-2">Functionalities:</h3>
-      <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
-        <li><strong>Topic Selector:</strong> Choose a topic of interest from the dropdown list.</li>
-        <li><strong>Level Selector:</strong> Adjusts the hierarchy depth of concept relationships (e.g., general to specific).</li>
-        <li><strong>Top-N Filter:</strong> Defines how many top-ranking concepts to show along the x-axis.</li>
-        <li><strong>Interactive Cells:</strong> Hover interaction reveals concept name, year, and exact co-occurrence count via tooltip.</li>
-        <li><strong>Responsive Legend:</strong> Automatically updates thresholds and color bins based on data range.</li>
+        <h3 class="font-semibold mt-4 mb-2">Visual Encodings:</h3>
+        <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700 mb-4">
+          <li><strong>X-Axis:</strong> Top <code>N</code> concepts (e.g., 20) most frequently co-occurring with the selected topic.</li>
+          <li><strong>Y-Axis:</strong> Publication years.</li>
+          <li><strong>Cell (Color):</strong> The intensity of blue in each cell encodes the frequency of that concept in that year:
+            <ul class="list-disc pl-5">
+              <li><code>Darker Blue</code>: Higher co-occurrence frequency</li>
+              <li><code>Lighter Blue</code>: Lower frequency</li>
+              <li><code>Gray</code>: Zero occurrence</li>
+            </ul>
+          </li>
+          <li><strong>Legend (Color Scale):</strong> Dynamic range quantized into buckets (0, 5–22, 22–29, … up to 326), with one swatch for zero.</li>
+          <li><strong>Tooltip:</strong> On hover, shows exact <em>concept name</em>, <em>year</em>, and <em>occurrence count</em>.</li>
+          <li><strong>Text Labels:</strong> X-axis labels are rotated concept names. Y-axis labels are year values aligned left.</li>
+        </ul>
+
+        <h3 class="font-semibold mt-4 mb-2">Functionalities:</h3>
+        <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700 mb-4">
+          <li><strong>Topic Dropdown:</strong> Selects the main topic for which concept-level heatmap is to be shown.</li>
+          <li><strong>Top-N Input:</strong> User-defined number of concepts to visualize (e.g., Top 20).</li>
+          <li><strong>Apply Button:</strong> Triggers chart rendering using the current selections.</li>
+          <li><strong>Interactive Tooltip:</strong> Hovering over any cell shows detailed info: concept, year, and count.</li>
+          <li><strong>Responsive Legend:</strong> Color bins and range dynamically adapt to actual data distribution, including:
+            <ul class="list-disc pl-5">
+              <li>Separate bin for 0 values (gray)</li>
+              <li>Threshold-based quantile bins for all non-zero values</li>
+            </ul>
+          </li>
+          <li><strong>Auto-Trigger:</strong> Chart renders once automatically when the page is loaded.</li>
+        </ul>
+
+
+      <h2 class="text-lg font-semibold mb-4 mt-2">Concept Levels</h2>
+      <p class="text-base text-gray-700">
+          In <strong class="text-black">OpenAlex</strong>, concepts are organized hierarchically.
+          The <code>level</code> value indicates how broad or specific a concept is:
+      </p>
+
+      <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700 mt-3">
+           <li><strong>Level 0:</strong> The broadest categories
+            <em>(e.g., Biology, Computer Science, Economics)</em>.
+          </li>
+          <li><strong>Level 1:</strong> Major subfields within those categories
+            <em>(e.g., Neuroscience under Biology, Artificial Intelligence under Computer Science)</em>.
+          </li>
+          <li><strong>Level 2:</strong> Narrower areas inside subfields
+            <em>(e.g., Deep Learning under AI, Cognitive Neuroscience under Neuroscience)</em>.
+          </li>
+          <li><strong>Level 3+:</strong> Highly specific topics and niches
+            <em>(e.g., Convolutional Neural Networks under Deep Learning)</em>.
+          </li>
       </ul>
 
+      <p class="text-sm text-gray-600 mt-3">
+          <strong class="text-black">Rule of Thumb:</strong> A lower
+          <code>level</code> means the concept is broader, while a higher
+          <code>level</code> indicates a more specialized topic.
+      </p>
     `
     });
 
@@ -103,7 +141,7 @@ export function renderLevel4_1({onSelect}) {
             const topicName = res.topicName || topic;
             heatmapTitle.textContent = topicName;
 
-            const years = [2020, 2021, 2022, 2023, 2024];
+            const years = [2024, 2023, 2022, 2021, 2020];
             const conceptSet = new Set();
             const countMap = {};
 
@@ -144,19 +182,17 @@ export function renderLevel4_1({onSelect}) {
             const x = d3.scaleBand().domain(concepts).range([0, width]);
             const y = d3.scaleBand().domain(years).range([0, height]);
 
+            // ==== CHANGED: Color scale (quantiles for >0, separate zero bucket) ====
             const counts = gridData.map(d => d.count);
             const nonZeroCounts = counts.filter(c => c > 0);
-            const minCount = Math.min(...nonZeroCounts);
-            const maxCount = Math.max(...nonZeroCounts);
-            const steps = 6;
-            const stepSize = Math.ceil((maxCount - minCount + 1) / steps);
-            const thresholds = Array.from({length: steps}, (_, i) => minCount + i * stepSize);
+            const zeroColor = '#f0f0f0';
+            const blues = d3.schemeBlues[6];
 
-            const colorPalette = ['#f0f0f0', ...d3.schemeBlues[6]];
+            const quant = d3.scaleQuantile()
+                .domain(nonZeroCounts)
+                .range(blues);
 
-            const colorScale = d3.scaleThreshold()
-                .domain([0, ...thresholds])
-                .range(colorPalette);
+            const colorFor = (c) => (c === 0 ? zeroColor : quant(c));
 
             svg.selectAll('rect')
                 .data(gridData)
@@ -166,7 +202,7 @@ export function renderLevel4_1({onSelect}) {
                 .attr('y', d => y(d.year))
                 .attr('width', cellSize)
                 .attr('height', cellSize)
-                .attr('fill', d => colorScale(d.count))
+                .attr('fill', d => colorFor(d.count)) // <— CHANGED: use colorFor
                 .attr('stroke', '#ccc')
                 .on('mouseover', function (event, d) {
                     tooltip.style.opacity = 1;
@@ -204,38 +240,56 @@ export function renderLevel4_1({onSelect}) {
                 .attr('font-size', '12px')
                 .text(d => d);
 
-            // Legend
+            // CHANGED: Legend for quantiles (+ zero bucket)
             legendContainer.innerHTML = `
-        <span class="mr-2 whitespace-nowrap">Legend (count scale):</span>
-        <svg class="heatmap-legend" width="700" height="40"></svg>
-      `;
+              <span class="mr-2 whitespace-nowrap">Legend (count scale):</span>
+              <svg class="heatmap-legend" width="700" height="40"></svg>
+            `;
 
             const legendSvg = d3.select(legendContainer.querySelector('svg'));
             const legendGroup = legendSvg.append('g').attr('transform', 'translate(10, 10)');
-            const legendWidth = 90;
+            const swatchW = 90;
+            const swatchH = 10;
+            const fmt = d3.format('~s');
 
-            const legendLabels = ['0', ...thresholds.map((t, i) => {
-                const from = t;
-                const to = thresholds[i + 1] ?? maxCount;
-                return `${from}-${to}`;
-            })];
-
-            colorPalette.forEach((color, i) => {
-                const xPos = i * legendWidth;
-
+            // If no non-zero counts, just show the zero swatch.
+            if (nonZeroCounts.length === 0) {
                 legendGroup.append('rect')
-                    .attr('x', xPos)
-                    .attr('width', legendWidth)
-                    .attr('height', 10)
-                    .attr('fill', color);
-
+                    .attr('x', 0).attr('width', swatchW).attr('height', swatchH)
+                    .attr('fill', zeroColor);
                 legendGroup.append('text')
-                    .attr('x', xPos + legendWidth / 2)
-                    .attr('y', 25)
-                    .attr('text-anchor', 'middle')
-                    .attr('font-size', '10px')
-                    .text(legendLabels[i]);
-            });
+                    .attr('x', swatchW / 2).attr('y', 25).attr('text-anchor', 'middle')
+                    .attr('font-size', '10px').text('0');
+            } else {
+                const qThresholds = quant.quantiles(); // cut points used by the quantile scale
+                const [minNZ, maxNZ] = d3.extent(nonZeroCounts);
+                const edges = [minNZ, ...qThresholds, maxNZ]; // bin edges
+
+                // Zero bucket
+                legendGroup.append('rect')
+                    .attr('x', 0).attr('width', swatchW).attr('height', swatchH)
+                    .attr('fill', zeroColor);
+                legendGroup.append('text')
+                    .attr('x', swatchW / 2).attr('y', 25).attr('text-anchor', 'middle')
+                    .attr('font-size', '10px').text('0');
+
+                // Quantile buckets
+                blues.forEach((color, i) => {
+                    const xPos = (i + 1) * swatchW; // +1 to account for zero bucket at index 0
+                    legendGroup.append('rect')
+                        .attr('x', xPos).attr('width', swatchW).attr('height', swatchH)
+                        .attr('fill', color);
+
+                    const from = Math.floor(edges[i]);
+                    const to = Math.ceil(edges[i + 1]);
+                    legendGroup.append('text')
+                      .attr('x', xPos + swatchW / 2).attr('y', 25)
+                      .attr('text-anchor', 'middle')
+                      .attr('font-size', '10px')
+                      .text(`${from}–${to}`);
+
+                });
+            }
 
         } catch (err) {
             chartArea.innerHTML = `<p class="text-red-500">Failed to load data.</p>`;

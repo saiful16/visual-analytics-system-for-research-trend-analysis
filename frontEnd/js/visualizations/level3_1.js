@@ -36,9 +36,10 @@ export function renderLevel3_1({topicName, onSelect}) {
         levelId: 'l3-1',
         infoHTML: `
       <p class="mb-2 text-3xl"> Annual Bar Chart of Topic-Specific Publication Volume</p>
-      <p class="mb-2"><strong>Overview:</strong> This bar chart displays the number of publications per year for a specific research topic, filtered by a selectable time range.</p>
-      <p class="mb-2"><strong>Interaction:</strong> Bar height encodes the number of publications in each year; tooltips show exact values on hover.</p>
-    `,
+      <p class="mb-2"><strong>What’s the purpose:</strong> To help users examine the temporal trend of a research topic's popularity and activity. Whether it’s growing, stable, or declining based on annual publication volume</p>
+      <p class="mb-2"><strong>What’s being shown: </strong> A bar chart displaying the number of publications per year for a selected research topic, with filterable year range.</p>
+      <p class="mb-2"><strong>How is it shown: </strong> X-axis encodes the year, Y-axis encodes the publication count and Bar height represents volume of publications</p>
+   `,
         modalContentHTML: `
       <h2 class="text-lg font-semibold mb-4">Detailed Visual Encoding and Functionality</h2>
         <p class="text-base text-gray-700">

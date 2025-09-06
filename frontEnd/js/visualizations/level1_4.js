@@ -24,8 +24,10 @@ export function renderLevel1_4({onSelect}) {
                 levelId: 'l1-4',
                 infoHTML: `
           <p class="mb-2 text-3xl">Temporal Heatmap Scatter Plot of Subfield Contribution with Topic-Level Overlay.</p>
-          <p class="mb-2"><strong>Overview:</strong> This chart shows how each computer science subfield contributed to total research output over time, along with its top topics.</p>
-          <p class="mb-2"><strong>Visual Encoding:</strong> Cell color represents subfield contribution (%), and overlaid dots show top topics by publication count.</p>
+          <p class="mb-2"><strong>What’s the purpose:</strong> Show the overall publication contribution percentage of a subfield compare to all other subfields.  </p>
+          <p class="mb-2"><strong>What’s being shown: </strong> Size of subfield compare to all publication of a year and distribution pattern of top publication topics of that subfield.</p>
+          <p class="mb-2"><strong>How is it shown: </strong> Cell color shows the size of the subfield of that year and dots shows distribution pattern of the top publication topics of that subfield of that year.</p>
+
           <p class="mb-2">Click on a Sub field from the visualization to view details in next level.</p>
 
         `,

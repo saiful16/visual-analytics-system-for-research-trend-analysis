@@ -43,13 +43,12 @@ export function renderLevel3_2({topicName, onSelect}) {
     injectInfoAndModal({
         container: wrapper,
         infoHTML: `
-<p class="mb-2 text-3xl"> Trend Comparison Line Chart: Topic vs Subfield vs Global</p>
+      <p class="mb-2 text-3xl"> Trend Comparison Line Chart: Topic vs Subfield vs Global</p>
       <p class="mb-2">
-        <strong>Overview:</strong> This chart compares the publication trend of a selected topic with its subfield and global research averages over time.
-      </p>
-      <p class="mb-2">
-        <strong>Visual Encoding:</strong> Three colored lines represent yearly publication trends for the topic, its subfield average, and the global average.
-      </p>
+      <p class="mb-2"><strong>What’s the purpose:</strong> To help users understand how a topic performs relative to broader research trends, identifying leading or lagging behaviors.</p>
+      <p class="mb-2"><strong>What’s being shown: </strong> A multi-line chart comparing the publication trend of a selected topic with its subfield and global averages over time.</p>
+      <p class="mb-2"><strong>How is it shown: </strong> Y-axis represent publication count as smoothed lines with distinct colors, X-axis represent years,tooltips on hover.</p>
+
     `,
         modalContentHTML: `
       <h2 class="text-lg font-semibold mb-4">Detailed Visual Encoding and Functionality</h2>

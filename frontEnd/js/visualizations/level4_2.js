@@ -28,7 +28,7 @@ export function renderLevel4_2({onSelect}) {
         <label>
           Level:
           <select id="levelSelect" class="border px-2 py-1">
-            ${[0, 1, 2, 3, 4, 5].map(l => `<option value="${l}" ${l === 2 ? 'selected' : ''}>${l}</option>`).join('')}
+            ${[0, 1, 2, 3, 4, 5].map(l => `<option value="${l}" ${l === 3 ? 'selected' : ''}>${l}</option>`).join('')}
           </select>
         </label>
         <label>
@@ -53,9 +53,10 @@ export function renderLevel4_2({onSelect}) {
         container,
         levelId: 'l4-2',
         infoHTML: `
-<p class="mb-2 text-3xl"> Top Concepts frequency Word Cloud by Topic and Year</p>
-      <p class="mb-2"><strong>Overview:</strong> This word cloud visualizes the most frequently occurring concepts with a selected research topic at a chosen hierarchy level and year.</p>
-      <p class="mb-2"><strong>Visual Encoding:</strong> The font size of each word indicates its frequency of occurrence with the selected topic, while colors and rotation enhance readability and differentiation.</p>
+      <p class="mb-2 text-3xl"> Top Concepts frequency Word Cloud by Topic and Year</p>
+      <p class="mb-2"><strong>What’s the purpose:</strong> To give users a quick overview of the dominant related concepts, helping identify key themes or associations at a glance.</p>
+      <p class="mb-2"><strong>What’s being shown: </strong> A word cloud showing the most frequent concepts occurring with a selected research topic in a given year and concept hierarchy level.</p>
+      <p class="mb-2"><strong>How is it shown: </strong> Uses font size to encode frequency, random colors for visual distinction, and randomized rotation and position for compact and engaging layout.</p>
     `,
         modalContentHTML: `
       <h2 class="text-lg font-semibold mb-4">Detailed Visual Encoding and Functionality</h2>
@@ -81,6 +82,32 @@ export function renderLevel4_2({onSelect}) {
         <li><strong>Tooltip:</strong> Hovering over a word shows its exact co-occurrence count (frequency) for clarity.</li>
       </ul>
 
+      <h2 class="text-lg font-semibold mb-4 mt-2">Concept Levels</h2>
+      <p class="text-base text-gray-700">
+          In <strong class="text-black">OpenAlex</strong>, concepts are organized hierarchically. 
+          The <code>level</code> value indicates how broad or specific a concept is:
+      </p>
+    
+      <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700 mt-3">
+           <li><strong>Level 0:</strong> The broadest categories 
+            <em>(e.g., Biology, Computer Science, Economics)</em>.
+          </li>
+          <li><strong>Level 1:</strong> Major subfields within those categories 
+            <em>(e.g., Neuroscience under Biology, Artificial Intelligence under Computer Science)</em>.
+          </li>
+          <li><strong>Level 2:</strong> Narrower areas inside subfields 
+            <em>(e.g., Deep Learning under AI, Cognitive Neuroscience under Neuroscience)</em>.
+          </li>
+          <li><strong>Level 3+:</strong> Highly specific topics and niches 
+            <em>(e.g., Convolutional Neural Networks under Deep Learning)</em>.
+          </li>
+      </ul>
+    
+      <p class="text-sm text-gray-600 mt-3">
+          <strong class="text-black">Rule of Thumb:</strong> A lower 
+          <code>level</code> means the concept is broader, while a higher 
+          <code>level</code> indicates a more specialized topic.
+      </p>
     `
     });
 

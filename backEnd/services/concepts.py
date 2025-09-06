@@ -15,48 +15,92 @@ CONCEPTS_DIR = os.path.join("data", "concepts")
 
 
 # Load and return top-N concept frequency data across years for a given topic and concept level
+
+
 def get_heatmap_data(name, level, top=None):
     topic_file = os.path.join(CONCEPTS_DIR, f"{name}.json")
 
+    # 1) Read file
     try:
         with open(topic_file, "r") as f:
             concept_data = json.load(f)
     except FileNotFoundError:
         return {"error": f"No concept data found for topic '{name}'"}
 
+    # 2) Parse params
     try:
         level_key = str(level)
-        top = int(top) if top is not None else 10
-    except:
+        n_top = int(top) if top is not None else 10
+        if n_top <= 0:
+            return {"error": "'top' must be a positive integer"}
+    except Exception:
         return {"error": "Invalid 'level' or 'top' parameter"}
 
-    response = {
-        "topicName": name,
-        "level": level_key,
-        "data": []
-    }
-
+    # 3) Validate level
     levels_data = concept_data.get("levels", {})
     if level_key not in levels_data:
         return {"error": f"Level {level_key} not found for topic '{name}'"}
 
     year_dict = levels_data[level_key]
 
-    for year_str, concepts in year_dict.items():
+    # 4) Only consider years 2024..2020 (desc)
+    target_years = [str(y) for y in range(2024, 2019, -1)]
+
+    # 5) Build the union (ordered) of "first n" concepts taken per year
+    #    We’ll keep insertion order using a list + set pair
+    concept_order = []
+    concept_seen = set()
+
+    # Pre-extract the "first n" per year (for later lookup as well)
+    first_n_per_year = {}  # year_str -> list[{"concept":..., "count":...}]
+    for y in target_years:
+        concepts = year_dict.get(y)
         if not isinstance(concepts, list) or not concepts:
             continue
+        first_n = concepts[:n_top]
+        first_n_per_year[y] = first_n
+        for item in first_n:
+            c = item.get("concept")
+            if c is not None and c not in concept_seen:
+                concept_seen.add(c)
+                concept_order.append(c)
 
-        selected = concepts[:abs(top)] if top > 0 else concepts[-abs(top):]
+    # If we found nothing across the years, return empty data with the same shape
+    response = {
+        "topicName": name,
+        "level": level_key,
+        "data": []
+    }
 
-        year_data = {
-            "year": int(year_str),
-            "value": [
-                {"concept": c["concept"], "count": c["count"]}
-                for c in selected
-            ]
-        }
+    if not concept_order:
+        # Still list the (available) years in range, but with empty "value"
+        for y in target_years:
+            if y in year_dict:
+                response["data"].append({"year": int(y), "value": []})
+        return response
 
-        response["data"].append(year_data)
+    # 6) For each selected year, look up counts for every concept in the union
+    for y in target_years:
+        concepts = year_dict.get(y)
+        if not isinstance(concepts, list) or not concepts:
+            # year exists but no list/empty → still include with zeros
+            if y in year_dict:
+                response["data"].append({
+                    "year": int(y),
+                    "value": [{"concept": c, "count": 0} for c in concept_order]
+                })
+            continue
+
+        # Build quick lookup for this year
+        lookup = {item.get("concept"): int(item.get("count", 0)) for item in concepts if "concept" in item}
+
+        # Compose values in the union order
+        year_values = [{"concept": c, "count": lookup.get(c, 0)} for c in concept_order]
+
+        response["data"].append({
+            "year": int(y),
+            "value": year_values
+        })
 
     return response
 
