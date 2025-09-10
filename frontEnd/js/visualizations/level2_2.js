@@ -82,16 +82,13 @@ export function renderLevel2_2({ subField, onSelect }) {
     </div>
 
     <div class="mb-4 font-sans text-sm" id="color-legend">
-      <div class="mb-1 font-medium">Color Scale: Growth Value</div>
-      <div class="flex gap-3 items-center flex-wrap">
-        <div class="flex items-center gap-1"><div class="w-5 h-5" style="background:#b53027"></div><span>&le; 0</span></div>
-        <div class="flex items-center gap-1"><div class="w-5 h-5" style="background:#a8ddb5"></div><span>0–10</span></div>
-        <div class="flex items-center gap-1"><div class="w-5 h-5" style="background:#7bccc4"></div><span>10–20</span></div>
-        <div class="flex items-center gap-1"><div class="w-5 h-5" style="background:#4eb3d3"></div><span>20–30</span></div>
-        <div class="flex items-center gap-1"><div class="w-5 h-5" style="background:#2b8cbe"></div><span>30–40</span></div>
-        <div class="flex items-center gap-1"><div class="w-5 h-5" style="background:#08589e"></div><span>40–60</span></div>
-        <div class="flex items-center gap-1"><div class="w-5 h-5" style="background:#084081"></div><span>&gt; 60</span></div>
+      <div class="mb-1 font-medium">Color Scale: Growth Rate</div>
+      <div class="flex items-center flex-wrap gap-2">
+        <div class="flex items-center gap-1"><div class="w-5 h-3" style="background:red"></div><span>Decline</span></div>
+        <div class="flex items-center gap-1"><div class="w-5 h-3" style="background:#808080"></div><span>+/-5%</span></div>
+        <div class="flex items-center gap-1"><div class="w-5 h-3" style="background:blue"></div><span>Growth</span></div>
       </div>
+      <div class="text-xs text-gray-600 mt-1">Colors ramp from red (decline) through gray (neutral) to blue (growth); scale adapts to the selected year range and is robust to outliers.</div>
     </div>
 
     <div id="pinnedAreaWrap" class="mb-4 ${cache.compareMode && (cache.pinned?.length || 0) > 0 ? '' : 'hidden'} border-t pt-4">
@@ -113,7 +110,6 @@ export function renderLevel2_2({ subField, onSelect }) {
        <p class="mb-2"><strong>What’s the purpose:</strong> Show the growth in publication count of topics over time and compare topics.</p>
        <p class="mb-2"><strong>What’s being shown: </strong> Growth rate of topics in the selected subfield.</p>
        <p class="mb-2"><strong>How is it shown: </strong> Each row represents a topic and the cell color shows growth rate over time. Interactive options are used for comparison.</p>
-
     `,
     modalContentHTML: `
       <h2 class="text-lg font-semibold mb-4">Detailed Visual Encoding and Functionality</h2>
@@ -124,17 +120,7 @@ export function renderLevel2_2({ subField, onSelect }) {
       <h3 class="text-base font-semibold mb-2">Visual Encodings:</h3>
       <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700 mb-4">
         <li><strong>Grid Structure:</strong> Each <em>row</em> represents a research topic in the selected subfield; each <em>column</em> represents a year in the selected range.</li>
-        <li><strong>Cell Color:</strong> Encodes <em>growth value</em> of publications per year for each topic using a diverging color scale:
-          <ul class="list-disc pl-5">
-            <li><span style="background:#b53027;padding:2px 5px;border:1px solid #ccc;"></span>  ≤ 0 (Negative/Declining growth)</li>
-            <li><span style="background:#a8ddb5;padding:2px 5px;border:1px solid #ccc;"></span>  0–10</li>
-            <li><span style="background:#7bccc4;padding:2px 5px;border:1px solid #ccc;"></span>  10–20</li>
-            <li><span style="background:#4eb3d3;padding:2px 5px;border:1px solid #ccc;"></span>  20–30</li>
-            <li><span style="background:#2b8cbe;padding:2px 5px;border:1px solid #ccc;"></span>  30–40</li>
-            <li><span style="background:#08589e;padding:2px 5px;border:1px solid #ccc;"></span>  40–60</li>
-            <li><span style="background:#084081;padding:2px 5px;border:1px solid #ccc;"></span>  > 60 (High growth)</li>
-          </ul>
-        </li>
+        <li><strong>Cell Color:</strong> Encodes <em>growth rate</em> of publications per year for each topic using a diverging color scale with a neutral band (−5% to +5%).</li>
         <li><strong>Axes Labels:</strong> 
           <ul>
             <li><em>Left side (Y-axis):</em> Topic names (wrapped if long, with tooltip on hover).</li>
@@ -209,17 +195,34 @@ export function renderLevel2_2({ subField, onSelect }) {
     window.dispatchEvent(new CustomEvent(HOVER_EVT, { detail: { year } }));
   }
 
-  // Colors
-  function getColor(value) {
-    if (value <= 0) return '#b53027';
-    if (value <= 10) return '#a8ddb5';
-    if (value <= 20) return '#7bccc4';
-    if (value <= 30) return '#4eb3d3';
-    if (value <= 40) return '#2b8cbe';
-    if (value <= 60) return '#08589e';
-    if (value > 60) return '#084081';
-    return '#ffffff';
+  // ------ Unified diverging color builder (same as level1_3 behavior) ------
+  function buildGrowthColorScale(allValues) {
+    const vals = (allValues || []).filter(Number.isFinite).sort(d3.ascending);
+    const NEUTRAL_COLOR = '#808080'; // exact neutral
+    const ZERO_BAND = 5;             // ±5% neutral gray
+    const MIN_T = 0.18;              // chroma jump just outside neutral
+
+    if (!vals.length) return () => NEUTRAL_COLOR;
+
+    const p10 = d3.quantileSorted(vals, 0.10);
+    const p90 = d3.quantileSorted(vals, 0.90);
+    const M = Math.max(Math.abs(p10 ?? 0), Math.abs(p90 ?? 0)) || 1;
+
+    const base = (t) => {
+      if (t < 0.5) return d3.interpolateRgb('red', NEUTRAL_COLOR)(t * 2);
+      return d3.interpolateRgb(NEUTRAL_COLOR, 'blue')((t - 0.5) * 2);
+    };
+
+    const negT = d3.scaleLinear().domain([-M, -ZERO_BAND]).range([0, 0.5 - MIN_T]).clamp(true);
+    const posT = d3.scaleLinear().domain([ ZERO_BAND,  M]).range([0.5 + MIN_T, 1]).clamp(true);
+
+    return (g) => {
+      if (!Number.isFinite(g)) return NEUTRAL_COLOR;
+      if (Math.abs(g) <= ZERO_BAND) return NEUTRAL_COLOR;
+      return base(g < 0 ? negT(g) : posT(g));
+    };
   }
+  // ------------------------------------------------------------------------
 
   function wrapText(text, maxCharsPerLine) {
     const words = (text || '').split(' ');
@@ -369,7 +372,7 @@ export function renderLevel2_2({ subField, onSelect }) {
   let pinnedHoverHandler = null;
 
   //  MAIN PAGE RENDER
-  function drawPage(ui, pageItems) {
+  function drawPage(ui, pageItems, colorFor) {
     const svgWidth  = ui.years.length * CELL_W + LEFT_GUTTER;
     const svgHeight = pageItems.length   * CELL_H + TOP_PAD + BOTTOM_PAD;
 
@@ -402,7 +405,7 @@ export function renderLevel2_2({ subField, onSelect }) {
       .style('cursor', 'pointer')
       .on('click', (_, d) => {
         if (compareMode) {
-          if (!pinned.includes(d.topicName)) { pinned.push(d.topicName); persistPinned(); renderPinned(ui); }
+          if (!pinned.includes(d.topicName)) { pinned.push(d.topicName); persistPinned(); renderPinned(ui, colorFor); }
         } else if (typeof onSelect === 'function') {
           onSelect(d.topicName);
         }
@@ -430,7 +433,7 @@ export function renderLevel2_2({ subField, onSelect }) {
         svg.append('rect')
           .attr('x', x).attr('y', y)
           .attr('width', CELL_W - 1).attr('height', CELL_H - 1)
-          .attr('fill', value == null ? '#f5f5f5' : getColor(value));
+          .attr('fill', value == null ? '#f5f5f5' : colorFor(+value));
 
         svg.append('rect')
           .attr('x', x).attr('y', y)
@@ -439,7 +442,7 @@ export function renderLevel2_2({ subField, onSelect }) {
           .style('cursor', 'pointer')
           .on('click', () => {
             if (compareMode) {
-              if (!pinned.includes(topic.topicName)) { pinned.push(topic.topicName); persistPinned(); renderPinned(ui); }
+              if (!pinned.includes(topic.topicName)) { pinned.push(topic.topicName); persistPinned(); renderPinned(ui, colorFor); }
             } else if (typeof onSelect === 'function') {
               onSelect(topic.topicName);
             }
@@ -454,7 +457,7 @@ export function renderLevel2_2({ subField, onSelect }) {
   }
 
   // PINNED COMBINED HEATMAP
-  function renderPinned(ui) {
+  function renderPinned(ui, colorFor) {
     pinnedDiv.innerHTML = '';
     pinnedWrap.classList.toggle('hidden', !compareMode || !pinned.length);
     if (!pinned.length) return;
@@ -487,7 +490,7 @@ export function renderLevel2_2({ subField, onSelect }) {
       const unpin = () => {
         pinned = pinned.filter(n => n !== topic.topicName);
         persistPinned();
-        renderPinned(ui);
+        renderPinned(ui, colorFor);
       };
 
       // row-wide click target to unpin
@@ -521,7 +524,7 @@ export function renderLevel2_2({ subField, onSelect }) {
         svg.append('rect')
           .attr('x', x0).attr('y', y0)
           .attr('width', CELL_W - 1).attr('height', CELL_H - 1)
-          .attr('fill', val == null ? '#f5f5f5' : getColor(val));
+          .attr('fill', val == null ? '#f5f5f5' : colorFor(+val));
 
         svg.append('rect')
           .attr('x', x0).attr('y', y0)
@@ -544,6 +547,17 @@ export function renderLevel2_2({ subField, onSelect }) {
 
     filteredData = sortTopics(filterTopics(topicData, ui), ui);
 
+    // Collect all visible growth values for the selected year range (for scale calibration)
+    const allVisibleValues = [];
+    filteredData.forEach(t => {
+      t.values.forEach(v => {
+        if (v.year >= ui.from && v.year <= ui.to && v.value != null) {
+          allVisibleValues.push(+v.value);
+        }
+      });
+    });
+    const colorFor = buildGrowthColorScale(allVisibleValues);
+
     const totalPages = Math.max(1, Math.ceil(filteredData.length / ui.rows));
     pageIndex = Math.min(pageIndex, totalPages - 1);
     persistPage();
@@ -552,8 +566,8 @@ export function renderLevel2_2({ subField, onSelect }) {
     const pageItems = filteredData.slice(start, start + ui.rows);
 
     setPaginationState(totalPages);
-    drawPage(ui, pageItems);
-    renderPinned(ui); // keep pinned synchronized with year range & sort
+    drawPage(ui, pageItems, colorFor);
+    renderPinned(ui, colorFor); // keep pinned synchronized with year range & sort
   }
 
   // Wiring
@@ -602,14 +616,15 @@ export function renderLevel2_2({ subField, onSelect }) {
   });
 
   // Compare toggle
-  toggleCompareBtn.addEventListener('click', () => {
-    compareMode = !compareMode;
-    toggleCompareBtn.classList.toggle('bg-green-600', compareMode);
-    toggleCompareBtn.textContent = compareMode ? 'Exit Compare' : 'Compare Charts';
-    pinnedWrap.classList.toggle('hidden', !compareMode || !pinned.length);
-    persistCompare();
-    if (compareMode) renderPinned(getUI());
-  });
+    toggleCompareBtn.addEventListener('click', () => {
+      compareMode = !compareMode;
+      toggleCompareBtn.classList.toggle('bg-green-600', compareMode);
+      toggleCompareBtn.textContent = compareMode ? 'Exit Compare' : 'Compare Charts';
+      persistCompare();
+
+      // Recompute the color scale from the current visible data and re-render everything
+      refreshAll();
+    });
 
   // Fetch + init
   chartContainer.innerHTML = '<div class="text-sm text-gray-600">Loading…</div>';

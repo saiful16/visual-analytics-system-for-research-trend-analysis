@@ -16,7 +16,7 @@ import { injectInfoAndModal } from '../util/infoModal.js';
 const L13_DEFAULTS = {
   yearStart: 2001,
   yearEnd: 2024,
-  yearInterval: 2,
+  yearInterval: 1,
   focusMode: false,
   selectedSubfields: ['Artificial Intelligence'], // original default
 };
@@ -114,8 +114,8 @@ export function renderLevel1_3({ onSelect, onSelectTopic }) {
       </label>
 
       <label class="flex items-center gap-1">
-        Interval:
-        <input class="w-16 bg-white text-sm px-2 py-2 border border-gray-300 rounded-sm" type="number" id="yearInterval" value="${Number.isFinite(L13_CACHE.yearInterval) ? L13_CACHE.yearInterval : 2}" min="1" />
+        Sampling Interval:
+        <input class="w-16 bg-white text-sm px-2 py-2 border border-gray-300 rounded-sm" type="number" id="yearInterval" value="${Number.isFinite(L13_CACHE.yearInterval) ? L13_CACHE.yearInterval : 1}" min="1" />
       </label>
 
       <button id="applyFilterBtn" class="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-sm">
@@ -373,28 +373,49 @@ export function renderLevel1_3({ onSelect, onSelectTopic }) {
         });
 
         //  Dynamic diverging color scale (symmetric around 0, robust to outliers)
+        //  Dynamic diverging color scale (symmetric, robust to outliers)
         const growthRates = cells.map(d => d.growthRate).filter(Number.isFinite).sort(d3.ascending);
-        // neutral fallback
-        let color = () => '#cccccc';
+
+        // defaults
+        let color = () => '#808080'; // fallback = neutral gray
         if (growthRates.length > 0) {
           const p10 = d3.quantileSorted(growthRates, 0.10);
           const p90 = d3.quantileSorted(growthRates, 0.90);
-          const M = Math.max(Math.abs(p10 ?? 0), Math.abs(p90 ?? 0)) || 1; // avoid zero span
-          const base = d3.scaleDiverging()
-                      .domain([-M, 0, M])                           // negative → neutral → positive
-                      .interpolator(t => {
-                        if (t < 0.5) {
-                          return d3.interpolateRgb("red", "gray")(t * 2);   // red → neutral (gray)
-                        } else {
-                          return d3.interpolateRgb("gray", "blue")((t - 0.5) * 2); // neutral → blue
-                        }
-                      })
-                      .clamp(true);
+          const M = Math.max(Math.abs(p10 ?? 0), Math.abs(p90 ?? 0)) || 1;
 
+          const ZERO_BAND = 5;              // ±5% treated as neutral
+          const NEUTRAL_COLOR = '#808080';  // match legend
+          const MIN_T = 0.18;               // minimum chroma jump just outside the neutral band
 
-          const ZERO_BAND = 5; // ±5% treated as neutral
-          color = g => (Math.abs(g) <= ZERO_BAND ? '#ececec' : base(g));
+          // Base diverging interpolator that passes exactly through NEUTRAL_COLOR at 0.5
+          const base = (t) => {
+            if (t < 0.5) {
+              return d3.interpolateRgb("red", NEUTRAL_COLOR)(t * 2);             // red → neutral
+            } else {
+              return d3.interpolateRgb(NEUTRAL_COLOR, "blue")((t - 0.5) * 2);    // neutral → blue
+            }
+          };
+
+          // Map negative and positive ranges to keep a visible gap around 0.5
+          const negT = d3.scaleLinear()     // [-M, -ZERO_BAND] → [0, 0.5 - MIN_T]
+            .domain([-M, -ZERO_BAND])
+            .range([0, 0.5 - MIN_T])
+            .clamp(true);
+
+          const posT = d3.scaleLinear()     // [ZERO_BAND, M] → [0.5 + MIN_T, 1]
+            .domain([ZERO_BAND, M])
+            .range([0.5 + MIN_T, 1])
+            .clamp(true);
+
+          // Final color function with a neutral “dead zone” and a chroma jump outside it
+          color = (g) => {
+            if (!Number.isFinite(g)) return NEUTRAL_COLOR;
+            if (Math.abs(g) <= ZERO_BAND) return NEUTRAL_COLOR;   // neutral band ⇒ exact gray
+            const t = g < 0 ? negT(g) : posT(g);
+            return base(t);
+          };
         }
+
 
         // Draw cells
         const cellG = g
