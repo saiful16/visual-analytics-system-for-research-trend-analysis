@@ -38,6 +38,7 @@ export function renderLevel2_3({ subField, onSelect }) {
 
   const container = document.getElementById('plot');
   container.innerHTML = `
+    <div><h3 class="text-lg font-semibold mb-2">Subfield Name: ${subField}</h3></div>
     <div id="controls" class="mb-4 flex gap-4 items-center flex-wrap font-sans">
       <label>From: <input type="number" id="fromYear" min="1970" max="2024" value="${escAttr(cache.from)}" class="border px-2 py-1 w-20" /></label>
       <label>To: <input type="number" id="toYear" min="1970" max="2024" value="${escAttr(cache.to)}" class="border px-2 py-1 w-20" /></label>
@@ -46,6 +47,10 @@ export function renderLevel2_3({ subField, onSelect }) {
       <span id="pageIndicator" class="text-sm font-semibold">Page 1</span>
       <button id="nextPage" class="bg-gray-300 px-2 py-1 rounded">Next</button>
       <button id="applyFilter" class="bg-blue-600 text-white px-4 py-2 rounded">Apply Filter</button>
+      <button id="compareBtn" class="bg-blue-600 text-white px-4 py-2 rounded" disabled>
+          ${cache.compareMode ? 'Show All' : `Compare Selected (${(cache.selectedTopics || []).length})`}
+      </button>
+      <button id="clearSelection" class="bg-gray-200 px-3 py-1 rounded disabled:opacity-50" disabled>Clear</button>
     </div>
 
     <!-- Selection + Compare -->
@@ -53,10 +58,7 @@ export function renderLevel2_3({ subField, onSelect }) {
       <div class="text-sm font-semibold mt-1">Selected Topics:</div>
       <div id="selectedChips" class="flex flex-wrap gap-2"></div>
       <div class="ml-auto flex gap-2">
-        <button id="compareBtn" class="bg-indigo-600 text-white px-3 py-1 rounded disabled:opacity-50" disabled>
-          ${cache.compareMode ? 'Show All' : `Compare Selected (${(cache.selectedTopics || []).length})`}
-        </button>
-        <button id="clearSelection" class="bg-gray-200 px-3 py-1 rounded disabled:opacity-50" disabled>Clear</button>
+
       </div>
     </div>
 
@@ -289,7 +291,7 @@ export function renderLevel2_3({ subField, onSelect }) {
 
     const isShortChart = topicsToShow.length < 11;
     chartContainer.innerHTML = `
-      <div style="display: flex; justify-content: center; ${isShortChart ? 'align-items: center; height: 500px;' : ''}">
+      <div style="display: flex; justify-content: left; ${isShortChart ? 'align-items: center; height: 500px;' : ''}">
         <div style="display: flex; flex-direction: row;">
           <div id="streamChart"></div>
           <div id="legendContainer" style="height: ${chartHeight}px; overflow-y: auto; margin-left: 20px; width: 240px;"></div>

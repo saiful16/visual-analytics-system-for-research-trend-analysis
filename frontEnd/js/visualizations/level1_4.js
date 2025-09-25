@@ -186,7 +186,7 @@ export function renderLevel1_4({onSelect}) {
                     .attr('y', (d, i) => i * cellHeight + cellHeight / 2)
                     .attr('text-anchor', 'end')
                     .attr('alignment-baseline', 'middle')
-                    .attr('font-size', '9px')
+                    .attr('font-size', '12px')
                     .each(function (d) {
                         const words = d.split(' ');
                         const lines = [];

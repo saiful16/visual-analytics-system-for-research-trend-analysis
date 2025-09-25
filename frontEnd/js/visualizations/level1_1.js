@@ -313,7 +313,7 @@ export function renderLevel1_1({ onSelect } = {}) {
       // Click on plot → drilldown (does not alter highlight selection, preserving original behavior)
       container.on('plotly_click', (ev) => {
         const sf = ev?.points?.[0]?.customdata;
-        if (sf && typeof onSelect === 'function') onSelect(sf);
+        if (sf && typeof onSelect === 'function') onSelect(sf[0]);
       });
 
       // Responsive

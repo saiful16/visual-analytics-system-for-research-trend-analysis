@@ -41,7 +41,7 @@ export function renderLevel4_2({onSelect}) {
           Top N:
           <input type="number" id="topInput" class="border px-2 py-1 w-20" value="30" min="1">
         </label>
-        <button id="applyBtn" class="bg-blue-600 text-white px-4 py-2 rounded">Apply</button>
+        <button id="applyBtn" class="bg-blue-600 text-white px-4 py-2 rounded">Apply Filter</button>
       </div>
     </div>
     <h3 id="wordCloudTitle" class="text-lg font-semibold mb-3 text-left"></h3>

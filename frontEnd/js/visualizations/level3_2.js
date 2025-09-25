@@ -31,7 +31,7 @@ export function renderLevel3_2({topicName, onSelect}) {
         <label>To Year:
           <input type="number" id="toYear" min="1970" max="2024" value="2024" class="border px-2 py-1 w-24">
         </label>
-        <button id="applyRange" class="bg-blue-600 text-white px-4 py-2 rounded">Apply</button>
+        <button id="applyRange" class="bg-blue-600 text-white px-4 py-2 rounded">Apply Filter</button>
       </div>
       <div id="legend" class="flex gap-8 items-center flex-wrap text-sm pl-1 pt-1"></div>
     </div>

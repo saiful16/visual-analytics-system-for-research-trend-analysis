@@ -99,7 +99,7 @@ export function renderLevel2_1({ subField, onSelect }) {
   // Controls + layout
   const layout = document.createElement('div');
   layout.innerHTML = `
-    <div><h3 class="text-lg font-semibold mb-2">Subfield: ${subField}</h3></div>
+    <div><h3 class="text-lg font-semibold mb-2">Subfield Name: ${subField}</h3></div>
 
     <div id="controls" class="mb-4 flex gap-4 items-center flex-wrap font-sans">
       <label>From:
